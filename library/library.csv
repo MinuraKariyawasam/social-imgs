@@ -1,9 +1,42 @@
-file,mood,use_for
-fen-neutral.png,flat,not for inner slides (fen is cover only)
-fen-side-eye.png,judging,not for inner slides (fen is cover only)
-fen-asleep.png,waiting,not for inner slides (fen is cover only)
-bots-door.svg,robot walking through an open door,crawlers and bots being let in or blocked
-named-bubbles.svg,speech bubbles naming a brand with a crossed-out link,mentions vs backlinks or word of mouth
-answer-doc.svg,page with a question heading and highlighted first lines,answer-first writing or page structure
-tiny-flag.svg,small flag planted on a small hill,owning a narrow niche or category
-monthly-checklist.svg,calendar checklist with ticks,routines tracking or checking every week or month
+file,mood,use_for,focus_x,focus_y,zoom
+fen-neutral.png,retired,cover only (fen is not used on inner slides),,,
+fen-side-eye.png,retired,cover only (fen is not used on inner slides),,,
+fen-asleep.png,retired,cover only (fen is not used on inner slides),,,
+bots-door.svg,retired,old line drawing; do not use,,,
+named-bubbles.svg,retired,old line drawing; do not use,,,
+answer-doc.svg,retired,old line drawing; do not use,,,
+tiny-flag.svg,retired,old line drawing; do not use,,,
+monthly-checklist.svg,retired,old line drawing; do not use,,,
+painting-bronzino-young-man.jpg,judging,"cold stare; smug or unimpressed truth",0.5,0.15,0.6
+painting-caravaggio-boy-bitten-lizard.jpg,shock,"sudden pain or a nasty surprise",0.45,0.3,0.8
+painting-caravaggio-denial-of-peter.jpg,judging,"being caught out or called out",0.5,0.35,1.0
+painting-chardin-soap-bubbles.jpg,waiting,"wasting time on something that pops",0.45,0.3,0.8
+painting-courbet-desperate-man.jpg,shock,"panic; the harshest truth in the set",0.5,0.45,0.9
+painting-daumier-third-class-carriage.jpg,waiting,"stuck waiting; slow progress",0.4,0.5,1.0
+painting-david-lavoisier-writing.jpg,thinking,"careful work; writing it down; measuring",0.6,0.4,0.8
+painting-ducreux-mocker.jpg,judging,"mocking a bad habit; pointing at you",0.5,0.35,0.8
+painting-ducreux-yawning.jpg,waiting,"boredom; doing nothing; waiting",0.5,0.35,0.85
+painting-eakins-the-thinker.jpg,thinking,"thinking it over; strategy",0.5,0.25,1.0
+painting-eakins-writing-master.jpg,thinking,"writing; focus; doing the work",0.45,0.4,0.85
+painting-elgreco-cardinal.jpg,judging,"quiet disapproval; the auditor",0.5,0.3,0.8
+painting-fedotov-fresh-cavalier.jpg,triumph,"vanity win; showing off too early",0.6,0.4,0.8
+painting-greuze-broken-eggs.jpg,shock,"a mistake that can't be undone",0.5,0.5,0.9
+painting-hals-laughing-cavalier.jpg,triumph,"smug confidence; winning",0.5,0.3,0.8
+painting-hals-merry-drinker.jpg,triumph,"celebrating a win; good news",0.45,0.35,0.85
+painting-hals-merrymakers.jpg,triumph,"the crowd having fun; social proof",0.5,0.35,0.85
+painting-kramskoi-unknown-woman.jpg,judging,"looking down on you; status",0.5,0.4,0.9
+painting-labille-guiard-two-pupils.jpg,thinking,"teaching; learning from others",0.5,0.45,0.9
+painting-latour-cheat-ace-of-diamonds.jpg,judging,"side-eye; someone gaming the system",0.5,0.4,1.0
+painting-latour-fortune-teller.jpg,judging,"being fooled; predictions; hidden tricks",0.5,0.35,1.0
+painting-leutze-washington-delaware.jpg,triumph,"claiming ground first; bold move",0.47,0.4,0.75
+painting-munch-the-scream.jpg,shock,"existential dread; numbers going down",0.5,0.6,0.9
+painting-rembrandt-aristotle.jpg,thinking,"reputation; legacy; learning from the greats",0.5,0.35,0.8
+painting-rembrandt-syndics.jpg,judging,"a group staring at you; being reviewed",0.5,0.45,1.0
+painting-repin-unexpected-visitors.jpg,shock,"someone showing up unannounced; visitors; bots arriving",0.55,0.35,0.95
+painting-repin-zaporozhian-cossacks.jpg,triumph,"writing a cheeky reply together; replies and comments",0.5,0.5,1.0
+painting-steen-feast-of-st-nicholas.jpg,triumph,"getting a reward; some win some lose",0.5,0.55,0.9
+painting-terborch-curiosity.jpg,thinking,"reading over someone's shoulder; research; spying on rivals",0.5,0.45,0.9
+painting-vermeer-astronomer.jpg,thinking,"checking; tracking; studying the data",0.6,0.4,0.95
+painting-villers-du-val-dognes.jpg,thinking,"studying; sketching; careful practice",0.5,0.4,0.9
+painting-wood-american-gothic.jpg,judging,"stern disapproval; old-school thinking",0.5,0.4,1.0
+painting-david-death-of-socrates.jpg,retired,"do not use (unfinished sketch)",0.5,0.5,1.0

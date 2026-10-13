@@ -1,0 +1,43 @@
+{
+ "date": "2026-10-14",
+ "cover": {
+  "title": "5 niche ways to get recommended by <span class=\"u\">superintelligence</span>",
+  "image": "cover-1.svg",
+  "hook": "(save them)"
+ },
+ "inner": [
+  {
+   "title": "let the bots in",
+   "body": "allow oai-searchbot, perplexitybot and claude-searchbot to crawl your site. your cdn firewall can block them even when robots.txt says yes.",
+   "image": "painting-repin-unexpected-visitors.jpg"
+  },
+  {
+   "title": "get named, not linked",
+   "body": "get your brand named beside your category on other sites. across 75,000 brands, mentions tracked chatgpt visibility far better than backlinks ever did.",
+   "image": "painting-rembrandt-syndics.jpg"
+  },
+  {
+   "title": "answer in 60 words",
+   "body": "put the buyer's question in the heading and answer it in 60 words. one-sided comparisons read as ads, and models tend to skip them.",
+   "image": "painting-eakins-writing-master.jpg"
+  },
+  {
+   "title": "claim a tiny category",
+   "body": "pick a narrow category you can credibly win, before anyone else does. once a brand owns one in chatgpt, it keeps first place in 90.4% of monthly checks.",
+   "image": "painting-leutze-washington-delaware.jpg"
+  },
+  {
+   "title": "ask the machines monthly",
+   "body": "ask chatgpt, claude, perplexity, gemini and copilot the same five buyer questions every month. default analytics often hides their visits under direct.",
+   "image": "painting-vermeer-astronomer.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "si doesn't rank you.<br>it repeats you.",
+  "SUBLINE": "so make the internet say your name first.",
+  "TONIGHT": "check your cdn isn't blocking the search bots",
+  "THIS_WEEK": "rewrite your homepage's first sentence",
+  "NEXT_WEEK": "ship a page for your most-lost question",
+  "NEXT_TITLE": "5 niche habits of superintelligent founders"
+ }
+}
