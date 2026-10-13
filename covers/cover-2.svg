@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 888 520" width="888" height="520">
+<defs>
+<filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+<radialGradient id="hot"><stop offset="0" stop-color="#FFF5B0"/><stop offset="0.18" stop-color="#FFD400"/><stop offset="0.4" stop-color="#FF3B1F"/><stop offset="0.62" stop-color="#C21AA8"/><stop offset="0.82" stop-color="#2A2BD6"/><stop offset="1" stop-color="#2A2BD6" stop-opacity="0"/></radialGradient>
+<radialGradient id="warm"><stop offset="0" stop-color="#FFD400"/><stop offset="0.35" stop-color="#FF3B1F"/><stop offset="0.65" stop-color="#7A1FCF"/><stop offset="1" stop-color="#2A2BD6" stop-opacity="0"/></radialGradient>
+<radialGradient id="cool"><stop offset="0" stop-color="#19E3B0"/><stop offset="0.45" stop-color="#1E7BFF"/><stop offset="1" stop-color="#2A2BD6" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="888" height="520" fill="#000"/>
+<g fill="none" stroke="#2C2C2C" stroke-width="2">
+<rect x="234" y="40" width="420" height="440" rx="8"/><line x1="234" y1="76" x2="654" y2="76"/>
+<rect x="270" y="112" width="300" height="22" rx="4"/><rect x="270" y="144" width="240" height="22" rx="4"/>
+<rect x="270" y="186" width="200" height="10" rx="3"/><rect x="270" y="218" width="120" height="34" rx="6"/>
+<rect x="270" y="290" width="110" height="150" rx="6"/><rect x="390" y="290" width="110" height="150" rx="6"/><rect x="510" y="290" width="110" height="150" rx="6"/>
+</g>
+<g filter="url(#b)">
+<ellipse cx="330" cy="236" rx="130" ry="80" fill="url(#hot)"/><ellipse cx="600" cy="58" rx="90" ry="44" fill="url(#hot)"/><ellipse cx="400" cy="130" rx="150" ry="50" fill="url(#cool)"/><ellipse cx="565" cy="370" rx="70" ry="90" fill="url(#warm)"/>
+</g>
+</svg>
