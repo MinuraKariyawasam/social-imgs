@@ -1,0 +1,44 @@
+{
+ "date": "2026-10-14",
+ "region": "us",
+ "cover": {
+  "title": "5 niche habits of superintelligent <span class=\"u\">founders</span>",
+  "image": "cover-3.svg",
+  "hook": "(copy them)"
+ },
+ "inner": [
+  {
+   "title": "wait for the definition",
+   "body": "the si executive order binds federal agencies, and its legal definition is due around november 28. founders renaming their startup now are guessing in public.",
+   "image": "painting-daumier-third-class-carriage.jpg"
+  },
+  {
+   "title": "audit your own claims",
+   "body": "search your site for superintelligent, guaranteed and never, then cut them. the ftc can already act on deceptive ai marketing, new name or not.",
+   "image": "painting-elgreco-cardinal.jpg"
+  },
+  {
+   "title": "keep an incident log",
+   "body": "a one-page log: the date, what broke, what you changed. the si accord asks for four layers of controls, and you can't name last week's bug.",
+   "image": "painting-david-lavoisier-writing.jpg"
+  },
+  {
+   "title": "verify before you pivot",
+   "body": "check the company's own site before you copy a big rename. musk said spacexsi on october 4, and a day later its site still said spacexai.",
+   "image": "painting-latour-fortune-teller.jpg"
+  },
+  {
+   "title": "publish original data",
+   "body": "share build logs, teardowns and numbers only you have. us searchers clicked a regular link 8% of the time with an ai summary, versus 15% without.",
+   "image": "painting-munch-the-scream.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "the smartest founders<br>move last.",
+  "SUBLINE": "let the name settle. fix what's true today.",
+  "TONIGHT": "search your site for superintelligent",
+  "THIS_WEEK": "start a one-page incident log",
+  "NEXT_WEEK": "publish one page of original data",
+  "NEXT_TITLE": "6 metrics that will make you a disgustingly bad founder"
+ }
+}

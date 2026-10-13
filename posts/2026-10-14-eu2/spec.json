@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-14",
+ "region": "eu",
+ "outdir": "posts/2026-10-14-eu2",
+ "cover": {
+  "title": "5 niche ways to get funded by europe without giving up <span class=\"u\">equity</span>",
+  "image": "cover-4.svg",
+  "hook": "(save them)"
+ },
+ "inner": [
+  {
+   "title": "take the grant only",
+   "body": "the eic accelerator offers grant-only funding below €2.5m, with no equity taken. you get that option once in all of horizon europe, so don't waste it.",
+   "image": "painting-caravaggio-boy-bitten-lizard.jpg"
+  },
+  {
+   "title": "pitch any month",
+   "body": "send the eic step 1 short proposal any month. four experts judge you from a 3-minute video, not your business plan.",
+   "image": "painting-wood-american-gothic.jpg"
+  },
+  {
+   "title": "cash the seal",
+   "body": "score 13/15 without a win and the eic gives you a seal of excellence. spain's cdti offered seal holders in two regions up to €2.5m in may 2026.",
+   "image": "painting-steen-feast-of-st-nicholas.jpg"
+  },
+  {
+   "title": "find a partner abroad",
+   "body": "eurostars funds sme-led r&d with partners from at least two countries. each national funder pays its own team, and the next deadline is march 2027.",
+   "image": "painting-labille-guiard-two-pupils.jpg"
+  },
+  {
+   "title": "check if you're widening",
+   "body": "the eic pre-accelerator gave up to €500k to 70 deep-tech startups, mostly in widening countries. your address decides if you qualify.",
+   "image": "painting-terborch-curiosity.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "europe will fund you.<br>it just won't own you.",
+  "SUBLINE": "if you read the rules before the deadline.",
+  "TONIGHT": "read the eic step 1 form",
+  "THIS_WEEK": "list three eurostars partners abroad",
+  "NEXT_WEEK": "ask your national agency about seal calls",
+  "NEXT_TITLE": "5 niche ways to become the founder gdpr can't touch"
+ }
+}
