@@ -1,0 +1,44 @@
+{
+ "date": "2026-10-14",
+ "region": "eu",
+ "cover": {
+  "title": "5 niche things that will make you dangerously good at the <span class=\"u\">eu ai act</span>",
+  "image": "cover-2.svg",
+  "hook": "(screenshot this)"
+ },
+ "inner": [
+  {
+   "title": "say you're an ai",
+   "body": "since 2 august 2026, a chatbot must tell people they're talking to ai. the commission says the 'it's obvious' exception is read narrowly.",
+   "image": "painting-caravaggio-denial-of-peter.jpg"
+  },
+  {
+   "title": "mark what you generate",
+   "body": "ai images, audio, video and text need machine-readable marks. if your tool shipped before august, your grace period ends 2 december 2026.",
+   "image": "painting-chardin-soap-bubbles.jpg"
+  },
+  {
+   "title": "know your fine",
+   "body": "breaking the transparency rules can cost up to €15m or 3% of turnover. startups pay whichever is lower, which is still not zero.",
+   "image": "painting-courbet-desperate-man.jpg"
+  },
+  {
+   "title": "check if you're high-risk",
+   "body": "the digital omnibus moved annex iii high-risk rules to 2 december 2027. a delay is a deadline, not an exemption.",
+   "image": "painting-ducreux-yawning.jpg"
+  },
+  {
+   "title": "jump the sandbox queue",
+   "body": "startups with an eu office get priority access to ai regulatory sandboxes. every member state should have one running by august 2027.",
+   "image": "painting-hals-laughing-cavalier.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "the ai act isn't coming.<br>it already applies.",
+  "SUBLINE": "and the next deadline is 2 december.",
+  "TONIGHT": "make your chatbot say it's an ai",
+  "THIS_WEEK": "list everything your product generates",
+  "NEXT_WEEK": "check your use case against annex iii",
+  "NEXT_TITLE": "5 niche ways to get funded by europe without giving up equity"
+ }
+}
