@@ -1,7 +1,7 @@
 file,mood,use_for
-fen-neutral.png,flat,a calm statement or a fact
-fen-side-eye.png,judging,the harshest truth in the set
-fen-asleep.png,waiting,anything about waiting or doing nothing
+fen-neutral.png,flat,not for inner slides (fen is cover only)
+fen-side-eye.png,judging,not for inner slides (fen is cover only)
+fen-asleep.png,waiting,not for inner slides (fen is cover only)
 bots-door.svg,robot walking through an open door,crawlers and bots being let in or blocked
 named-bubbles.svg,speech bubbles naming a brand with a crossed-out link,mentions vs backlinks or word of mouth
 answer-doc.svg,page with a question heading and highlighted first lines,answer-first writing or page structure
