@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 510 500" width="510" height="500">
+<rect width="510" height="500" fill="#FFFFFF"/>
+<rect x="80" y="60" width="350" height="410" rx="18" fill="#F5F4F2" stroke="#151210" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M80,130 h350" stroke="#151210" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><rect x="82" y="62" width="346" height="66" rx="16" fill="#2E80E6"/>
+<path d="M80,130 h350" stroke="#151210" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><rect x="80" y="60" width="350" height="410" rx="18" fill="none" stroke="#151210" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160,40 v44 M350,40 v44" stroke="#151210" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="118" y="156" width="36" height="36" rx="6" fill="#FFFFFF" stroke="#151210" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M126,172 l10,10 l18,-22" fill="none" stroke="#151210" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M180,174 h180" stroke="#CFCCC6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="118" y="216" width="36" height="36" rx="6" fill="#FFFFFF" stroke="#151210" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M126,232 l10,10 l18,-22" fill="none" stroke="#151210" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M180,234 h165" stroke="#CFCCC6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="118" y="276" width="36" height="36" rx="6" fill="#FFFFFF" stroke="#151210" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M126,292 l10,10 l18,-22" fill="none" stroke="#151210" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M180,294 h150" stroke="#CFCCC6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="118" y="336" width="36" height="36" rx="6" fill="#FFFFFF" stroke="#151210" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M180,354 h135" stroke="#CFCCC6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="118" y="396" width="36" height="36" rx="6" fill="#FFFFFF" stroke="#151210" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M180,414 h120" stroke="#CFCCC6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
