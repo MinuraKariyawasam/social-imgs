@@ -1,0 +1,9 @@
+{"date": "2026-10-14", "region": "nordic",
+ "cover": {"title": "5 niche habits of superintelligent <span class=\"u\">founders</span>", "image": "cover-2.svg", "hook": "(copy them)"},
+ "inner": [
+  {"title": "never claim superintelligence", "body": "search your site for \"superintelligent\" and delete any line that claims it. as of october 2026, nobody has built superintelligence, including you.", "image": "painting-ducreux-mocker.jpg"},
+  {"title": "check forecasts, not headlines", "body": "check the metaculus forecasts once a quarter instead of reacting to headlines. forecasters still put the first general ai in 2031.", "image": "painting-latour-fortune-teller.jpg"},
+  {"title": "score every hype claim", "body": "ask what was measured, by whom, at what reliability and when. even metr's ai time-horizon numbers needed a correction in may 2026.", "image": "painting-elgreco-cardinal.jpg"},
+  {"title": "write what summaries can't", "body": "publish your own data, build logs and mistakes instead of generic explainers. google search referrals to news publishers fell 40.2% in a year.", "image": "painting-munch-the-scream.jpg"},
+  {"title": "track the dark traffic", "body": "measure where visitors really come from, including ai assistants and links shared in private chats. dark social grew from 7.1% to 11.3% of publisher pageviews.", "image": "painting-terborch-curiosity.jpg"}],
+ "closer": {"HEADLINE": "smart founders build.<br>superintelligent ones doubt.", "SUBLINE": "starting with their own homepage.", "TONIGHT": "search your site for \"superintelligent\"", "THIS_WEEK": "swap one generic post for your own data", "NEXT_WEEK": "set a quarterly forecast check", "NEXT_TITLE": "6 metrics that will make you a disgustingly bad founder"}}

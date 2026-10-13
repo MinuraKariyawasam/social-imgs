@@ -1,6 +1,6 @@
 """Render a carousel from a spec JSON.
 usage: python3 scripts/render.py spec.json
-spec: {"date":"YYYY-MM-DD", "cover":{"title","image":"cover-N.svg","hook"},
+spec: {"date":"YYYY-MM-DD", "region":"us"|"nordic" (output goes to posts/<date>-<region>/), "cover":{"title","image":"cover-N.svg","hook"},
        "inner":[{"title","body","image":"painting-....jpg"}...],
        "closer":{"HEADLINE","SUBLINE","TONIGHT","THIS_WEEK","NEXT_WEEK","NEXT_TITLE"}, "outdir": optional}
 Needs: npm i geist (in the repo root), pip install playwright pillow. Paintings are cropped with scripts/crop.py.
@@ -9,7 +9,7 @@ import json, sys, pathlib, asyncio, subprocess, tempfile
 from playwright.async_api import async_playwright
 R = pathlib.Path(__file__).resolve().parent.parent
 spec = json.load(open(sys.argv[1]))
-out = pathlib.Path(spec['outdir']) if spec.get('outdir') else R/'posts'/spec['date']
+out = pathlib.Path(spec['outdir']) if spec.get('outdir') else R/'posts'/(spec['date'] + ('-' + spec['region'] if spec.get('region') else ''))
 out.mkdir(parents=True, exist_ok=True)
 tmp = pathlib.Path(tempfile.mkdtemp())
 font = 'file://' + str(R/'node_modules/geist/dist/fonts/geist-sans/Geist-Regular.woff2')
