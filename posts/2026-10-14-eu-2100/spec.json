@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-14",
+ "region": "eu",
+ "outdir": "posts/2026-10-14-eu-2100",
+ "cover": {
+  "title": "5 niche things that will make you terrifyingly good at <span class=\"u\">growth without cookies</span>",
+  "image": "cover-1.svg",
+  "hook": "(you're probably doing none of them)"
+ },
+ "inner": [
+  {
+   "title": "a quarter say no",
+   "body": "iab europe figures put cookie acceptance at about 54% of europeans, with 26% denying. your dashboard treats that missing quarter as if it never visited.",
+   "image": "painting-elgreco-cardinal.jpg"
+  },
+  {
+   "title": "the cnil exemption",
+   "body": "cnil lets analytics skip consent if it only measures audience, truncates ip and caps trackers at 13 months. it warns most large tools don't qualify.",
+   "image": "painting-david-lavoisier-writing.jpg"
+  },
+  {
+   "title": "tag campaigns, not people",
+   "body": "edpb guidelines from 7 october 2024 treat tracking links carrying identifiers like pixels. a per-person id in a link is a tracker, not a utm tag.",
+   "image": "painting-leutze-washington-delaware.jpg"
+  },
+  {
+   "title": "the reject button",
+   "body": "the edpb's 2023 cookie taskforce says most regulators want reject all on the first layer. making refusal harder than accepting, even by colour, gets flagged.",
+   "image": "painting-hals-laughing-cavalier.jpg"
+  },
+  {
+   "title": "€475m in fines",
+   "body": "cnil sanctioned 21 entities over trackers in 2025, including fines of €325 million and €150 million. ignoring a refusal was on the list too.",
+   "image": "painting-latour-fortune-teller.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "less tracking.<br>better counting.",
+  "SUBLINE": "measure only what regulators let you keep",
+  "TONIGHT": "check your banner has reject all",
+  "THIS_WEEK": "strip per-person ids from your links",
+  "NEXT_WEEK": "test an exempt analytics setup",
+  "NEXT_TITLE": "5 niche things that will make you annoyingly good at eu accessibility law"
+ }
+}

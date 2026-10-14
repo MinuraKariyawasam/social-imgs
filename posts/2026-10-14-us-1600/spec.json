@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-14",
+ "region": "us",
+ "outdir": "posts/2026-10-14-us-1600",
+ "cover": {
+  "title": "ai, agi, asi, si: 4 words that make you sound <span class=\"u\">dangerously cracked</span>",
+  "image": "cover-2.svg",
+  "hook": "(screenshot this)"
+ },
+ "inner": [
+  {
+   "title": "ai: the boring one",
+   "body": "under us law, ai is a machine-based system making predictions, recommendations or decisions for human-set objectives. nothing in that definition requires it to be smart.",
+   "image": "painting-eakins-the-thinker.jpg"
+  },
+  {
+   "title": "agi: nobody agrees",
+   "body": "agi means systems that outperform humans at most economically valuable work, per openai's charter. there's no agreed test, and nothing meets that bar yet.",
+   "image": "painting-greuze-broken-eggs.jpg"
+  },
+  {
+   "title": "asi: doesn't exist",
+   "body": "asi is an intellect that greatly exceeds humans in virtually all domains, per bostrom's 2014 definition. calling your product superintelligent claims something nobody has built.",
+   "image": "painting-bronzino-young-man.jpg"
+  },
+  {
+   "title": "si: same thing, renamed",
+   "body": "si is the federal name for today's ai, set by an executive order signed september 29, 2026. it creates no new definition, so si legally equals ai.",
+   "image": "painting-fedotov-fresh-cavalier.jpg"
+  },
+  {
+   "title": "watch november 28",
+   "body": "a federal si definition proposal is due november 28, 2026. until congress acts, say 'ai (also called si)' and never call it superintelligent.",
+   "image": "painting-chardin-soap-bubbles.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "two mean the same.<br>two don't exist yet.",
+  "SUBLINE": "say ai. add si. never claim asi.",
+  "TONIGHT": "search your site for superintelligent",
+  "THIS_WEEK": "add 'ai (also called si)' once",
+  "NEXT_WEEK": "set a november 28 reminder",
+  "NEXT_TITLE": "5 niche things that will make you dangerously good at naming"
+ }
+}

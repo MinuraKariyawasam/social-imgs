@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-14",
+ "region": "eu",
+ "outdir": "posts/2026-10-14-eu-2300",
+ "cover": {
+  "title": "5 niche things that will make you annoyingly good at <span class=\"u\">eu accessibility law</span>",
+  "image": "cover-3.svg",
+  "hook": "(screenshot this)"
+ },
+ "inner": [
+  {
+   "title": "the €2m escape hatch",
+   "body": "e-commerce is covered since 28 june 2025 unless you're a microenterprise: under 10 staff and €2m turnover or balance sheet. outgrow either and you're in.",
+   "image": "painting-rembrandt-aristotle.jpg"
+  },
+  {
+   "title": "borders won't save you",
+   "body": "law firm cms notes companies outside the eu may fall under the eaa if they serve eu consumers. your offshore entity is not a shield.",
+   "image": "painting-ducreux-mocker.jpg"
+  },
+  {
+   "title": "your terms must say it",
+   "body": "annex v says services must explain how they meet accessibility requirements in their terms or equivalent. a missing statement is the easiest gap to spot.",
+   "image": "painting-ducreux-yawning.jpg"
+  },
+  {
+   "title": "wcag is just a third",
+   "body": "luxembourg's accessibility portal says wcag covers about 36% of applicable en 301 549 criteria. a clean wcag audit still leaves most of it untested.",
+   "image": "painting-hals-merry-drinker.jpg"
+  },
+  {
+   "title": "71% wasn't enough",
+   "body": "on 4 june 2026 a caen court ordered carrefour to make its site and app fully accessible within six months. it rejected 71% compliance.",
+   "image": "painting-repin-unexpected-visitors.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "accessibility is binary,<br>not a percentage.",
+  "SUBLINE": "europe audits your checkout, not your intent",
+  "TONIGHT": "run a screen reader through checkout",
+  "THIS_WEEK": "add an accessibility statement",
+  "NEXT_WEEK": "book an en 301 549 audit",
+  "NEXT_TITLE": "5 niche ways to become the founder the dma was written for"
+ }
+}

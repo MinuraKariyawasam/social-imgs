@@ -1,0 +1,50 @@
+{
+ "date": "2026-10-14",
+ "region": "us",
+ "outdir": "posts/2026-10-14-us-1000",
+ "cover": {
+  "title": "6 metrics that will make you a disgustingly bad <span class=\"u\">founder</span>",
+  "image": "cover-2.svg",
+  "hook": "(stop refreshing them)"
+ },
+ "inner": [
+  {
+   "title": "raw pageviews",
+   "body": "pageviews count every load, including the ones nobody read. across 2 billion visits, chartbeat found 55% spent under 15 seconds actively on the page.",
+   "image": "painting-rembrandt-aristotle.jpg"
+  },
+  {
+   "title": "likes and shares",
+   "body": "likes and shares tell you a post traveled, not that anyone read it. chartbeat found no link between shares and attention across 10,000 articles.",
+   "image": "painting-ducreux-yawning.jpg"
+  },
+  {
+   "title": "bounce rate",
+   "body": "in ga4, bounce rate is just the share of sessions that weren't engaged. stay 11 seconds, buy nothing, leave, and google counts you as engaged.",
+   "image": "painting-kramskoi-unknown-woman.jpg"
+  },
+  {
+   "title": "signups without activation",
+   "body": "signups count people who opened the door, not people who walked in. the average android app loses 77% of daily users within three days.",
+   "image": "painting-courbet-desperate-man.jpg"
+  },
+  {
+   "title": "total registered users",
+   "body": "total registered users counts everyone who ever made an account, even the long gone. fred wilson's rule: about 30% use it monthly, 10% daily.",
+   "image": "painting-ducreux-mocker.jpg"
+  },
+  {
+   "title": "waitlist size",
+   "body": "a waitlist counts emails typed once, with no money on the line. vc doug renert tells investors to check growth isn't just waitlists or launch press.",
+   "image": "painting-hals-merry-drinker.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "stop counting visitors.<br>start counting habits.",
+  "SUBLINE": "one action that repeats beats a million views",
+  "TONIGHT": "pick your one activation event",
+  "THIS_WEEK": "chart weekly active users, not totals",
+  "NEXT_WEEK": "cut every metric nobody acts on",
+  "NEXT_TITLE": "5 niche signs you're becoming a terrifyingly good founder"
+ }
+}

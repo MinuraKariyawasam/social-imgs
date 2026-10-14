@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-14",
+ "region": "us",
+ "outdir": "posts/2026-10-14-us-1400",
+ "cover": {
+  "title": "5 niche signs you're becoming a terrifyingly good <span class=\"u\">founder</span>",
+  "image": "cover-4.svg",
+  "hook": "(intellectually and financially)"
+ },
+ "inner": [
+  {
+   "title": "they know churn reasons",
+   "body": "they can name the top reason customers cancel, from exit calls, not guesses. bain tied 5% more retention to over 25% more profit.",
+   "image": "painting-eakins-writing-master.jpg"
+  },
+  {
+   "title": "they watch load time",
+   "body": "they check how fast their site loads on a phone, weekly. google found 53% of mobile visits get abandoned past 3 seconds, silently.",
+   "image": "painting-caravaggio-denial-of-peter.jpg"
+  },
+  {
+   "title": "they charge earlier",
+   "body": "they put a price on it before the product feels ready. a16z's martin casado says no single decision moves your valuation more than pricing.",
+   "image": "painting-repin-zaporozhian-cossacks.jpg"
+  },
+  {
+   "title": "they kill features",
+   "body": "they delete features nobody touches instead of polishing them for a launch tweet. pendo found 80% of features are rarely or never used.",
+   "image": "painting-rembrandt-syndics.jpg"
+  },
+  {
+   "title": "they talk to users",
+   "body": "they book user calls every week, even when the roadmap feels obvious. yc says early founders should spend almost all their time coding and talking to users.",
+   "image": "painting-vermeer-astronomer.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "the edge isn't genius.<br>it's looking first.",
+  "SUBLINE": "five boring habits that compound in dollars",
+  "TONIGHT": "test your site's mobile load time",
+  "THIS_WEEK": "call three customers who churned",
+  "NEXT_WEEK": "put a real price on the beta",
+  "NEXT_TITLE": "ai, agi, asi, si: 4 words that make you sound dangerously cracked"
+ }
+}

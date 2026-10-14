@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-14",
+ "region": "us",
+ "outdir": "posts/2026-10-14-us-1900",
+ "cover": {
+  "title": "5 niche things that will make you dangerously good at <span class=\"u\">naming</span>",
+  "image": "cover-4.svg",
+  "hook": "(save before you rename)"
+ },
+ "inner": [
+  {
+   "title": "the .si gold rush",
+   "body": "register.si went from 241,459 names on october 1 to 378,745 on october 11. hostinger says only about 3% of its .si sales were explicitly ai.",
+   "image": "painting-labille-guiard-two-pupils.jpg"
+  },
+  {
+   "title": "nobody ordered your rename",
+   "body": "executive order 14434 tells federal agencies to say si, not private companies. altman says openai has no plans to rename.",
+   "image": "painting-latour-cheat-ace-of-diamonds.jpg"
+  },
+  {
+   "title": "what renames actually cost",
+   "body": "google says moving a small site takes a few weeks, with redirects kept a year or more. podcasts, posts and ai answers that name you can't be redirected.",
+   "image": "painting-caravaggio-boy-bitten-lizard.jpg"
+  },
+  {
+   "title": "the .ai tax",
+   "body": "a .ai costs $82.70 a year at porkbun, with a two-year minimum. that's $165.40 up front, after the registry raised wholesale prices in march.",
+   "image": "painting-wood-american-gothic.jpg"
+  },
+  {
+   "title": "the $11 guard dog",
+   "body": "a .si costs about $11.54 a year and works as a redirect. google reads .si as slovenia, so a main site there targets the wrong country.",
+   "image": "painting-hals-merrymakers.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "keep the name.<br>own the new word.",
+  "SUBLINE": "a $12 redirect beats a rushed rebrand",
+  "TONIGHT": "check if yourname.si is free",
+  "THIS_WEEK": "301 the .si to your main domain",
+  "NEXT_WEEK": "check uspto before any new name",
+  "NEXT_TITLE": "5 niche free tools that will make you disgustingly good at seo in the si era"
+ }
+}

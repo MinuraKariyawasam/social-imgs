@@ -1,0 +1,15 @@
+6 metrics that will make you a disgustingly bad founder
+
+track it tonight: swap pageviews for engaged sessions on your top 5 pages
+track it tonight: tag the links in your posts and count signups per post, not likes
+track it tonight: mark one real key event in ga4, like checkout or demo booked
+track it tonight: count how many of last week's signups hit your activation event
+track it tonight: divide monthly active users by total registered users
+track it tonight: email your waitlist one paid offer and count who says yes
+
+#startups #founders #saas #productmetrics #buildinpublic
+@getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

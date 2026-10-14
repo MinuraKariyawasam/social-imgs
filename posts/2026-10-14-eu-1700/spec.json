@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-14",
+ "region": "eu",
+ "outdir": "posts/2026-10-14-eu-1700",
+ "cover": {
+  "title": "5 niche things that will make you annoyingly good at <span class=\"u\">selling across europe</span>",
+  "image": "cover-3.svg",
+  "hook": "(good luck)"
+ },
+ "inner": [
+  {
+   "title": "one return, not 27",
+   "body": "oss lets you declare vat for every eu customer in one quarterly return once cross-border sales pass €10,000. the q3 return is due 31 october.",
+   "image": "painting-daumier-third-class-carriage.jpg"
+  },
+  {
+   "title": "sell in their language",
+   "body": "eurobarometer found 90% of eu internet users prefer sites in their own language. 42% had never bought online in another language.",
+   "image": "painting-villers-du-val-dognes.jpg"
+  },
+  {
+   "title": "pay like the dutch",
+   "body": "ideal, the dutch bank-to-bank method, had 70% of dutch e-commerce transactions in 2022. a card-only checkout skips how most dutch orders get paid.",
+   "image": "painting-hals-merrymakers.jpg"
+  },
+  {
+   "title": "the 30-day price trap",
+   "body": "ireland's ccpc says a 'was' price must be your lowest vat-inclusive price in the 30 days before. a quick hike before black friday backfires.",
+   "image": "painting-latour-cheat-ace-of-diamonds.jpg"
+  },
+  {
+   "title": "the 14-day undo",
+   "body": "eu consumers can cancel most online purchases within 14 days, no reason given. skip telling them and the european consumer centre says it stretches by a year.",
+   "image": "painting-munch-the-scream.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "europe isn't one market.<br>it's 27 checkouts.",
+  "SUBLINE": "same product, different rules at every border.",
+  "TONIGHT": "check your eu sales against €10,000",
+  "THIS_WEEK": "add ideal and one translated checkout",
+  "NEXT_WEEK": "audit 'was' prices and refund emails",
+  "NEXT_TITLE": "5 niche things that will make you terrifyingly good at growth without cookies"
+ }
+}

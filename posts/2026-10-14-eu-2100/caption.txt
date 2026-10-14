@@ -1,0 +1,14 @@
+5 niche things that will make you terrifyingly good at growth without cookies
+
+track it tonight: compare banner accepts vs rejects and estimate the visits your analytics never sees
+track it tonight: check your analytics against cnil's list: 13 month trackers, truncated ip, no cross-checks
+track it tonight: audit email and ad links, keep campaign utm tags, remove per-person ids
+track it tonight: put reject all on your first banner layer, same size and colour as accept
+track it tonight: test that a refusal actually stops every tracker from firing
+
+#eustartups #growthmarketing #privacy #cookies #founders
+@getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

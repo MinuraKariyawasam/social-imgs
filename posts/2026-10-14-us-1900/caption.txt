@@ -1,0 +1,14 @@
+5 niche things that will make you dangerously good at naming
+
+track it tonight: check if yourname.si is still free before a reseller grabs it
+track it tonight: leave product names, title tags and headings exactly as they are
+track it tonight: list every podcast, directory and post that names you. none of them redirect
+track it tonight: price your .ai at $165.40 for two years before you commit
+track it tonight: point the .si at your main site with a 301 and test it with curl -i
+
+#startups #founders #branding #domains
+@getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

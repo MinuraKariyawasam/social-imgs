@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-14",
+ "region": "eu",
+ "outdir": "posts/2026-10-14-eu-1500",
+ "cover": {
+  "title": "5 niche ways to become the founder <span class=\"u\">gdpr can't touch</span>",
+  "image": "cover-1.svg",
+  "hook": "(save them)"
+ },
+ "inner": [
+  {
+   "title": "keep a processing record",
+   "body": "a record lists what personal data you process, why, who gets it and how long. the under 250 staff exemption barely exists, customer management alone triggers it.",
+   "image": "painting-eakins-the-thinker.jpg"
+  },
+  {
+   "title": "your vendors' leaks count",
+   "body": "a dpa makes vendors act only on your instructions and delete data after. in 2025 the cnil fined one €1 million for keeping 46 million users' data.",
+   "image": "painting-greuze-broken-eggs.jpg"
+  },
+  {
+   "title": "collect less, purge automatically",
+   "body": "the cnil says collect only data that is adequate, relevant and necessary for the purpose. data you never collected is data you can never leak.",
+   "image": "painting-fedotov-fresh-cavalier.jpg"
+  },
+  {
+   "title": "the 72 hour clock",
+   "body": "the edpb says notify your regulator within 72 hours of becoming aware, unless risk is unlikely. every breach must be documented anyway, even unreported ones.",
+   "image": "painting-chardin-soap-bubbles.jpg"
+  },
+  {
+   "title": "answer within one month",
+   "body": "a user asking for their data gets a free copy within one month. in 2025 the cnil made 14 decisions against firms failing rights requests.",
+   "image": "painting-bronzino-young-man.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "gdpr isn't a wall.<br>it's a paper trail.",
+  "SUBLINE": "the founder with receipts sleeps fine",
+  "TONIGHT": "list every tool holding user data",
+  "THIS_WEEK": "sign a dpa with each vendor",
+  "NEXT_WEEK": "run a fake breach and time it",
+  "NEXT_TITLE": "5 niche things that will make you annoyingly good at selling across europe"
+ }
+}

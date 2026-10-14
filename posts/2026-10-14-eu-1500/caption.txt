@@ -1,0 +1,14 @@
+5 niche ways to become the founder gdpr can't touch
+
+track it tonight: open a sheet, one row per processing, with purpose, data, recipients, retention
+track it tonight: list every vendor and llm api touching user data, mark which have a signed dpa
+track it tonight: delete one signup field your product works fine without
+track it tonight: write who calls the regulator and where breaches get logged, before you need it
+track it tonight: set up a privacy inbox and a one month reminder for every request
+
+#gdpr #eustartups #saasfounder #dataprotection
+@getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.
