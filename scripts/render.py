@@ -2,7 +2,8 @@
 usage: python3 scripts/render.py spec.json
 spec: {"date":"YYYY-MM-DD", "region":"us"|"nordic" (output goes to posts/<date>-<region>/), "cover":{"title","image":"cover-N.svg","hook"},
        "inner":[{"title","body","image":"painting-....jpg"}...],
-       "closer":{"HEADLINE","SUBLINE","TONIGHT","THIS_WEEK","NEXT_WEEK","NEXT_TITLE"}, "outdir": optional}
+       "closer":{"HEADLINE","SUBLINE","TONIGHT","THIS_WEEK","NEXT_WEEK","NEXT_TITLE","CTA"}, "outdir": optional}
+  CTA (optional): one comment prompt on the last slide; wrap the keyword in <b>…</b>.
 Needs: npm i geist (in the repo root), pip install playwright pillow. Paintings are cropped with scripts/crop.py.
 Prints per-slide layout metrics as JSON lines for checking."""
 import json, sys, pathlib, asyncio, subprocess, tempfile
@@ -24,7 +25,7 @@ for i, s in enumerate(spec['inner']):
     crop = tmp/f'img{i}.jpg'
     subprocess.run([sys.executable, str(R/'scripts/crop.py'), s['image'], str(crop)], check=True)
     pages.append(fill('inner.html', {'TITLE': s['title'], 'BODY': s['body'], 'IMAGE': 'file://'+str(crop)}))
-pages.append(fill('closer.html', spec['closer']))
+pages.append(fill('closer.html', dict({'CTA': ''}, **spec['closer'])))
 JS = '''()=>{const r=x=>{const e=document.querySelector(x);return e?e.getBoundingClientRect().toJSON():null};
 const h=document.querySelector('h1,h2');const lh=parseFloat(getComputedStyle(h).lineHeight);
 const im=document.querySelector('img.img');
