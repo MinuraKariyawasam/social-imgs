@@ -1,0 +1,27 @@
+{
+ "date": "2026-10-16",
+ "region": "us",
+ "outdir": "posts/2026-10-16-us-3",
+ "cover": {
+  "sub": "5 niche ways to become the founder who",
+  "title": "launches on product hunt and <span class=\"y\">wins</span> the day",
+  "steps": ["12:01", "audience", "weight", "replies", "support"],
+  "hook": "(save them)",
+  "image": "painting-fedotov-fresh-cavalier.jpg"
+ },
+ "inner": [
+  {"title": "launch at <span class=\"hl\">12:01</span>", "body": "the leaderboard resets at 12:01 am pacific, so loops scheduled and emailed its list right then. wait for business hours and rivals get a nine hour head start.", "label": "9 hours late", "image": "painting-chardin-soap-bubbles.jpg"},
+  {"title": "build the <span class=\"hl\">crowd</span> first", "body": "loops went in with a 12,000+ newsletter and a waitlist of thousands. if your first ask goes out on launch day, you are already late.", "label": "12,000 first", "image": "painting-eakins-writing-master.jpg"},
+  {"title": "votes have <span class=\"hl\">weight</span>", "body": "at hour 20 momen had 400 votes and still sat below a rival with 300. the rival simply had more high weight supporters.", "label": "400 lost to 300", "image": "painting-rembrandt-syndics.jpg"},
+  {"title": "answer every <span class=\"hl\">comment</span>", "body": "momen's ceo replied to all 100+ comments on launch day. a maker page with no replies looks like nobody is home.", "label": "100+ replies", "image": "painting-repin-unexpected-visitors.jpg"},
+  {"title": "ask for <span class=\"hl\">support</span>", "body": "loops asked people for support, not upvotes, and skipped the dm spam. it finished #1 of the day and #1 of the week.", "label": "#1 of the week", "image": "painting-leutze-washington-delaware.jpg"}
+ ],
+ "closer": {
+  "HEADLINE": "launch day is won<br>the <span class=\"y\">month</span> before",
+  "TONIGHT": "write your first comment now",
+  "THIS_WEEK": "list everyone you'll tell at 12:01",
+  "NEXT_WEEK": "schedule the 12:01 am pt email",
+  "CTA": "comment <b>me</b> if you'd have launched at 9am",
+  "NEXT_TITLE": "5 niche numbers ai founders should post every week"
+ }
+}
