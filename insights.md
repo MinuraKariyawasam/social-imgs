@@ -13,6 +13,7 @@
 2026-10-16, us-3, P6
 2026-10-16, eu-5, P6
 2026-10-16, us-4, P2
+2026-10-16, us-5, P5
 
 ## 2026-10-16 analytics
 Pulled 2026-10-15 ~17:00 UTC. TikTok 19 posts, Instagram 17 posts in the last 45 days. Only 1 post (unmatched TikTok, 2026-10-13 06:32 UTC) is 48h+ old, so 0 matched scored posts: not enough data. Queue order and default hours.
@@ -43,7 +44,7 @@ eu-4: still 3 scored posts 48h+ old (TikTok 2, Instagram 1; under 6); TikTok fro
 us-3: still 3 scored posts 48h+ old (TikTok 2, Instagram 1; under 6); TikTok from 10-14 19:00 UTC on still 0-5 views, Instagram 1-2 reach -> kept plan (13:00, P6 product hunt launch; CTA switched to engagement: getclerion.com/resources could not be opened, keyword hunt released). sources: loops.so product hunt launch guide (6 nov 2023), hackernoon momen launch write-up (28 nov 2024). track: Slow and gentle acoustic piano - Noru.
 eu-5: 5 posts 48h+ old (TikTok 3 incl. 1 unmatched, Instagram 2; still under 6); TikTok from 10-14 19:00 UTC on still 0-5 views, Instagram 0-2 reach -> kept plan (21:00, P6 grow on x across 12 time zones; CTA switched to engagement "comment your city": no getclerion.com/resources x-growth guide found, keyword zones released). sources: trendingtopics.eu on x's open-sourced feed code (48h cutoff, author repeat discount, 0.75 out-of-network factor, reply ~10x like, follow ~8x like), capmad 19 aug 2026 (reply 5, follow 8x like).
 us-4: TikTok 3 (incl. 1 unmatched) + Instagram 2 posts 48h+ old (still under 6 scored); TikTok from 10-14 19:00 UTC on still 0-5 views, Instagram 0-2 reach; best_time_to_post still 1 post per slot -> kept plan (17:00, P2 signup page; CTA switched to engagement "comment card": getclerion.com/resources could not be opened, keyword signup released). track: Jazz with a warm atmosphere - And More Music. sources: conversion-rate-experts mobbin win report (9 oct 2024), innertrends saas free trial benchmarks (25 nov 2019), baymard password requirements (29 nov 2022), amazon pay blog on baymard 2017 report (21 nov 2018).
-us-5: TikTok 3 (incl. 1 unmatched) + Instagram 2 posts 48h+ old (still 5 scored, under 6); TikTok from 10-14 19:00 UTC on still 0-5 views, Instagram 0-2 reach; best_time_to_post still 1 post per slot -> kept plan (21:00, P5 free seo tools in the si era; no SI claims on slides since getclerion.com/resources could not be opened; CTA switched to engagement "comment the tool", keyword tools released). sources: google search central ai features page (updated 2025-12-10), searchinfluence 12 feb 2026 and explodingtopics 2 apr 2026 on bing ai performance report, specification.website core web vitals and indexnow specs.
+us-5: TikTok 3 (incl. 1 unmatched) + Instagram 2 posts 48h+ old (still 5 scored, under 6); TikTok from 10-14 19:00 UTC on still 0-5 views, Instagram 0-2 reach; best_time_to_post still 1 post per slot -> kept plan (21:00, P5 free seo tools in the si era; no SI claims on slides since getclerion.com/resources could not be opened; CTA switched to engagement "comment the tool", keyword tools released). sources: google search central ai features page (updated 2025-12-10), searchinfluence 12 feb 2026 and explodingtopics 2 apr 2026 on bing ai performance report, specification.website core web vitals and indexnow specs. track: Walkdown in F - Chill Piano.
 
 ## tracks used
 - 2026-10-16 eu-1: Little Things - Adrián Berenguer (6981828410792216577)
@@ -55,6 +56,7 @@ us-5: TikTok 3 (incl. 1 unmatched) + Instagram 2 posts 48h+ old (still 5 scored,
 - 2026-10-16 us-3: Slow and gentle acoustic piano(1388951) - Noru (7190464410681346049)
 - 2026-10-16 eu-5: Villa-Lobos Etude No1b (F) - Music Time (7125468510587652100)
 - 2026-10-16 us-4: Jazz with a warm atmosphere(262843) - And More Music (6839742677185988610)
+- 2026-10-16 us-5: Walkdown in F - Chill Piano (7455359297746077712)
 
 ## idea backlog
 - eu P5: 5 niche things that will make you dangerously good at nis2
