@@ -5,6 +5,7 @@
 
 ## pillars
 2026-10-16, eu-1, P2
+2026-10-16, eu-2, P4
 
 ## 2026-10-16 analytics
 Pulled 2026-10-15 ~17:00 UTC. TikTok 19 posts, Instagram 17 posts in the last 45 days. Only 1 post (unmatched TikTok, 2026-10-13 06:32 UTC) is 48h+ old, so 0 matched scored posts: not enough data. Queue order and default hours.
@@ -31,6 +32,7 @@ eu-2: 2 TikTok + 1 Instagram post now 48h+ old (3 scored total, still under 6) -
 
 ## tracks used
 - 2026-10-16 eu-1: Little Things - Adrián Berenguer (6981828410792216577)
+- 2026-10-16 eu-2: In My Own Mind - Atomica Music (7247803271426803714)
 
 ## idea backlog
 - eu P5: 5 niche things that will make you dangerously good at nis2
