@@ -1,0 +1,27 @@
+{
+ "date": "2026-10-14",
+ "region": "eu",
+ "outdir": "examples/blueboard",
+ "cover": {
+  "sub": "5 niche ways to become",
+  "title": "the founder <span class=\"y\">gdpr</span> can't touch",
+  "steps": ["record", "dpa", "collect less", "72 hours", "1 month"],
+  "hook": "(save them)",
+  "image": "painting-bronzino-young-man.jpg"
+ },
+ "inner": [
+  {"title": "keep a <span class=\"hl\">processing</span> record", "body": "it lists what personal data you process, why, who gets it and how long. the under 250 staff exemption barely exists.", "label": "do the paperwork", "image": "painting-eakins-the-thinker.jpg"},
+  {"title": "your vendors' <span class=\"hl\">leaks</span> count", "body": "a dpa makes vendors act only on your instructions. in 2025 the cnil fined one €1 million for keeping 46 million users' data.", "label": "€1m fine", "image": "painting-greuze-broken-eggs.jpg"},
+  {"title": "collect <span class=\"hl\">less</span>", "body": "the cnil says collect only data that is adequate, relevant and necessary. data you never collected is data you can never leak.", "label": "less is safe", "image": "painting-hals-merry-drinker.jpg"},
+  {"title": "the <span class=\"hl\">72 hour</span> clock", "body": "the edpb says notify your regulator within 72 hours of becoming aware. every breach must be documented anyway, even unreported ones.", "label": "start the timer", "image": "painting-chardin-soap-bubbles.jpg"},
+  {"title": "answer within <span class=\"hl\">one month</span>", "body": "a user asking for their data gets a free copy within one month. in 2025 the cnil made 14 decisions against firms failing requests.", "label": "14 decisions", "image": "painting-bronzino-young-man.jpg"}
+ ],
+ "closer": {
+  "HEADLINE": "gdpr isn't a wall.<br>it's a <span class=\"y\">paper trail</span>",
+  "TONIGHT": "list every tool holding user data",
+  "THIS_WEEK": "sign a dpa with each vendor",
+  "NEXT_WEEK": "run a fake breach and time it",
+  "CTA": "comment <b>gdpr</b> and we'll reply with the full guide",
+  "NEXT_TITLE": "5 niche things that will make you annoyingly good at selling across europe"
+ }
+}

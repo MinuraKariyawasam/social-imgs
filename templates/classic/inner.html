@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+@font-face{font-family:'Geist';src:url('{{FONT_REGULAR}}');font-weight:400}
+body{margin:0}
+.s{width:1080px;height:1350px;box-sizing:border-box;background:#FFFFFF;font-family:'Geist',sans-serif;color:#151210;padding:300px 96px 0 96px;display:flex;flex-direction:column}
+h2{margin:0;font-size:76px;line-height:1.05;font-weight:400;letter-spacing:-0.03em}
+p{margin:120px 0 0 0;max-width:860px;font-size:36px;line-height:1.26;font-weight:400;letter-spacing:-0.01em}
+.img{margin-top:90px;align-self:flex-end;width:510px;height:500px;object-fit:cover;display:block}
+.img.fen{object-fit:contain;background:#FFFFFF}
+</style>
+</head>
+<body>
+<div class="s">
+<h2>{{TITLE}}</h2>
+<p>{{BODY}}</p>
+<!-- add class "fen" to the img when the image is one of Fen's moods -->
+<img class="img" src="{{IMAGE}}" alt="">
+</div>
+</body>
+</html>

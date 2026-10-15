@@ -1,25 +1,20 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<style>
-@font-face{font-family:'Geist';src:url('{{FONT_REGULAR}}');font-weight:400}
-body{margin:0}
-.s{width:1080px;height:1350px;box-sizing:border-box;background:#FFFFFF;font-family:'Geist',sans-serif;color:#151210;padding:190px 96px 0 96px;display:flex;flex-direction:column;align-items:center;overflow:hidden;position:relative}
-h1{margin:0;align-self:stretch;font-size:76px;line-height:1.12;font-weight:400;letter-spacing:-0.025em}
-.u{text-decoration:underline;text-decoration-thickness:4px;text-underline-offset:10px}
-.img{margin-top:80px;width:888px;height:520px;background:#000;display:block}
-.hook{margin:22px 0 0 0;font-size:26px;color:#333333}
-.fen{position:absolute;left:400px;bottom:-64px}
-</style>
-</head>
-<body>
-<div class="s">
-<!-- TITLE: plain text. Wrap the final keyword in <span class="u">…</span> -->
-<h1>{{TITLE}}</h1>
-<img class="img" src="{{COVER_IMAGE}}" alt="">
+<!doctype html><html lang="en"><head><meta charset="utf-8"><style>{{BASE_CSS}}
+.sub{position:absolute;left:70px;top:90px;margin:0;font-size:40px;font-weight:700}
+h1{position:absolute;left:70px;right:70px;top:150px;font-size:128px;line-height:.98}
+.flow{position:absolute;left:50px;width:620px;top:640px;display:flex;gap:14px}
+.col{flex:1;display:flex;flex-direction:column;align-items:center;gap:22px}
+.st{width:100%;height:330px;display:flex;justify-content:center;padding-top:30px;box-sizing:border-box}
+.st .tag{font-size:17px;padding:6px 8px;text-align:center;line-height:1.1;align-self:flex-start}
+.hook{position:absolute;left:70px;bottom:80px;margin:0;font-size:40px;font-weight:700}
+.who{position:absolute;right:40px;top:560px;width:330px;height:480px;transform:rotate(4deg)}
+</style></head><body><div class="s">
+<!-- SUB: the small lowercase lead-in. TITLE: the rest of the title; wrap the one keyword in <span class="y">…</span>. STEPS: one short label per inner slide. -->
+<p class="sub">{{SUB}}</p>
+<h1 class="h">{{TITLE}}</h1>
+<div class="flow">{{STEPS}}</div>
+<img class="pic who" src="{{IMAGE}}" alt="">
 <p class="hook">{{HOOK}}</p>
-<img class="fen" src="{{FEN_NEUTRAL}}" width="280" height="300" alt="">
 </div>
-</body>
-</html>
+<script>document.fonts.ready.then(()=>{
+const h=document.querySelector('h1');let f=128;while(h.getBoundingClientRect().bottom>600&&f>72){f-=4;h.style.fontSize=f+'px'}})</script>
+</body></html>

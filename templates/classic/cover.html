@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+@font-face{font-family:'Geist';src:url('{{FONT_REGULAR}}');font-weight:400}
+body{margin:0}
+.s{width:1080px;height:1350px;box-sizing:border-box;background:#FFFFFF;font-family:'Geist',sans-serif;color:#151210;padding:190px 96px 0 96px;display:flex;flex-direction:column;align-items:center;overflow:hidden;position:relative}
+h1{margin:0;align-self:stretch;font-size:76px;line-height:1.12;font-weight:400;letter-spacing:-0.025em}
+.u{text-decoration:underline;text-decoration-thickness:4px;text-underline-offset:10px}
+.img{margin-top:80px;width:888px;height:520px;background:#000;display:block}
+.hook{margin:22px 0 0 0;font-size:26px;color:#333333}
+.fen{position:absolute;left:400px;bottom:-64px}
+</style>
+</head>
+<body>
+<div class="s">
+<!-- TITLE: plain text. Wrap the final keyword in <span class="u">…</span> -->
+<h1>{{TITLE}}</h1>
+<img class="img" src="{{COVER_IMAGE}}" alt="">
+<p class="hook">{{HOOK}}</p>
+<img class="fen" src="{{FEN_NEUTRAL}}" width="280" height="300" alt="">
+</div>
+</body>
+</html>

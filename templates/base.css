@@ -1,0 +1,14 @@
+/* blue-board system: 3 colours only. board #0083E4, highlight #FDD801, text #FFFFFF (black #111 only inside yellow tags and number dots) */
+@font-face{font-family:G;src:url('{{FONT_DIR}}/Geist-Medium.woff2');font-weight:500}
+@font-face{font-family:G;src:url('{{FONT_DIR}}/Geist-Bold.woff2');font-weight:700}
+@font-face{font-family:G;src:url('{{FONT_DIR}}/Geist-Black.woff2');font-weight:900}
+body{margin:0}
+.s{width:1080px;height:1350px;box-sizing:border-box;position:relative;overflow:hidden;font-family:G;color:#fff;
+background-color:#0083E4;background-image:linear-gradient(rgba(255,255,255,.09) 2px,transparent 2px),linear-gradient(90deg,rgba(255,255,255,.09) 2px,transparent 2px);background-size:60px 60px}
+.h{font-weight:900;text-transform:uppercase;letter-spacing:-0.02em;margin:0;text-shadow:0 4px 0 rgba(0,0,0,.18)}
+.y{color:#FDD801}
+.hl{display:inline-block;line-height:1;margin:6px 0;background:#FDD801;color:#111;padding:6px 14px 2px;border-radius:10px;text-shadow:none}
+.tag{display:inline-block;background:#FDD801;color:#111;font-weight:900;text-transform:uppercase;padding:8px 16px;border-radius:6px;font-size:30px;box-shadow:0 4px 0 rgba(0,0,0,.25)}
+.box{border:4px dashed rgba(255,255,255,.85);border-radius:18px}
+.num{width:58px;height:58px;border-radius:50%;background:#111;color:#fff;font-weight:900;font-size:32px;display:flex;align-items:center;justify-content:center;border:3px solid #fff}
+.pic{object-fit:cover;display:block;border:8px solid #fff;box-shadow:0 20px 40px rgba(0,0,0,.35)}
