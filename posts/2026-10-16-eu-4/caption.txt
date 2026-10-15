@@ -1,0 +1,15 @@
+5 niche ways to find which country pays you in euros
+
+1. export paid invoices and sum them by billing country
+2. compare each country's visits with its paying customers
+3. check your price against each country's price level
+4. rank countries by euros per visitor
+5. subtract refunds and chargebacks per country, then re-rank
+
+comment ME if you've never split revenue by country
+
+#eustartups #europeanstartups #founderseurope #saas @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

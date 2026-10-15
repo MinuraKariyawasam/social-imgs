@@ -1,0 +1,27 @@
+{
+ "date": "2026-10-16",
+ "region": "eu",
+ "outdir": "posts/2026-10-16-eu-4",
+ "cover": {
+  "sub": "5 niche ways to find",
+  "title": "which country pays you in <span class=\"y\">euros</span>",
+  "steps": ["billing", "buyers", "price level", "per visitor", "refunds"],
+  "hook": "(save them)",
+  "image": "painting-bronzino-young-man.jpg"
+ },
+ "inner": [
+  {"title": "group by <span class=\"hl\">billing</span> country", "body": "export your paid invoices and sum them by the customer's billing country. your traffic map shows where people look, not where euros come from.", "label": "follow the euros", "image": "painting-terborch-curiosity.jpg"},
+  {"title": "traffic isn't <span class=\"hl\">buyers</span>", "body": "eurostat says 96% of irish internet users bought online in 2024, against 57% in bulgaria. the same visit count can hide very different wallets.", "label": "96% vs 57%", "image": "painting-repin-unexpected-visitors.jpg"},
+  {"title": "one price, two <span class=\"hl\">wallets</span>", "body": "in 2024 eurostat put denmark's price level at 143% of the eu average, bulgaria's at 60%. your €29 plan is cheap in one and steep in the other.", "label": "143% vs 60%", "image": "painting-kramskoi-unknown-woman.jpg"},
+  {"title": "euros per <span class=\"hl\">visitor</span>", "body": "divide each country's revenue by its visitors and rank them. your biggest traffic country is not automatically the one paying most per head.", "label": "small can win", "image": "painting-hals-merry-drinker.jpg"},
+  {"title": "count the <span class=\"hl\">refunds</span>", "body": "subtract refunds and chargebacks per country before you rank anything. a country that buys a lot and refunds a lot is not your best market.", "label": "net, not gross", "image": "painting-latour-fortune-teller.jpg"}
+ ],
+ "closer": {
+  "HEADLINE": "your traffic map isn't<br>a <span class=\"y\">revenue</span> map",
+  "TONIGHT": "export paid invoices by country",
+  "THIS_WEEK": "rank countries by euros per visitor",
+  "NEXT_WEEK": "subtract refunds, then re-rank",
+  "CTA": "comment <b>me</b> if you've never split revenue by country",
+  "NEXT_TITLE": "5 niche ways to become the founder european chatgpt users find first"
+ }
+}
