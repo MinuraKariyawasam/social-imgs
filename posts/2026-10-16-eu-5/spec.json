@@ -1,0 +1,27 @@
+{
+ "date": "2026-10-16",
+ "region": "eu",
+ "outdir": "posts/2026-10-16-eu-5",
+ "cover": {
+  "sub": "5 niche ways to grow on x",
+  "title": "when your audience is in <span class=\"y\">12 time zones</span>",
+  "steps": ["48 hours", "spread", "replies", "strangers", "follows"],
+  "hook": "(save them)",
+  "image": "painting-hals-laughing-cavalier.jpg"
+ },
+ "inner": [
+  {"title": "the <span class=\"hl\">48 hour</span> clock", "body": "x's feed code drops posts older than 48 hours before ranking. your berlin morning post is still alive when san francisco wakes up.", "label": "don't delete it", "image": "painting-villers-du-val-dognes.jpg"},
+  {"title": "spread, don't <span class=\"hl\">stack</span>", "body": "the code discounts repeat posts from one author in the same feed. five posts before lunch in berlin mostly compete with each other.", "label": "self-sabotage", "image": "painting-caravaggio-denial-of-peter.jpg"},
+  {"title": "replies are <span class=\"hl\">currency</span>", "body": "a predicted reply weighs about ten times a like. sleep through new york's replies and the post fades right when it could spread.", "label": "10x a like", "image": "painting-repin-zaporozhian-cossacks.jpg"},
+  {"title": "strangers see <span class=\"hl\">less</span>", "body": "posts shown to non-followers reportedly get a 0.75 factor. in a time zone where nobody follows you yet, you start a quarter behind.", "label": "-25% reach", "image": "painting-eakins-the-thinker.jpg"},
+  {"title": "the <span class=\"hl\">follow</span> wins", "body": "a follow from a post counts about eight times a like. one follower in tokyo turns your next post there into an in-network post.", "label": "8x a like", "image": "painting-fedotov-fresh-cavalier.jpg"}
+ ],
+ "closer": {
+  "HEADLINE": "it's not a reach problem.<br>it's a <span class=\"y\">clock</span> problem",
+  "TONIGHT": "note the hours your replies land",
+  "THIS_WEEK": "move one post to us morning",
+  "NEXT_WEEK": "answer replies within an hour",
+  "CTA": "comment your <b>city</b> so we can map the time zones",
+  "NEXT_TITLE": "5 niche habits of european founders who launch to the us first"
+ }
+}
