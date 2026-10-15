@@ -1,0 +1,27 @@
+{
+ "date": "2026-10-16",
+ "region": "eu",
+ "outdir": "posts/2026-10-16-eu-2",
+ "cover": {
+  "sub": "5 niche numbers every",
+  "title": "european <span class=\"y\">investor update</span> needs",
+  "steps": ["runway", "burn", "mrr", "the drop", "10am"],
+  "hook": "(save them)",
+  "image": "painting-ducreux-mocker.jpg"
+ },
+ "inner": [
+  {"title": "runway in <span class=\"hl\">months</span>", "body": "cash divided by monthly net burn, stated in months, in every update. slush found only 18% of european founders say raising money is easy right now.", "label": "only 18%", "image": "painting-chardin-soap-bubbles.jpg"},
+  {"title": "your burn <span class=\"hl\">multiple</span>", "body": "net burn divided by net new arr shows what each euro of growth costs. crv says above 3x is a red flag unless growth is exceptional.", "label": "3x red flag", "image": "painting-munch-the-scream.jpg"},
+  {"title": "where your <span class=\"hl\">mrr</span> sits", "body": "berlin vc point nine frames seed to series a as growing from 10k to 100k mrr. show where you sit on that line, every month.", "label": "10k to 100k", "image": "painting-david-lavoisier-writing.jpg"},
+  {"title": "the number that <span class=\"hl\">dropped</span>", "body": "if a number went down, include it with what you're doing about it. pitchwise says investors who only see good news stop trusting the updates.", "label": "include it anyway", "image": "painting-rembrandt-syndics.jpg"},
+  {"title": "send before <span class=\"hl\">10am</span>", "body": "send it the first monday or tuesday, before 10am in your main investors' time zone. send quarterly and they read 90-day-old numbers.", "label": "monthly, not quarterly", "image": "painting-steen-feast-of-st-nicholas.jpg"}
+ ],
+ "closer": {
+  "HEADLINE": "investors don't need good news.<br>they need <span class=\"y\">the same five</span>",
+  "TONIGHT": "work out your runway in months",
+  "THIS_WEEK": "calculate your burn multiple",
+  "NEXT_WEEK": "send it monday before 10am",
+  "CTA": "comment the <b>number</b> you'd hide first",
+  "NEXT_TITLE": "5 niche habits of european founders who fix one thing a day"
+ }
+}
