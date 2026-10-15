@@ -1,0 +1,27 @@
+{
+ "date": "2026-10-16",
+ "region": "eu",
+ "outdir": "posts/2026-10-16-eu-1",
+ "cover": {
+  "sub": "5 niche ways to fix",
+  "title": "a checkout that loses <span class=\"y\">half</span> of europe",
+  "steps": ["cards", "one-click", "full price", "no fees", "2 minutes"],
+  "hook": "(good luck)",
+  "image": "painting-wood-american-gothic.jpg"
+ },
+ "inner": [
+  {"title": "cards are only <span class=\"hl\">half</span>", "body": "cards were 48% of online payments in the euro area in 2024, says the ecb. a card-only checkout ignores the other half.", "label": "48% by card", "image": "painting-vermeer-astronomer.jpg"},
+  {"title": "add <span class=\"hl\">one-click</span>", "body": "78% of european shoppers say apple pay or google pay makes them likelier to buy. yet 89% of checkouts stripe studied had no apple pay.", "label": "89% missing", "image": "painting-hals-merrymakers.jpg"},
+  {"title": "show the <span class=\"hl\">full</span> price", "body": "eu rules say the total price, taxes and charges included, must be shown up front. shipping added after the purchase has already been refunded.", "label": "refund due", "image": "painting-greuze-broken-eggs.jpg"},
+  {"title": "drop the card <span class=\"hl\">fee</span>", "body": "the eu says traders can't charge extra for paying by debit or credit card, with narrow exceptions. that last-step fee isn't margin.", "label": "not allowed", "image": "painting-latour-cheat-ace-of-diamonds.jpg"},
+  {"title": "beat <span class=\"hl\">two minutes</span>", "body": "62% of european shoppers abandon a purchase that takes over 2 minutes. the average european checkout takes 3.3.", "label": "3.3 minutes", "image": "painting-daumier-third-class-carriage.jpg"}
+ ],
+ "closer": {
+  "HEADLINE": "europe isn't one market.<br>it's <span class=\"y\">27 checkouts</span>",
+  "TONIGHT": "list the wallets you accept",
+  "THIS_WEEK": "show tax-in prices from step one",
+  "NEXT_WEEK": "time your checkout on a phone",
+  "CTA": "comment the <b>number</b> you'll fix first",
+  "NEXT_TITLE": "5 niche things that will make you dangerously good at reading users in 5 languages"
+ }
+}

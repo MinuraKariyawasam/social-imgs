@@ -1,0 +1,16 @@
+5 niche ways to fix a checkout that loses half of europe
+
+track it tonight: list every payment method your checkout takes beyond cards
+track it tonight: test apple pay and google pay on your own phone
+track it tonight: check the first price shown already includes vat and fees
+track it tonight: search your checkout for any card surcharge and remove it
+track it tonight: time a full purchase on mobile, start to confirmation
+
+comment the NUMBER you'll fix first
+
+#eustartups #europeanstartups #ecommerce #checkout #saas
+@getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.
