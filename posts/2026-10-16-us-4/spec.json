@@ -1,0 +1,27 @@
+{
+ "date": "2026-10-16",
+ "region": "us",
+ "outdir": "posts/2026-10-16-us-4",
+ "cover": {
+  "sub": "5 niche ways to find",
+  "title": "what your <span class=\"y\">signup</span> page is hiding",
+  "steps": ["the popup", "the card", "passwords", "resets", "the gate"],
+  "hook": "(screenshot this)",
+  "image": "painting-courbet-desperate-man.jpg"
+ },
+ "inner": [
+  {"title": "kill the <span class=\"hl\">popup</span>", "body": "mobbin sent gated visitors to its full signup page instead of a bare popup. sign-ups rose 12%, so your modal is losing people your page would win.", "label": "+12% signups", "image": "painting-terborch-curiosity.jpg"},
+  {"title": "the <span class=\"hl\">card</span> question", "body": "innertrends benchmarks put card-upfront trials at 1% of visitors, against 2% without a card. but 60% of card trials pay, against 25%.", "label": "pick one", "image": "painting-latour-cheat-ace-of-diamonds.jpg"},
+  {"title": "loosen <span class=\"hl\">password</span> rules", "body": "baymard found 82% of sites demand needlessly complex passwords. nist's minimum is 8 characters, and every extra rule is a reason to leave.", "label": "82% of sites", "image": "painting-villers-du-val-dognes.jpg"},
+  {"title": "the <span class=\"hl\">reset</span> email", "body": "returning users who forget a password have to wait for a reset email. in baymard tests, up to 19% abandoned checkout over reset issues alone.", "label": "19% gone", "image": "painting-caravaggio-denial-of-peter.jpg"},
+  {"title": "make accounts <span class=\"hl\">optional</span>", "body": "37% of shoppers in baymard's 2017 survey disliked being forced to make an account. sites that drop the requirement see 10 to 30% more conversions.", "label": "37% hate it", "image": "painting-hals-merrymakers.jpg"}
+ ],
+ "closer": {
+  "HEADLINE": "your signup page isn't a form.<br>it's a <span class=\"y\">filter</span>",
+  "TONIGHT": "sign up to your own product",
+  "THIS_WEEK": "drop one password rule",
+  "NEXT_WEEK": "test card vs no card",
+  "CTA": "comment <b>card</b> if you ask for it upfront",
+  "NEXT_TITLE": "5 niche ways to read your analytics in 5 minutes, not 50"
+ }
+}

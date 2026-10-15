@@ -1,0 +1,15 @@
+5 niche ways to find what your signup page is hiding
+
+1. send gated visitors to your real signup page, not a popup
+2. decide on purpose whether the trial asks for a card
+3. cut password rules down to a sensible minimum length
+4. time how long your reset email takes to land
+5. let people try or buy before they make an account
+
+comment CARD if you ask for it upfront
+
+#saas #startup #founders #conversionrate #ux @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.
