@@ -1,0 +1,58 @@
+{
+ "date": "2026-10-15",
+ "region": "eu",
+ "outdir": "posts/2026-10-15-eu-5",
+ "cover": {
+  "sub": "5 niche ways to become",
+  "title": "the founder the <span class=\"y\">dma</span> was written for",
+  "steps": [
+   "steer out",
+   "pull data",
+   "skip store",
+   "ranking",
+   "interop"
+  ],
+  "hook": "(save them)",
+  "image": "painting-hals-merry-drinker.jpg"
+ },
+ "inner": [
+  {
+   "title": "steer users <span class=\"hl\">off-store</span>",
+   "body": "the dma lets app developers tell users about cheaper offers outside the app store. apple was fined €500m on 23 april 2025 for blocking exactly that.",
+   "label": "€500m fine",
+   "image": "painting-latour-fortune-teller.jpg"
+  },
+  {
+   "title": "pull your <span class=\"hl\">data</span> live",
+   "body": "gatekeepers must give business users free, real-time access to the data their business generates there. if you never ask, the platform keeps it alone.",
+   "label": "article 6(10)",
+   "image": "painting-eakins-writing-master.jpg"
+  },
+  {
+   "title": "skip the <span class=\"hl\">app store</span>",
+   "body": "alternative app stores like aptoide, epic games store and altstore run on apple's systems in the eu. your app can live there too, nobody sends invites.",
+   "label": "no invite coming",
+   "image": "painting-latour-cheat-ace-of-diamonds.jpg"
+  },
+  {
+   "title": "demand fair <span class=\"hl\">ranking</span>",
+   "body": "under article 6(5), google search must not rank its own services above similar third-party ones. the commission hasn't endorsed google's fixes, so check your results.",
+   "label": "screenshot it",
+   "image": "painting-david-lavoisier-writing.jpg"
+  },
+  {
+   "title": "ask for <span class=\"hl\">interop</span>",
+   "body": "gatekeepers must give third parties free access to the same os features their own services use. nobody grants access you never formally request.",
+   "label": "ask in writing",
+   "image": "painting-leutze-washington-delaware.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "the law already<br>picked <span class=\"y\">your side</span>",
+  "TONIGHT": "list your gatekeepers",
+  "THIS_WEEK": "request 6(10) data",
+  "NEXT_WEEK": "add an off-store offer",
+  "CTA": "comment the <b>number</b> you'll use first",
+  "NEXT_TITLE": "5 niche things that will make you dangerously good at the dsa"
+ }
+}

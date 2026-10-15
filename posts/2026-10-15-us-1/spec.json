@@ -1,0 +1,58 @@
+{
+ "date": "2026-10-15",
+ "region": "us",
+ "outdir": "posts/2026-10-15-us-1",
+ "cover": {
+  "sub": "5 niche things that will make you",
+  "title": "disgustingly good at spotting <span class=\"y\">bot traffic</span>",
+  "steps": [
+   "the 53%",
+   "zero-second",
+   "odd geos",
+   "ai crawlers",
+   "bot signups"
+  ],
+  "hook": "(save them)",
+  "image": "painting-ducreux-mocker.jpg"
+ },
+ "inner": [
+  {
+   "title": "over <span class=\"hl\">half</span> aren't human",
+   "body": "imperva's 2026 bad bot report says bots now make up over 53% of all web traffic. half your dashboard's visitors may never have had a pulse.",
+   "label": "no pulse",
+   "image": "painting-david-lavoisier-writing.jpg"
+  },
+  {
+   "title": "zero-second <span class=\"hl\">sessions</span>",
+   "body": "a spike on one page with near-zero read time suggests a scraper. a bounce rate that repeats exactly every day is a script, not an audience.",
+   "label": "humans skim",
+   "image": "painting-latour-fortune-teller.jpg"
+  },
+  {
+   "title": "suspiciously <span class=\"hl\">american</span>",
+   "body": "a decodo analysis of cloudflare radar data says the us sends 53.5% of global bot traffic. a us-heavy dashboard proves nothing about us customers.",
+   "label": "datacenter americans",
+   "image": "painting-eakins-writing-master.jpg"
+  },
+  {
+   "title": "crawlers never <span class=\"hl\">click</span>",
+   "body": "cloudflare counted 38,065 anthropic crawls per referred visit in july 2025, and about 1,091 for openai. they read everything and send almost nobody back.",
+   "label": "38,065 to 1",
+   "image": "painting-latour-cheat-ace-of-diamonds.jpg"
+  },
+  {
+   "title": "bots that <span class=\"hl\">sign up</span>",
+   "body": "sms pumping bots sign up with throwaway emails and trigger texts to numbers they control. okta says you pay, potentially hundreds of thousands of dollars.",
+   "label": "you pay",
+   "image": "painting-courbet-desperate-man.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "half your traffic<br>was never <span class=\"y\">human</span>",
+  "TONIGHT": "compare sessions to signups",
+  "THIS_WEEK": "check what your tool filters",
+  "NEXT_WEEK": "rate-limit sms codes",
+  "CTA": "comment <b>bots</b> and we'll reply with the full guide",
+  "NEXT_TITLE": "5 niche ways to become the founder who counts only humans"
+ }
+}

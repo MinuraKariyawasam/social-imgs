@@ -1,0 +1,58 @@
+{
+ "date": "2026-10-15",
+ "region": "us",
+ "outdir": "posts/2026-10-15-us-4",
+ "cover": {
+  "sub": "5 niche ways to become",
+  "title": "the founder who ships <span class=\"y\">before ready</span>",
+  "steps": [
+   "ship ugly",
+   "timebox",
+   "set a date",
+   "audience",
+   "launch"
+  ],
+  "hook": "(you're probably doing none of them)",
+  "image": "painting-eakins-the-thinker.jpg"
+ },
+ "inner": [
+  {
+   "title": "ship it <span class=\"hl\">embarrassed</span>",
+   "body": "reid hoffman's rule: if you're not embarrassed by your first version, you launched too late. the polish you're adding is mostly for your ego.",
+   "label": "ship the cringe",
+   "image": "painting-labille-guiard-two-pupils.jpg"
+  },
+  {
+   "title": "<span class=\"hl\">timebox</span> the spec",
+   "body": "yc's michael seibel says if you launch in three weeks, build only what fits in three weeks. skip that and three weeks becomes three months.",
+   "label": "cut it anyway",
+   "image": "painting-caravaggio-denial-of-peter.jpg"
+  },
+  {
+   "title": "announce the <span class=\"hl\">date</span>",
+   "body": "pick a launch day and post the headline publicly before the product ships. a private deadline is just a suggestion you keep renegotiating.",
+   "label": "no take-backs",
+   "image": "painting-hals-laughing-cavalier.jpg"
+  },
+  {
+   "title": "build the <span class=\"hl\">audience</span> first",
+   "body": "by september 2024, product hunt featured only about 10% of launches, per tetriz.io data. launch day reveals your audience, it doesn't create one.",
+   "label": "90% unseen",
+   "image": "painting-repin-zaporozhian-cossacks.jpg"
+  },
+  {
+   "title": "launch to <span class=\"hl\">start</span>",
+   "body": "paul graham wrote that you haven't really started working on your product until you've launched. everything before launch day is guessing.",
+   "label": "day zero",
+   "image": "painting-rembrandt-syndics.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "ready is a <span class=\"y\">date</span>,<br>not a feeling.",
+  "TONIGHT": "pick a launch day",
+  "THIS_WEEK": "post the headline publicly",
+  "NEXT_WEEK": "ship it, embarrassed",
+  "CTA": "comment <b>launch</b> and we'll reply with the full guide",
+  "NEXT_TITLE": "5 niche ways to get your first 100 users after launch"
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "date": "2026-10-15",
+ "region": "eu",
+ "outdir": "posts/2026-10-15-eu-1",
+ "cover": {
+  "sub": "5 niche things that will make you",
+  "title": "annoyingly good at <span class=\"y\">e‑invoicing</span>",
+  "steps": [
+   "no pdfs",
+   "peppol",
+   "belgium",
+   "france",
+   "poland"
+  ],
+  "hook": "(good luck)",
+  "image": "painting-kramskoi-unknown-woman.jpg"
+ },
+ "inner": [
+  {
+   "title": "pdfs don't <span class=\"hl\">count</span>",
+   "body": "since 1 jan 2025, german b2b e-invoices must meet en 16931, like xrechnung or zugferd. a plain pdf no longer counts, however nice it looks.",
+   "label": "nice pdf though",
+   "image": "painting-terborch-curiosity.jpg"
+  },
+  {
+   "title": "connect <span class=\"hl\">once</span>",
+   "body": "on peppol, one certified access point lets you reach any receiver on the network. every invoice gets validated before sending, so sloppy data never leaves.",
+   "label": "one plug",
+   "image": "painting-repin-zaporozhian-cossacks.jpg"
+  },
+  {
+   "title": "belgium <span class=\"hl\">fines</span> you",
+   "body": "belgium fines businesses that can't send and receive structured e-invoices €1,500, then €3,000, then €5,000. your client may also lose their vat deduction.",
+   "label": "€5,000 later",
+   "image": "painting-caravaggio-boy-bitten-lizard.jpg"
+  },
+  {
+   "title": "€50 per <span class=\"hl\">invoice</span>",
+   "body": "france's reform applies from 1 september 2026, with €50 per invoice not issued electronically. the yearly cap is €15,000, somehow the comforting part.",
+   "label": "capped, at least",
+   "image": "painting-daumier-third-class-carriage.jpg"
+  },
+  {
+   "title": "poland's <span class=\"hl\">grace</span> ends",
+   "body": "poland's ksef went mandatory in 2026, but small invoicers got until year end. that grace ends 1 january 2027, eleven weeks away.",
+   "label": "eleven weeks",
+   "image": "painting-caravaggio-denial-of-peter.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "it's not paperwork.<br>it's <span class=\"y\">plumbing</span>.",
+  "TONIGHT": "check your tool exports ubl",
+  "THIS_WEEK": "get onto peppol",
+  "NEXT_WEEK": "send a test e-invoice",
+  "CTA": "comment the <b>country</b> you invoice most",
+  "NEXT_TITLE": "5 niche ways to get paid faster across europe"
+ }
+}

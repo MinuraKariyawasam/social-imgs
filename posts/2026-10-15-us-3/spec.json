@@ -1,0 +1,58 @@
+{
+ "date": "2026-10-15",
+ "region": "us",
+ "outdir": "posts/2026-10-15-us-3",
+ "cover": {
+  "sub": "5 niche things that will make you",
+  "title": "dangerously ready for the <span class=\"y\">si force</span>",
+  "steps": [
+   "the force",
+   "no teeth",
+   "an owner",
+   "outside eye",
+   "gov buyers"
+  ],
+  "hook": "(screenshot this)",
+  "image": "painting-caravaggio-boy-bitten-lizard.jpg"
+ },
+ "inner": [
+  {
+   "title": "what the <span class=\"hl\">force</span> is",
+   "body": "a white house task force announced october 4, 2026, led by dni jay clayton. it has no published budget, mandate or legal powers yet.",
+   "label": "no powers yet",
+   "image": "painting-villers-du-val-dognes.jpg"
+  },
+  {
+   "title": "the accord binds <span class=\"hl\">nobody</span>",
+   "body": "the voluntary accord asks frontier model companies to run four layers of controls, with no penalties. its last paragraph says those steps may become laws.",
+   "label": "for now",
+   "image": "painting-chardin-soap-bubbles.jpg"
+  },
+  {
+   "title": "name an <span class=\"hl\">owner</span>",
+   "body": "layer two is an internal team responsible for making sure the controls work and problems get fixed. if nobody on your team owns that, you already fail it.",
+   "label": "who, exactly",
+   "image": "painting-bronzino-young-man.jpg"
+  },
+  {
+   "title": "get an <span class=\"hl\">outside</span> check",
+   "body": "layer three is an independent auditor or evaluator checking whether your controls work as intended. grading your own homework does not count.",
+   "label": "not you",
+   "image": "painting-hals-merry-drinker.jpg"
+  },
+  {
+   "title": "selling to <span class=\"hl\">government</span>",
+   "body": "nothing in the order applies to private companies, except anyone selling to government. their next renewal form and any new rfp will likely say si.",
+   "label": "read the rfp",
+   "image": "painting-ducreux-yawning.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "it's not law yet.<br>it's a <span class=\"y\">preview</span>.",
+  "TONIGHT": "score yourself on 4 layers",
+  "THIS_WEEK": "name one internal owner",
+  "NEXT_WEEK": "find an outside evaluator",
+  "CTA": "comment <b>force</b> and we'll reply with the full guide",
+  "NEXT_TITLE": "5 niche habits of superintelligent builders"
+ }
+}

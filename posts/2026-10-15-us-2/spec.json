@@ -1,0 +1,58 @@
+{
+ "date": "2026-10-15",
+ "region": "us",
+ "outdir": "posts/2026-10-15-us-2",
+ "cover": {
+  "sub": "5 niche ways to become",
+  "title": "the founder who sees <span class=\"y\">ai traffic</span> first",
+  "steps": [
+   "ai channel",
+   "direct",
+   "referrers",
+   "perplexity",
+   "landings"
+  ],
+  "hook": "(screenshot this)",
+  "image": "painting-elgreco-cardinal.jpg"
+ },
+ "inner": [
+  {
+   "title": "the ai <span class=\"hl\">floor</span>",
+   "body": "ga4 added an ai assistant channel on may 13, 2026, tagging chatgpt, gemini and claude visits. it only counts visits with a referrer, so it's a floor.",
+   "label": "undercounted",
+   "image": "painting-terborch-curiosity.jpg"
+  },
+  {
+   "title": "ai hiding in <span class=\"hl\">direct</span>",
+   "body": "visits without a referrer, like links opened in in-app browsers, get filed under direct. one dataset found 70.6% of identified ai visits had no referrer.",
+   "label": "70.6% invisible",
+   "image": "painting-munch-the-scream.jpg"
+  },
+  {
+   "title": "the referrer <span class=\"hl\">vanishes</span>",
+   "body": "free chat apps often send no referrer, and copied links lose it in a new tab. safari privacy settings strip what remains.",
+   "label": "gone in safari",
+   "image": "painting-daumier-third-class-carriage.jpg"
+  },
+  {
+   "title": "check <span class=\"hl\">perplexity</span>",
+   "body": "perplexity isn't in google's ai assistant channel, so its visits still land in referral. without a perplexity rule, your ai report skips it.",
+   "label": "still referral",
+   "image": "painting-kramskoi-unknown-woman.jpg"
+  },
+  {
+   "title": "where ai <span class=\"hl\">lands</span>",
+   "body": "assistants cite pages beyond your homepage, so sort referral and direct visits by landing page. llm-referred visitors convert at twice the rate of other sources.",
+   "label": "2x conversion",
+   "image": "painting-fedotov-fresh-cavalier.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "it's not missing.<br>it's <span class=\"y\">misfiled</span>.",
+  "TONIGHT": "export 90 days of direct",
+  "THIS_WEEK": "add a perplexity rule",
+  "NEXT_WEEK": "ask how-did-you-hear",
+  "CTA": "comment <b>ai</b> and we'll reply with the full guide",
+  "NEXT_TITLE": "5 niche things that will make you disgustingly good at llm referrals"
+ }
+}

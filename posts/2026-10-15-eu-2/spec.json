@@ -1,0 +1,58 @@
+{
+ "date": "2026-10-15",
+ "region": "eu",
+ "outdir": "posts/2026-10-15-eu-2",
+ "cover": {
+  "sub": "5 niche things that will make you",
+  "title": "dangerously good at the <span class=\"y\">data act</span>",
+  "steps": [
+   "applies now",
+   "2 months",
+   "zero egress",
+   "device data",
+   "fair terms"
+  ],
+  "hook": "(screenshot this)",
+  "image": "painting-bronzino-young-man.jpg"
+ },
+ "inner": [
+  {
+   "title": "it already <span class=\"hl\">applies</span>",
+   "body": "the data act has applied across the eu since 12 september 2025, per the european commission. if your contracts still say coming soon, you're a year late.",
+   "label": "since 2025",
+   "image": "painting-chardin-soap-bubbles.jpg"
+  },
+  {
+   "title": "<span class=\"hl\">two months</span> notice",
+   "body": "cloud and saas contracts must let customers start switching with at most two months notice. that includes your customers leaving you.",
+   "label": "lock-in's over",
+   "image": "painting-ducreux-mocker.jpg"
+  },
+  {
+   "title": "egress fees <span class=\"hl\">end</span>",
+   "body": "from 12 january 2027, providers must drop switching charges, including egress fees. until then they can still bill switching costs, so check invoices.",
+   "label": "12.01.2027",
+   "image": "painting-ducreux-yawning.jpg"
+  },
+  {
+   "title": "the data is <span class=\"hl\">theirs</span>",
+   "body": "users of connected products can access the data they generate, free of charge. you can't even use their non-personal data without an agreement.",
+   "label": "not your data",
+   "image": "painting-villers-du-val-dognes.jpg"
+  },
+  {
+   "title": "unfair terms <span class=\"hl\">die</span>",
+   "body": "take-it-or-leave-it terms imposed by a stronger party can be unfair and stop being valid. a clause dodging liability for gross negligence always is.",
+   "label": "read the msa",
+   "image": "painting-steen-feast-of-st-nicholas.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "not compliance.<br>it's <span class=\"y\">leverage</span>.",
+  "TONIGHT": "find your cloud exit clause",
+  "THIS_WEEK": "add a 2-month exit",
+  "NEXT_WEEK": "redline one supplier",
+  "CTA": "comment the <b>number</b> you'll fix first",
+  "NEXT_TITLE": "5 niche things that will make you annoyingly good at cloud switching"
+ }
+}

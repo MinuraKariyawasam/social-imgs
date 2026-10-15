@@ -58,7 +58,7 @@ const h=document.querySelector('h1,h2');const ims=[...document.querySelectorAll(
 const o={font_px:parseFloat(getComputedStyle(h).fontSize),title_bottom:Math.round(h.getBoundingClientRect().bottom),
 img_loaded:ims.length?ims.every(i=>i.naturalWidth>0):null,font:document.fonts.check('900 40px G')};
 const b=r('.b');if(b){o.body_bottom=Math.round(b.bottom);o.body_ok=b.bottom<1000}
-const fl=r('.flow');if(fl){o.flow_top=Math.round(fl.top);o.title_clear=h.getBoundingClientRect().bottom<fl.top-20}
+const fl=r('.flow');if(fl){o.flow_top=Math.round(fl.top);o.title_clear=h.getBoundingClientRect().bottom<(document.querySelector('h1')?545:fl.top-20)}
 const cta=r('.cta');if(cta){o.cta_lines=Math.round(cta.height/(parseFloat(getComputedStyle(document.querySelector('.cta')).fontSize)*1.4))}
 const pb=[...document.querySelectorAll('.pb p,.st .tag')];o.boxes_ok=pb.every(e=>{const p=e.parentElement.getBoundingClientRect(),q=e.getBoundingClientRect();return q.bottom<=p.bottom&&q.right<=p.right+1&&q.left>=p.left-1});
 return o}'''

@@ -1,0 +1,16 @@
+5 niche things that will make you disgustingly good at spotting bot traffic
+
+track it tonight: chart weekly visitors against weekly signups and see if they move together
+track it tonight: sort pages by read time and flag spikes with near-zero engagement
+track it tonight: list countries sending traffic with zero conversions in 90 days
+track it tonight: compare ai crawler hits in your server logs to ai referral visits
+track it tonight: count sms codes sent per signup and alert on sudden spikes
+
+comment BOTS and we'll reply with the full guide
+
+#startups #founders #saas #analytics #bottraffic
+@getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

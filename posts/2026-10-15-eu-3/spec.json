@@ -1,0 +1,58 @@
+{
+ "date": "2026-10-15",
+ "region": "eu",
+ "outdir": "posts/2026-10-15-eu-3",
+ "cover": {
+  "sub": "5 niche things that will make you terrifyingly good at the",
+  "title": "<span class=\"y\">cyber resilience act</span>",
+  "steps": [
+   "24h",
+   "saas scope",
+   "sbom",
+   "end date",
+   "€15m"
+  ],
+  "hook": "(you're probably doing none of them)",
+  "image": "painting-hals-laughing-cavalier.jpg"
+ },
+ "inner": [
+  {
+   "title": "the 24h <span class=\"hl\">warning</span>",
+   "body": "since 11 september 2026, manufacturers must send an early warning within 24 hours of spotting an actively exploited vulnerability. the clock starts at awareness.",
+   "label": "clock's running",
+   "image": "painting-elgreco-cardinal.jpg"
+  },
+  {
+   "title": "your saas <span class=\"hl\">loophole</span>",
+   "body": "the cra skips websites that don't support a product, but cloud features built to run one are in scope. pure saas lands in nis2 once you're medium-sized.",
+   "label": "not a loophole",
+   "image": "painting-eakins-the-thinker.jpg"
+  },
+  {
+   "title": "the <span class=\"hl\">sbom</span>",
+   "body": "the cra expects you to document every component in your product, including an sbom. you don't have to publish it, just know what's in there.",
+   "label": "npm says hi",
+   "image": "painting-labille-guiard-two-pupils.jpg"
+  },
+  {
+   "title": "the support <span class=\"hl\">end date</span>",
+   "body": "buyers must see the month and year your security support ends, right at purchase. as long as we can is no longer a support period.",
+   "label": "pick a date",
+   "image": "painting-rembrandt-syndics.jpg"
+  },
+  {
+   "title": "the <span class=\"hl\">€15m</span> line",
+   "body": "breaking the essential requirements or reporting duties can cost €15m or 2.5% of worldwide turnover. small firms are only spared for missing the 24h deadline.",
+   "label": "€15m fine",
+   "image": "painting-greuze-broken-eggs.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "it's not paperwork.<br>it's <span class=\"y\">product</span>.",
+  "TONIGHT": "write a 24h runbook",
+  "THIS_WEEK": "generate an sbom",
+  "NEXT_WEEK": "map your ce mark path",
+  "CTA": "comment the <b>number</b> you'll fix first",
+  "NEXT_TITLE": "5 niche things that will make you dangerously good at nis2"
+ }
+}

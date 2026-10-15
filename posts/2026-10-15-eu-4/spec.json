@@ -1,0 +1,58 @@
+{
+ "date": "2026-10-15",
+ "region": "eu",
+ "outdir": "posts/2026-10-15-eu-4",
+ "cover": {
+  "sub": "5 niche ways to become",
+  "title": "the founder who hires across <span class=\"y\">europe</span>",
+  "steps": [
+   "pay range",
+   "blue card",
+   "a1 form",
+   "50% rule",
+   "eor"
+  ],
+  "hook": "(save them)",
+  "image": "painting-courbet-desperate-man.jpg"
+ },
+ "inner": [
+  {
+   "title": "post the <span class=\"hl\">range</span>",
+   "body": "since june 2026, eu rules expect a salary range in the ad or before the first interview. asking what are you on now is off the table too.",
+   "label": "not competitive",
+   "image": "painting-repin-unexpected-visitors.jpg"
+  },
+  {
+   "title": "learn the <span class=\"hl\">blue card</span>",
+   "body": "the eu blue card salary threshold sits between 1 and 1.6 times average gross annual salary. denmark and ireland don't take part.",
+   "label": "not in dublin",
+   "image": "painting-rembrandt-aristotle.jpg"
+  },
+  {
+   "title": "get the <span class=\"hl\">a1</span>",
+   "body": "teleworking under 50% from abroad can keep staff insured in your country, with an a1 certificate. backdating stops at three months.",
+   "label": "paperwork first",
+   "image": "painting-wood-american-gothic.jpg"
+  },
+  {
+   "title": "watch the <span class=\"hl\">50% rule</span>",
+   "body": "the oecd's 2025 update says a home used under 50% of working time generally isn't a place of business. employee convenience isn't a commercial reason.",
+   "label": "tax office notices",
+   "image": "painting-vermeer-astronomer.jpg"
+  },
+  {
+   "title": "rent an <span class=\"hl\">employer</span>",
+   "body": "an employer of record becomes the legal employer and runs payroll and local compliance. setting up your own entity can take about five months.",
+   "label": "skip the notary",
+   "image": "painting-hals-merrymakers.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "hiring abroad is<br>mostly <span class=\"y\">paperwork</span>",
+  "TONIGHT": "add a range to your ad",
+  "THIS_WEEK": "list who works abroad",
+  "NEXT_WEEK": "get one eor quote",
+  "CTA": "comment the <b>country</b> you're hiring in",
+  "NEXT_TITLE": "5 niche ways to become the founder europe's talent picks"
+ }
+}

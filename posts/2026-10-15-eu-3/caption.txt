@@ -1,0 +1,16 @@
+5 niche things that will make you terrifyingly good at the cyber resilience act
+
+track it tonight: name who files the 24h early warning if a vuln gets exploited
+track it tonight: list the cloud features your product can't run without
+track it tonight: export an sbom from your lockfile and count the components
+track it tonight: write down the month and year your security support ends
+track it tonight: check if you're a small enterprise under eu size rules
+
+comment the NUMBER you'll fix first
+
+#cyberresilienceact #eustartups #europeantech #cybersecurity
+@getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.
