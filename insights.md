@@ -11,6 +11,7 @@
 2026-10-16, us-2, P1
 2026-10-16, eu-4, P1
 2026-10-16, us-3, P6
+2026-10-16, eu-5, P6
 
 ## 2026-10-16 analytics
 Pulled 2026-10-15 ~17:00 UTC. TikTok 19 posts, Instagram 17 posts in the last 45 days. Only 1 post (unmatched TikTok, 2026-10-13 06:32 UTC) is 48h+ old, so 0 matched scored posts: not enough data. Queue order and default hours.
@@ -49,6 +50,7 @@ eu-5: 5 posts 48h+ old (TikTok 3 incl. 1 unmatched, Instagram 2; still under 6);
 - 2026-10-16 us-2: Jazz Blue - Wallvas (7482874811062847504)
 - 2026-10-16 eu-4: Land - Adrián Berenguer (7210601088247711745)
 - 2026-10-16 us-3: Slow and gentle acoustic piano(1388951) - Noru (7190464410681346049)
+- 2026-10-16 eu-5: Villa-Lobos Etude No1b (F) - Music Time (7125468510587652100)
 
 ## idea backlog
 - eu P5: 5 niche things that will make you dangerously good at nis2
