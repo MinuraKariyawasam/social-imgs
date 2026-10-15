@@ -1,0 +1,27 @@
+{
+ "date": "2026-10-16",
+ "region": "us",
+ "outdir": "posts/2026-10-16-us-1",
+ "cover": {
+  "sub": "5 niche things that will make you annoyingly good at",
+  "title": "catching <span class=\"y\">bugs</span> before users do",
+  "steps": ["deploys", "5% first", "robot user", "silence", "people"],
+  "hook": "(copy them)",
+  "image": "painting-caravaggio-boy-bitten-lizard.jpg"
+ },
+ "inner": [
+  {"title": "watch every <span class=\"hl\">deploy</span>", "body": "google's sre workbook says a majority of incidents are triggered by binary or configuration pushes. your next bug is probably riding in your next release.", "label": "most incidents", "image": "painting-elgreco-cardinal.jpg"},
+  {"title": "ship to <span class=\"hl\">5%</span> first", "body": "google's canary example sends a change to 5% of users and compares them with everyone else. ship to everyone at once and everyone is your tester.", "label": "small blast radius", "image": "painting-vermeer-astronomer.jpg"},
+  {"title": "hire a <span class=\"hl\">robot</span> user", "body": "synthetic browser tests click through login and checkout as often as every minute, from several locations. without one, your first alert is an angry customer.", "label": "every minute", "image": "painting-ducreux-yawning.jpg"},
+  {"title": "users don't <span class=\"hl\">report</span>", "body": "in a 2017 us survey of 1,000+ app users, 88% said bugs make them abandon apps. a quiet support inbox is not the same as no bugs.", "label": "88% leave", "image": "painting-greuze-broken-eggs.jpg"},
+  {"title": "count <span class=\"hl\">people</span>, not errors", "body": "crash-free users is the share of people who hit no crash in a period. one user can throw 500 errors while 500 users quietly hit one each.", "label": "the real score", "image": "painting-hals-merry-drinker.jpg"}
+ ],
+ "closer": {
+  "HEADLINE": "users aren't your qa team.<br>your <span class=\"y\">alerts</span> are",
+  "TONIGHT": "tag errors with the release version",
+  "THIS_WEEK": "add a robot test for checkout",
+  "NEXT_WEEK": "ship the next deploy to 5% first",
+  "CTA": "comment <b>me</b> if users find your bugs first",
+  "NEXT_TITLE": "5 niche habits of founders who make one fix a day"
+ }
+}

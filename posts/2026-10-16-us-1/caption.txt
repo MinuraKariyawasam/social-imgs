@@ -1,0 +1,16 @@
+5 niche things that will make you annoyingly good at catching bugs before users do
+
+track it tonight: tag every error with the release version that shipped it
+track it tonight: pick one change this week and ship it to 5% of users first
+track it tonight: write down the 3 clicks your checkout or login can't break
+track it tonight: count how many bug reports you got this month vs how many errors you logged
+track it tonight: check how many users hit an error yesterday, not how many errors fired
+
+comment ME if users find your bugs first
+
+#startups #founders #saas #buildinpublic #webdev
+@getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.
