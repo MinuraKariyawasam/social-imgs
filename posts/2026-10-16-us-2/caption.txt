@@ -1,0 +1,15 @@
+5 niche ways to know which channel actually pays you
+
+1. add a "how did you hear about us" field to signup tonight
+2. pull 10 recent customers and compare their answer with the last click your tool credited
+3. put utm_source and utm_medium on every link in your bio, newsletter and launch posts
+4. save each buyer's first source in stripe checkout metadata
+5. list every channel you spend time on and how many paying customers named it
+
+comment ME if you can't name your best channel
+
+#startups #saas #founders #marketingattribution #buildinpublic @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

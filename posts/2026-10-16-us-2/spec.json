@@ -1,0 +1,27 @@
+{
+ "date": "2026-10-16",
+ "region": "us",
+ "outdir": "posts/2026-10-16-us-2",
+ "cover": {
+  "sub": "5 niche ways to know",
+  "title": "which channel <span class=\"y\">actually</span> pays you",
+  "steps": ["ask", "last touch", "utm tags", "payment", "podcasts"],
+  "hook": "(copy them)",
+  "image": "painting-kramskoi-unknown-woman.jpg"
+ },
+ "inner": [
+  {"title": "ask them <span class=\"hl\">directly</span>", "body": "add a how did you hear about us field at signup. in 8,528 b2b answers, 18% said word of mouth, a channel no tracker has.", "label": "18% invisible", "image": "painting-david-lavoisier-writing.jpg"},
+  {"title": "last touch <span class=\"hl\">lies</span>", "body": "last touch credits the final click before a lead converts. when email was that click, only 21% of buyers said email brought them.", "label": "21% match", "image": "painting-munch-the-scream.jpg"},
+  {"title": "tag every <span class=\"hl\">link</span>", "body": "ga4 only files a visit under email when the source or medium says email. anything it can't match lands in unassigned.", "label": "unassigned", "image": "painting-daumier-third-class-carriage.jpg"},
+  {"title": "tag the <span class=\"hl\">payment</span>", "body": "stripe checkout takes metadata on every session, so save the first source there. otherwise your revenue never meets your traffic.", "label": "follow the money", "image": "painting-latour-fortune-teller.jpg"},
+  {"title": "your <span class=\"hl\">podcast</span> problem", "body": "46% of companies in one study had a podcast. only 12 of 8,528 buyers named a podcast as how they found them.", "label": "0.14%", "image": "painting-steen-feast-of-st-nicholas.jpg"}
+ ],
+ "closer": {
+  "HEADLINE": "traffic is a guess.<br>revenue is the <span class=\"y\">answer</span>",
+  "TONIGHT": "add a how did you hear field",
+  "THIS_WEEK": "tag every link you share",
+  "NEXT_WEEK": "save first source on each payment",
+  "CTA": "comment <b>me</b> if you can't name your best channel",
+  "NEXT_TITLE": "5 niche habits of founders who make one fix a day"
+ }
+}
