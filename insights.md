@@ -26,7 +26,10 @@ best_time_to_post: 1 post per hour slot, no usable signal.
 
 Pillars over the last 3 days (assigned from titles): US P5 x3, P4 x2, P1 x2, P6 x2, P2 x1, P3 x0. EU P5 x9, P6 x1, P3 x1, P1/P2/P4 x0.
 Plan decisions: US skips P4 (tied with P1 for most, higher number). EU skips P3 (only website pillar used). Several queue titles skipped for overlapping recent topics (see plan notes). Keywords reserved per slot; guide_url left for each run to confirm. Hooks: 4 call-out, 6 keep-it.
-eu-1: no change in the numbers since the plan -> kept plan (CTA switched to engagement: no checkout guide could be opened)
+eu-1: no change in the numbers since the plan -> kept plan (CTA switched to engagement: no checkout guide could be opened). track: Little Things - Adrián Berenguer
+
+## tracks used
+- 2026-10-16 eu-1: Little Things - Adrián Berenguer (6981828410792216577)
 
 ## idea backlog
 - eu P5: 5 niche things that will make you dangerously good at nis2
