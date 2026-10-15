@@ -1,0 +1,27 @@
+{
+ "date": "2026-10-16",
+ "region": "eu",
+ "outdir": "posts/2026-10-16-eu-3",
+ "cover": {
+  "sub": "5 niche things that will make you annoyingly good at the new eu",
+  "title": "<span class=\"y\">product liability</span> rules",
+  "steps": ["software", "patches", "learning", "data", "no cap"],
+  "hook": "(good luck)",
+  "image": "painting-courbet-desperate-man.jpg"
+ },
+ "inner": [
+  {"title": "your code is a <span class=\"hl\">product</span>", "body": "the 2024 eu directive counts software as a product, saas and cloud included. it covers products placed on the market after 9 december 2026.", "label": "saas included", "image": "painting-eakins-writing-master.jpg"},
+  {"title": "skipped <span class=\"hl\">patches</span> count", "body": "the directive says manufacturers are not exempt when a defect comes from missing security updates. an unpatched hole can land on you.", "label": "patch or pay", "image": "painting-ducreux-yawning.jpg"},
+  {"title": "your model keeps <span class=\"hl\">learning</span>", "body": "defectiveness must weigh a product's ability to keep learning after launch. unexpected behaviour your ai picks up later is still yours.", "label": "still yours", "image": "painting-elgreco-cardinal.jpg"},
+  {"title": "lost data is <span class=\"hl\">damage</span>", "body": "destroyed or corrupted data now counts as damage, if it isn't used for professional purposes. consumer apps that lose user files are exposed.", "label": "consumer data", "image": "painting-caravaggio-boy-bitten-lizard.jpg"},
+  {"title": "no <span class=\"hl\">cap</span>, long clock", "body": "national law can't cap liability with a financial ceiling. claims can reach back 10 years from launch, 25 for slow-onset injuries.", "label": "10 years", "image": "painting-leutze-washington-delaware.jpg"}
+ ],
+ "closer": {
+  "HEADLINE": "it's not a legal memo.<br>it's your <span class=\"y\">patch log</span>",
+  "TONIGHT": "list what you ship to eu users",
+  "THIS_WEEK": "write down your patch schedule",
+  "NEXT_WEEK": "back up user data, test a restore",
+  "CTA": "comment the <b>number</b> you'll fix first",
+  "NEXT_TITLE": "5 niche things that will make you dangerously good at nis2"
+ }
+}

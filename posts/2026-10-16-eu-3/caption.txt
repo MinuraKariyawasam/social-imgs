@@ -1,0 +1,16 @@
+5 niche things that will make you annoyingly good at the new eu product liability rules
+
+track it tonight:
+1. list every piece of software you ship to eu users, saas included
+2. write down how fast you push security patches
+3. log what your ai model changes or learns after launch
+4. check your backups for consumer user data and test a restore
+5. note the launch date of each product version
+
+comment the NUMBER you'll fix first
+
+#eustartups #europeanstartups #productliability #saasfounders @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.
