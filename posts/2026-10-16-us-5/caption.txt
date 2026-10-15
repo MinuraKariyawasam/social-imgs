@@ -1,0 +1,15 @@
+5 niche free tools that will make you disgustingly good at seo in the si era
+
+1. track it tonight: in search console, open performance, search type web, and list the 10 pages that gained clicks this month.
+2. track it tonight: verify your site in bing webmaster tools and open the ai performance report to see which pages copilot cites.
+3. track it tonight: cancel any "ai schema" add-on and make sure your existing markup matches what's visible on the page.
+4. track it tonight: run your top 3 pages through pagespeed insights and note which miss lcp 2.5s, inp 200ms or cls 0.1.
+5. track it tonight: create an indexnow key file and send your 10 most recently changed urls.
+
+comment the TOOL you'll open first
+
+#seo #aisearch #founders #startups #searchconsole @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

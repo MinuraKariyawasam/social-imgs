@@ -1,0 +1,58 @@
+{
+ "date": "2026-10-16",
+ "region": "us",
+ "outdir": "posts/2026-10-16-us-5",
+ "cover": {
+  "sub": "5 niche free tools that will make you",
+  "title": "disgustingly good at <span class=\"y\">seo</span> in the si era",
+  "steps": [
+   "console",
+   "citations",
+   "no schema",
+   "field data",
+   "indexnow"
+  ],
+  "hook": "(save for later)",
+  "image": "painting-bronzino-young-man.jpg"
+ },
+ "inner": [
+  {
+   "title": "search <span class=\"hl\">console</span> first",
+   "body": "google counts ai overviews and ai mode traffic inside search console's normal web report. the ai clicks you're chasing sit in a free tab you never open.",
+   "label": "already free",
+   "image": "painting-eakins-the-thinker.jpg"
+  },
+  {
+   "title": "bing counts <span class=\"hl\">citations</span>",
+   "body": "bing webmaster tools has a free ai performance report showing copilot citations per page. citations aren't clicks, so a page can feed copilot daily and show zero visits.",
+   "label": "not a click",
+   "image": "painting-rembrandt-aristotle.jpg"
+  },
+  {
+   "title": "skip the <span class=\"hl\">ai schema</span>",
+   "body": "google's ai features page says ai overviews need no special schema and no extra technical setup. anyone charging you for ai markup is selling air.",
+   "label": "selling air",
+   "image": "painting-ducreux-mocker.jpg"
+  },
+  {
+   "title": "read <span class=\"hl\">field data</span>",
+   "body": "pagespeed insights shows real user data against lcp 2.5s, inp 200ms and cls 0.1. what counts is your 75th percentile visitor, not your laptop.",
+   "label": "75th percentile",
+   "image": "painting-wood-american-gothic.jpg"
+  },
+  {
+   "title": "ping <span class=\"hl\">indexnow</span>",
+   "body": "one indexnow request tells bing, yandex, naver, seznam and yep about up to 10,000 changed urls. google doesn't take part, so it never replaces search console.",
+   "label": "not google",
+   "image": "painting-hals-laughing-cavalier.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "seo didn't die.<br>it got <span class=\"y\">free tools</span>",
+  "TONIGHT": "verify your site in bing webmaster",
+  "THIS_WEEK": "check field data in pagespeed",
+  "NEXT_WEEK": "send indexnow on every deploy",
+  "CTA": "comment the <b>tool</b> you'll open first",
+  "NEXT_TITLE": "5 niche ways to get your first 100 users from reddit without getting banned"
+ }
+}
