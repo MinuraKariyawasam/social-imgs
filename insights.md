@@ -7,6 +7,7 @@
 2026-10-16, eu-1, P2
 2026-10-16, eu-2, P4
 2026-10-16, us-1, P3
+2026-10-16, eu-3, P5
 
 ## 2026-10-16 analytics
 Pulled 2026-10-15 ~17:00 UTC. TikTok 19 posts, Instagram 17 posts in the last 45 days. Only 1 post (unmatched TikTok, 2026-10-13 06:32 UTC) is 48h+ old, so 0 matched scored posts: not enough data. Queue order and default hours.
@@ -31,12 +32,13 @@ Plan decisions: US skips P4 (tied with P1 for most, higher number). EU skips P3 
 eu-1: no change in the numbers since the plan -> kept plan (CTA switched to engagement: no checkout guide could be opened). track: Little Things - Adrián Berenguer
 eu-2: 2 TikTok + 1 Instagram post now 48h+ old (3 scored total, still under 6) -> kept plan (CTA switched to engagement: getclerion.com/resources could not be opened to confirm an investor-update guide). sources: slush startup struggle survey 2025, crv burn multiple, point nine, pitchwise (stockholm).
 us-1: 5 posts now 48h+ old (TikTok 3 incl. 1 unmatched, Instagram 2), still under 6 -> kept plan (07:00, P3 bugs title; CTA switched to engagement: getclerion.com/resources could not be opened, keyword bugs released). track: Sunset in Girona - Noah Preminger & Max Light. sources: google sre workbook canarying chapter, sentry release health docs, datadog browser tests docs, qualitest 2017 us survey via app developer magazine.
-eu-3: TikTok 2 + Instagram 1 posts now 48h+ old (3 scored, still under 6; 10-14 evening onward TikTok still 0-4 views) -> kept plan (15:00, P5 eu product liability directive; CTA switched to engagement: getclerion.com/resources could not be opened, keyword liability released). sources: directive (eu) 2024/2853 of 23 october 2024 on eur-lex (art. 4, 6, 7, recitals 13, 51, 56, 57).
+eu-3: TikTok 2 + Instagram 1 posts now 48h+ old (3 scored, still under 6; 10-14 evening onward TikTok still 0-4 views) -> kept plan (15:00, P5 eu product liability directive; CTA switched to engagement: getclerion.com/resources could not be opened, keyword liability released). sources: directive (eu) 2024/2853 of 23 october 2024 on eur-lex (art. 4, 6, 7, recitals 13, 51, 56, 57). track: Lost in the Clouds - NyKuo.
 
 ## tracks used
 - 2026-10-16 eu-1: Little Things - Adrián Berenguer (6981828410792216577)
 - 2026-10-16 eu-2: In My Own Mind - Atomica Music (7247803271426803714)
 - 2026-10-16 us-1: Sunset in Girona - Noah Preminger & Max Light (7584037896080918529)
+- 2026-10-16 eu-3: Lost in the Clouds - NyKuo (7557010246070421520)
 
 ## idea backlog
 - eu P5: 5 niche things that will make you dangerously good at nis2
