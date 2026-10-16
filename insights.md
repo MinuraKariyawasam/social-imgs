@@ -16,6 +16,7 @@
 2026-10-16, us-4, P2
 2026-10-16, us-5, P5
 2026-10-17, eu-2, P5
+2026-10-17, eu-3, P3
 
 ## 2026-10-16 analytics
 Pulled 2026-10-15 ~17:00 UTC. TikTok 19 posts, Instagram 17 posts in the last 45 days. Only 1 post (unmatched TikTok, 2026-10-13 06:32 UTC) is 48h+ old, so 0 matched scored posts: not enough data. Queue order and default hours.
@@ -71,7 +72,7 @@ Plan decisions: 3 slots per region = P5 + P6 + one website pillar. EU takes P3 (
 eu-1: volume switched to 6 a day -> no carousel for eu-1; plan made, 8b run (10 keyword posts checked, 0 comments, 0 replies).
 eu-2: 12 posts now 48h+ old and matched (TikTok 6, Instagram 6), first time over 6; all EU scored posts are P5 and every pillar, hook and hour still has under 2 scored posts per region outside that, so no pillar, topic, hook, CTA or time change; TikTok from 10-14 19:00 UTC on still 0-5 views, Instagram 0-14 impressions, 0 comments anywhere; best_time_to_post still 1 post per slot -> kept plan (10:00, P5 nis2; CTA switched to engagement "comment 24": no getclerion.com/resources nis2 guide found, keyword nis2 released). sources: european commission nis2 faqs (updated 29 jun 2023), enisa nis2 obligations mapping (june 2025), eur-lex directive (eu) 2022/2555 recital 102. track: Deep and soft background - MaxRecStudio. 8b: 10 keyword posts checked, 0 comments, 0 replies.
 us-1: 6 a day stands (TikTok posts from 10-14 19:00 UTC still 0-5 views, Instagram 0-14 impressions, 0 comments; best_time_to_post still 1 post per slot) -> no carousel for us-1; 8b run (10 keyword posts checked, 0 comments, 0 replies).
-eu-3: TikTok 30 + Instagram 29 posts pulled; numbers unchanged since the plan (TikTok from 10-14 19:00 UTC on still 0-7 views, Instagram 0-8 impressions, 0 comments anywhere; best_time_to_post still 1 post per slot) -> kept plan (15:00, P3 stay fast lisbon to helsinki; CTA switched to engagement "comment the country": getclerion.com/resources could not be opened, keyword speed released). sources: ripe labs cloud edge rtt study (17 mar 2025), european commission digital decade 2025 broadband coverage report (16 jun 2025, via ispreview), crux bigquery docs (updated 2026-10-13), specification.website core web vitals (updated 2026-05-29), otto schmidt on lg münchen 3 O 17493/20 (17 aug 2022).
+eu-3: TikTok 30 + Instagram 29 posts pulled; numbers unchanged since the plan (TikTok from 10-14 19:00 UTC on still 0-7 views, Instagram 0-8 impressions, 0 comments anywhere; best_time_to_post still 1 post per slot) -> kept plan (15:00, P3 stay fast lisbon to helsinki; CTA switched to engagement "comment the country": getclerion.com/resources could not be opened, keyword speed released). track: Music for the Royal Fireworks Suite - P&P Music. 8b: 10 keyword posts checked, 0 comments, 0 replies. sources: ripe labs cloud edge rtt study (17 mar 2025), european commission digital decade 2025 broadband coverage report (16 jun 2025, via ispreview), crux bigquery docs (updated 2026-10-13), specification.website core web vitals (updated 2026-05-29), otto schmidt on lg münchen 3 O 17493/20 (17 aug 2022).
 
 ## tracks used
 - 2026-10-16 eu-1: Little Things - Adrián Berenguer (6981828410792216577)
@@ -85,6 +86,7 @@ eu-3: TikTok 30 + Instagram 29 posts pulled; numbers unchanged since the plan (T
 - 2026-10-16 us-4: Jazz with a warm atmosphere(262843) - And More Music (6839742677185988610)
 - 2026-10-16 us-5: Walkdown in F - Chill Piano (7455359297746077712)
 - 2026-10-17 eu-2: Deep and soft background(1233480) - MaxRecStudio (7179711447759489026)
+- 2026-10-17 eu-3: Music for the Royal Fireworks Suite - P&P Music (7381904572292057127)
 
 ## idea backlog
 - eu P5: 5 niche ways to become the founder who wins an eic grant (only once funding is 14+ days old)
