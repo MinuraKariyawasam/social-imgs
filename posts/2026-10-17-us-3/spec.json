@@ -1,0 +1,27 @@
+{
+ "date": "2026-10-17",
+ "region": "us",
+ "outdir": "posts/2026-10-17-us-3",
+ "cover": {
+  "sub": "5 niche ways to get your first 100 users from",
+  "title": "<span class=\"y\">reddit</span> without getting banned",
+  "steps": ["redditor first", "10% rule", "disclose", "sidebar", "be useful"],
+  "hook": "(save them)",
+  "image": "painting-caravaggio-boy-bitten-lizard.jpg"
+ },
+ "inner": [
+  {"title": "be a <span class=\"hl\">redditor</span> first", "body": "reddit says it's fine to be a redditor with a website, not a website with a reddit account. an account that only drops links reads as spam.", "label": "no ghost accounts", "image": "painting-rembrandt-aristotle.jpg"},
+  {"title": "the <span class=\"hl\">10%</span> rule", "body": "reddit's self-promotion page says 10% or less of your posts and comments should link to your own stuff. the other 90% is the price of entry.", "label": "9 out of 10", "image": "painting-ducreux-mocker.jpg"},
+  {"title": "say <span class=\"hl\">i built this</span>", "body": "reddit tells you to identify yourself and never hide your link to your project. the fake happy customer always gets caught in the comments.", "label": "own it", "image": "painting-latour-cheat-ace-of-diamonds.jpg"},
+  {"title": "read the <span class=\"hl\">sidebar</span>", "body": "reddit's user agreement lets moderators make and enforce their own subreddit rules. skip one and the best post you ever wrote still gets you banned.", "label": "mods decide", "image": "painting-munch-the-scream.jpg"},
+  {"title": "useful beats <span class=\"hl\">polished</span>", "body": "atilay candan shared his ai site report tool on reddit and saw 100+ signups within hours. nobody upvotes a landing page; they upvote help.", "label": "100+ in hours", "image": "painting-hals-merrymakers.jpg"}
+ ],
+ "closer": {
+  "HEADLINE": "reddit isn't a channel.<br>it's a <span class=\"y\">reputation</span>",
+  "TONIGHT": "read 3 subreddit sidebars",
+  "THIS_WEEK": "leave 9 useful comments",
+  "NEXT_WEEK": "post one honest i built this",
+  "CTA": "comment the <b>number</b> you'll start with",
+  "NEXT_TITLE": "5 niche things that will make you terrifyingly good at show hn posts"
+ }
+}
