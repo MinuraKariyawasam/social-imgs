@@ -1,0 +1,52 @@
+{
+ "date": "2026-10-17",
+ "region": "eu",
+ "outdir": "posts/2026-10-17-eu-3",
+ "cover": {
+  "sub": "5 niche ways to stay fast for users",
+  "title": "from <span class=\"y\">lisbon</span> to helsinki",
+  "steps": ["country", "p75", "fonts", "rural", "edge"],
+  "hook": "(screenshot this)",
+  "image": "painting-hals-merry-drinker.jpg"
+ },
+ "inner": [
+  {
+   "title": "split it by <span class=\"hl\">country</span>",
+   "body": "chrome's ux report publishes speed data per country every month. your global average can look fine while lisbon waits.",
+   "label": "averages lie",
+   "image": "painting-vermeer-astronomer.jpg"
+  },
+  {
+   "title": "the slowest <span class=\"hl\">quarter</span>",
+   "body": "google calls a page good when 75% of loads hit lcp under 2.5 seconds. your slowest quarter of visitors decides the score.",
+   "label": "p75 rules",
+   "image": "painting-chardin-soap-bubbles.jpg"
+  },
+  {
+   "title": "host your <span class=\"hl\">fonts</span>",
+   "body": "in 2022 a munich court awarded €100 in gdpr damages because google fonts sent a visitor's ip to google. self-hosting is faster and skips the transfer.",
+   "label": "€100 lesson",
+   "image": "painting-wood-american-gothic.jpg"
+  },
+  {
+   "title": "fibre stops at <span class=\"hl\">town</span>",
+   "body": "eu fibre reached 69% of homes in mid-2024, but only 59% in rural areas. 4 in 10 rural homes open your site without it.",
+   "label": "no fibre",
+   "image": "painting-munch-the-scream.jpg"
+  },
+  {
+   "title": "edge beats <span class=\"hl\">region</span>",
+   "body": "pings from greece fell from 37ms to 6ms when served from cloud edge instead of a cloud region. countries without a local region gain the most.",
+   "label": "83% less wait",
+   "image": "painting-repin-zaporozhian-cossacks.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "europe isn't one market.<br>it's <span class=\"y\">27 speed tests</span>",
+  "TONIGHT": "split your speed data by country",
+  "THIS_WEEK": "self-host your web fonts",
+  "NEXT_WEEK": "move static files to the edge",
+  "CTA": "comment the <b>country</b> your site is slowest in",
+  "NEXT_TITLE": "5 niche things that will make you dangerously good at reading users in 5 languages"
+ }
+}

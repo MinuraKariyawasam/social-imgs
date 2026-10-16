@@ -1,0 +1,15 @@
+5 niche ways to stay fast for users from lisbon to helsinki
+
+1. pull your chrome ux report numbers for each country you sell in
+2. check your lcp at the 75th percentile, not the average
+3. download your web fonts and serve them from your own domain
+4. test your site on a throttled mobile connection, like a rural visitor
+5. serve images, scripts and css from cdn edge locations, not one region
+
+comment the COUNTRY your site is slowest in
+
+#webperformance #corewebvitals #eustartups #europeanstartups @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.
