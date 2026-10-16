@@ -1,0 +1,58 @@
+{
+ "date": "2026-10-17",
+ "region": "us",
+ "outdir": "posts/2026-10-17-us-4",
+ "cover": {
+  "sub": "5 niche ways to become",
+  "title": "the founder whose team is half <span class=\"y\">ai agents</span>",
+  "steps": [
+   "one job",
+   "sandbox",
+   "humans",
+   "time it",
+   "cut costs"
+  ],
+  "hook": "(good luck)",
+  "image": "painting-hals-laughing-cavalier.jpg"
+ },
+ "inner": [
+  {
+   "title": "give it <span class=\"hl\">one</span> job",
+   "body": "anthropic's agent guide says find the simplest solution and add complexity only when needed. sometimes that means no agent at all.",
+   "label": "maybe no agent",
+   "image": "painting-eakins-writing-master.jpg"
+  },
+  {
+   "title": "test in a <span class=\"hl\">sandbox</span>",
+   "body": "anthropic recommends testing agents in a sandbox, with guardrails, before they act alone. more autonomy means errors compound.",
+   "label": "watch it first",
+   "image": "painting-ducreux-yawning.jpg"
+  },
+  {
+   "title": "investors count <span class=\"hl\">humans</span>",
+   "body": "carta data shows solo founders started 30% of 2024 startups. they got just 14.7% of priced-round cash.",
+   "label": "14.7%",
+   "image": "painting-rembrandt-syndics.jpg"
+  },
+  {
+   "title": "<span class=\"hl\">time</span> it, don't feel it",
+   "body": "in metr's 2025 trial, 16 experienced developers expected ai to save them 24%. it made them 19% slower.",
+   "label": "19% slower",
+   "image": "painting-courbet-desperate-man.jpg"
+  },
+  {
+   "title": "cut the <span class=\"hl\">pricey</span> ones",
+   "body": "gartner predicts over 40% of agentic ai projects get canceled by the end of 2027. the reasons: rising costs, unclear value, weak risk controls.",
+   "label": "cut first",
+   "image": "painting-leutze-washington-delaware.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "half ai isn't a headcount.<br>it's a <span class=\"y\">stopwatch</span>",
+  "TONIGHT": "pick one task for an agent",
+  "THIS_WEEK": "time it with and without the agent",
+  "NEXT_WEEK": "cut any agent that costs more",
+  "CTA": "comment the <b>number</b> you'll try first",
+  "NEXT_TITLE": "5 niche things that will make you terrifyingly good at finding where users quit"
+ }
+}

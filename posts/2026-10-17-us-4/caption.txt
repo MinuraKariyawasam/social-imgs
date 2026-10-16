@@ -1,0 +1,15 @@
+5 niche ways to become the founder whose team is half ai agents
+
+1. write down one task and ask if a plain script would do
+2. run your first agent on test data with a human approving each action
+3. keep the human roles investors will ask about
+4. time one task with the agent and once without it
+5. list each agent's monthly cost next to what it saves
+
+comment the NUMBER you'll try first
+
+#aifounders #aiagents #startups #buildinpublic @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.
