@@ -1,0 +1,27 @@
+{
+ "date": "2026-10-17",
+ "region": "eu",
+ "outdir": "posts/2026-10-17-eu-4",
+ "cover": {
+  "sub": "5 niche habits of european founders who",
+  "title": "launch to the <span class=\"y\">us</span> first",
+  "steps": ["r&d home", "flip early", "count days", "$100k", "eu inc"],
+  "hook": "(copy them)",
+  "image": "painting-ducreux-yawning.jpg"
+ },
+ "inner": [
+  {"title": "keep <span class=\"hl\">r&d</span> home", "body": "they move sales and leadership to the us and keep engineers in europe. european engineers earn about half the us rate for the same role.", "label": "half the salary", "image": "painting-eakins-the-thinker.jpg"},
+  {"title": "flip <span class=\"hl\">before</span> pricing", "body": "us seed investors often want a delaware parent. flipping after a priced round usually costs more in legal fees than registering both from day one.", "label": "late = pricey", "image": "painting-greuze-broken-eggs.jpg"},
+  {"title": "count your <span class=\"hl\">days</span>", "body": "they log every day spent in the us. 140 days a year for three years makes you a us tax resident under the irs test.", "label": "183 weighted", "image": "painting-caravaggio-denial-of-peter.jpg"},
+  {"title": "watch each <span class=\"hl\">state</span>", "body": "they track us sales state by state. since wayfair, $100,000 of sales into one state can mean sales tax, even for a european seller.", "label": "no office needed", "image": "painting-terborch-curiosity.jpg"},
+  {"title": "eu inc isn't <span class=\"hl\">law</span>", "body": "brussels proposed a 48 hour, under €100 eu company in march 2026. until it passes, 23% of european founders would pick the us if starting over.", "label": "not yet", "image": "painting-fedotov-fresh-cavalier.jpg"}
+ ],
+ "closer": {
+  "HEADLINE": "you're not leaving europe.<br>you're <span class=\"y\">renting</span> america",
+  "TONIGHT": "count your us days this year",
+  "THIS_WEEK": "split us sales by state",
+  "NEXT_WEEK": "price a delaware flip",
+  "CTA": "comment <b>flip</b> if you'd move your hq to the us",
+  "NEXT_TITLE": "5 niche ways to get press in europe without a pr agency"
+ }
+}
