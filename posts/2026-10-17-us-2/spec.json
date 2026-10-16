@@ -1,0 +1,27 @@
+{
+ "date": "2026-10-17",
+ "region": "us",
+ "outdir": "posts/2026-10-17-us-2",
+ "cover": {
+  "sub": "5 niche habits of founders who",
+  "title": "make <span class=\"y\">one fix</span> a day",
+  "steps": ["the 1%", "ice score", "no backlog", "ship small", "log wins"],
+  "hook": "(copy them)",
+  "image": "painting-elgreco-cardinal.jpg"
+ },
+ "inner": [
+  {"title": "fix the <span class=\"hl\">1%</span>", "body": "microsoft's 2002 error reports showed 1% of bugs caused half of all errors. most founders fix whatever they saw last.", "label": "1% = half", "image": "painting-bronzino-young-man.jpg"},
+  {"title": "score it <span class=\"hl\">first</span>", "body": "ice rates impact, confidence and ease from 1 to 10, then multiplies them. a fix you can't score is just a guess.", "label": "i x c x e", "image": "painting-david-lavoisier-writing.jpg"},
+  {"title": "kill the <span class=\"hl\">backlog</span>", "body": "linear fixes urgent bugs within 2 days, the rest within 7, and removed the backlog option. a backlog is a list you agreed to ignore.", "label": "7 day rule", "image": "painting-repin-unexpected-visitors.jpg"},
+  {"title": "ship it <span class=\"hl\">small</span>", "body": "dora's 2024 elite teams deploy on demand and 5% of changes fail. low performers ship monthly and 40% fail.", "label": "5% vs 40%", "image": "painting-chardin-soap-bubbles.jpg"},
+  {"title": "log the <span class=\"hl\">win</span>", "body": "a harvard study of 12,000 work diaries found progress on meaningful work beat every other motivator. only 5% of managers guessed it.", "label": "small wins", "image": "painting-steen-feast-of-st-nicholas.jpg"}
+ ],
+ "closer": {
+  "HEADLINE": "growth isn't a sprint.<br>it's <span class=\"y\">one fix</span> a day",
+  "TONIGHT": "list your top 5 errors by count",
+  "THIS_WEEK": "ice score every open fix",
+  "NEXT_WEEK": "ship one small fix every day",
+  "CTA": "comment the <b>number</b> you'll copy first",
+  "NEXT_TITLE": "5 niche ways to read your analytics in 5 minutes, not 50"
+ }
+}
