@@ -68,6 +68,7 @@ Volume check (applies: 2026-10-14, 10-15 and 10-16 each have 10 carousels in log
 
 Plan decisions: 3 slots per region = P5 + P6 + one website pillar. EU takes P3 (skipped on 10-16), US takes P4 (skipped on 10-16). At 3 a region a day, P1 to P4 can't each run every two days; rotate the website pillar to the one used least recently. Hooks: 5 keep-it, 1 call-out (us-4). Keywords reserved per slot; each run confirms its guide_url or switches to engagement. Tracks left for each run.
 eu-1: volume switched to 6 a day -> no carousel for eu-1; plan made, 8b run (10 keyword posts checked, 0 comments, 0 replies).
+eu-2: 12 posts now 48h+ old and matched (TikTok 6, Instagram 6), first time over 6; all EU scored posts are P5 and every pillar, hook and hour still has under 2 scored posts per region outside that, so no pillar, topic, hook, CTA or time change; TikTok from 10-14 19:00 UTC on still 0-5 views, Instagram 0-14 impressions, 0 comments anywhere; best_time_to_post still 1 post per slot -> kept plan (10:00, P5 nis2; CTA switched to engagement "comment 24": no getclerion.com/resources nis2 guide found, keyword nis2 released). sources: european commission nis2 faqs (updated 29 jun 2023), enisa nis2 obligations mapping (june 2025), eur-lex directive (eu) 2022/2555 recital 102.
 
 ## tracks used
 - 2026-10-16 eu-1: Little Things - Adrián Berenguer (6981828410792216577)

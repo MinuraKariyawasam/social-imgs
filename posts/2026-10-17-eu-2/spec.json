@@ -1,0 +1,58 @@
+{
+ "date": "2026-10-17",
+ "region": "eu",
+ "outdir": "posts/2026-10-17-eu-2",
+ "cover": {
+  "sub": "5 niche things that will make you",
+  "title": "dangerously good at <span class=\"y\">nis2</span>",
+  "steps": [
+   "size",
+   "mfa",
+   "24 hours",
+   "the board",
+   "suppliers"
+  ],
+  "hook": "(save them)",
+  "image": "painting-kramskoi-unknown-woman.jpg"
+ },
+ "inner": [
+  {
+   "title": "check your <span class=\"hl\">size</span>",
+   "body": "nis2 covers medium and large firms in sectors like cloud, data centres and online marketplaces. being small is the only exemption, and it expires.",
+   "label": "growing into it",
+   "image": "painting-daumier-third-class-carriage.jpg"
+  },
+  {
+   "title": "mfa is <span class=\"hl\">the law</span>",
+   "body": "article 21 lists multi-factor authentication among the minimum measures, next to backups and encryption. a shared admin password is now a compliance gap.",
+   "label": "shared logins",
+   "image": "painting-latour-fortune-teller.jpg"
+  },
+  {
+   "title": "the <span class=\"hl\">24 hour</span> warning",
+   "body": "a significant incident needs an early warning to your csirt within 24 hours, a notification within 72. the final report follows a month later.",
+   "label": "24h clock",
+   "image": "painting-courbet-desperate-man.jpg"
+  },
+  {
+   "title": "the board <span class=\"hl\">trains</span> too",
+   "body": "management bodies must approve the security measures and follow cybersecurity training. enisa says they can be held liable for infringements.",
+   "label": "your name on it",
+   "image": "painting-labille-guiard-two-pupils.jpg"
+  },
+  {
+   "title": "suppliers <span class=\"hl\">count</span>",
+   "body": "article 21 makes supply chain security a minimum measure for covered firms. customers facing fines of €10m or 2% of turnover will check you first.",
+   "label": "be the safe pick",
+   "image": "painting-leutze-washington-delaware.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "nis2 isn't a burden.<br>it's a <span class=\"y\">sales pitch</span>",
+  "TONIGHT": "turn on mfa for every admin",
+  "THIS_WEEK": "write your 24 hour incident plan",
+  "NEXT_WEEK": "send customers a security one-pager",
+  "CTA": "comment <b>24</b> if you couldn't report in a day",
+  "NEXT_TITLE": "5 niche habits of european founders who fix one thing a day"
+ }
+}

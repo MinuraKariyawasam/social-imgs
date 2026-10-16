@@ -1,0 +1,15 @@
+5 niche things that will make you dangerously good at nis2
+
+1. check if your sector and size put you in scope
+2. turn on multi-factor authentication for every admin account
+3. write down who sends the 24 hour early warning, and to which csirt
+4. put the security measures on your next board agenda
+5. answer your top customer's security questionnaire before they send it
+
+comment 24 if you couldn't report in a day
+
+#nis2 #cybersecurity #eustartups #europeanstartups #founderseurope @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.
