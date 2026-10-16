@@ -18,6 +18,7 @@
 2026-10-17, eu-2, P5
 2026-10-17, eu-3, P3
 2026-10-17, us-2, P4
+2026-10-17, eu-4, P6
 
 ## 2026-10-16 analytics
 Pulled 2026-10-15 ~17:00 UTC. TikTok 19 posts, Instagram 17 posts in the last 45 days. Only 1 post (unmatched TikTok, 2026-10-13 06:32 UTC) is 48h+ old, so 0 matched scored posts: not enough data. Queue order and default hours.
@@ -75,6 +76,7 @@ eu-2: 12 posts now 48h+ old and matched (TikTok 6, Instagram 6), first time over
 us-1: 6 a day stands (TikTok posts from 10-14 19:00 UTC still 0-5 views, Instagram 0-14 impressions, 0 comments; best_time_to_post still 1 post per slot) -> no carousel for us-1; 8b run (10 keyword posts checked, 0 comments, 0 replies).
 eu-3: TikTok 30 + Instagram 29 posts pulled; numbers unchanged since the plan (TikTok from 10-14 19:00 UTC on still 0-7 views, Instagram 0-8 impressions, 0 comments anywhere; best_time_to_post still 1 post per slot) -> kept plan (15:00, P3 stay fast lisbon to helsinki; CTA switched to engagement "comment the country": getclerion.com/resources could not be opened, keyword speed released). track: Music for the Royal Fireworks Suite - P&P Music. 8b: 10 keyword posts checked, 0 comments, 0 replies. sources: ripe labs cloud edge rtt study (17 mar 2025), european commission digital decade 2025 broadband coverage report (16 jun 2025, via ispreview), crux bigquery docs (updated 2026-10-13), specification.website core web vitals (updated 2026-05-29), otto schmidt on lg münchen 3 O 17493/20 (17 aug 2022).
 us-2: TikTok 30 + Instagram 29 posts pulled; numbers unchanged since the plan (TikTok from 10-14 19:00 UTC on still 0-7 views, Instagram 0-8 impressions, 0 comments anywhere; best_time_to_post still 1 post per slot) -> kept plan (10:00, P4 one fix a day; CTA switched to engagement "comment the number": getclerion.com/resources could not be opened, keyword onefix released). sources: ballmer memo 2 oct 2002 via eweek, linear zero-bugs policy (24 sep 2025), octopus on dora 2024 performance clusters, productlift ice scoring glossary, mindtools interview with teresa amabile (17 may 2024). inner paintings reordered to fit moods (bronzino judging on the 1% slide, repin shock on the backlog slide). track: A warm and bright song of piano and violin - KOU MUSIC. 8b: 10 keyword posts checked, 0 comments, 0 replies.
+eu-4: TikTok 30 + Instagram 30 posts pulled; numbers unchanged since the plan (TikTok from 10-14 19:00 UTC on still 0-7 views, Instagram 0-14 impressions, 0 comments anywhere; best_time_to_post still 1 post per slot) -> kept plan (18:00, P6 european founders who launch to the us first; CTA switched to engagement "comment flip": getclerion.com/resources could not be opened, keyword usfirst released). sources: vestbee/passright 27 aug 2026 (salaries, delaware flip, irs substantial presence test), trendingtopics.eu on atomico state of european tech (23% would pick the us), tech.eu 18 mar 2026 (eu inc proposal), vatcalc 2 jan 2026 (wayfair economic nexus). track: Afternoon in Sicily (Lofi) - Muspace Lofi. 8b: 10 keyword posts checked, 0 comments, 0 replies.
 
 ## tracks used
 - 2026-10-16 eu-1: Little Things - Adrián Berenguer (6981828410792216577)
@@ -90,6 +92,7 @@ us-2: TikTok 30 + Instagram 29 posts pulled; numbers unchanged since the plan (T
 - 2026-10-17 eu-2: Deep and soft background(1233480) - MaxRecStudio (7179711447759489026)
 - 2026-10-17 eu-3: Music for the Royal Fireworks Suite - P&P Music (7381904572292057127)
 - 2026-10-17 us-2: A warm and bright song of piano and violin(937512) - KOU MUSIC (6906926918739462146)
+- 2026-10-17 eu-4: Afternoon in Sicily (Lofi) - Muspace Lofi (7187826526048487425)
 
 ## idea backlog
 - eu P5: 5 niche ways to become the founder who wins an eic grant (only once funding is 14+ days old)
