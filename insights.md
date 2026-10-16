@@ -20,6 +20,7 @@
 2026-10-17, us-2, P4
 2026-10-17, eu-4, P6
 2026-10-17, us-3, P6
+2026-10-17, us-4, P5
 
 ## 2026-10-16 analytics
 Pulled 2026-10-15 ~17:00 UTC. TikTok 19 posts, Instagram 17 posts in the last 45 days. Only 1 post (unmatched TikTok, 2026-10-13 06:32 UTC) is 48h+ old, so 0 matched scored posts: not enough data. Queue order and default hours.
@@ -80,7 +81,7 @@ us-2: TikTok 30 + Instagram 29 posts pulled; numbers unchanged since the plan (T
 eu-4: TikTok 30 + Instagram 30 posts pulled; numbers unchanged since the plan (TikTok from 10-14 19:00 UTC on still 0-7 views, Instagram 0-14 impressions, 0 comments anywhere; best_time_to_post still 1 post per slot) -> kept plan (18:00, P6 european founders who launch to the us first; CTA switched to engagement "comment flip": getclerion.com/resources could not be opened, keyword usfirst released). sources: vestbee/passright 27 aug 2026 (salaries, delaware flip, irs substantial presence test), trendingtopics.eu on atomico state of european tech (23% would pick the us), tech.eu 18 mar 2026 (eu inc proposal), vatcalc 2 jan 2026 (wayfair economic nexus). track: Afternoon in Sicily (Lofi) - Muspace Lofi. 8b: 10 keyword posts checked, 0 comments, 0 replies.
 us-3: TikTok 31 + Instagram 30 posts pulled; numbers unchanged since the plan (TikTok from 10-14 19:00 UTC on still 0-7 views, Instagram 0-14 impressions, 0 comments anywhere; best_time_to_post still 1 post per slot) -> kept plan (13:00, P6 first 100 users from reddit; CTA switched to engagement "comment the number": getclerion.com/resources could not be opened, keyword reddit released). sources: reddit self-promotion wiki (via redlib mirror, page no longer updated), reddit user agreement section 8 (revised 29 may 2025, in reddit's jan 2026 ny ag report), indie hackers on sitalyze (23 mar 2025, 100+ signups within hours of a reddit share). track: Happy Light Jazz - Cafe3 - Kobat. 8b: 10 keyword posts checked, 0 comments, 0 replies.
 eu-5: 6 a day stands (TikTok 31 + Instagram 30 posts pulled; TikTok from 10-14 19:00 UTC on still 0-7 views, Instagram 0-9 impressions, 0 comments anywhere; best_time_to_post still 1 post per slot) -> no carousel for eu-5; 8b run (10 keyword posts checked, 0 comments, 0 replies).
-us-4: TikTok 32 + Instagram 31 posts pulled; numbers unchanged since the plan (TikTok from 10-14 19:00 UTC on still 0-7 views, Instagram 0-8 impressions, 0 comments anywhere; best_time_to_post still 1 post per slot) -> kept plan (17:00, P5 team half ai agents; CTA switched to engagement "comment the number": getclerion.com/resources could not be opened, keyword agents released). sources: anthropic building effective agents (19 dec 2024), carta solo founders report 2025 (9 dec 2025), eweek on metr developer trial (15 jul 2025), outlook business on gartner agentic ai prediction (25 jun 2025).
+us-4: TikTok 32 + Instagram 31 posts pulled; numbers unchanged since the plan (TikTok from 10-14 19:00 UTC on still 0-7 views, Instagram 0-8 impressions, 0 comments anywhere; best_time_to_post still 1 post per slot) -> kept plan (17:00, P5 team half ai agents; CTA switched to engagement "comment the number": getclerion.com/resources could not be opened, keyword agents released). sources: anthropic building effective agents (19 dec 2024), carta solo founders report 2025 (9 dec 2025), eweek on metr developer trial (15 jul 2025), outlook business on gartner agentic ai prediction (25 jun 2025). track: Good Vibes - Matt Larsson. 8b: 10 keyword posts checked, 0 comments, 0 replies.
 
 ## tracks used
 - 2026-10-16 eu-1: Little Things - Adrián Berenguer (6981828410792216577)
@@ -98,6 +99,7 @@ us-4: TikTok 32 + Instagram 31 posts pulled; numbers unchanged since the plan (T
 - 2026-10-17 us-2: A warm and bright song of piano and violin(937512) - KOU MUSIC (6906926918739462146)
 - 2026-10-17 eu-4: Afternoon in Sicily (Lofi) - Muspace Lofi (7187826526048487425)
 - 2026-10-17 us-3: Happy Light Jazz - Cafe3(1133560) - Kobat (7031666552407590913)
+- 2026-10-17 us-4: Good Vibes - Matt Larsson (6849405904635299841)
 
 ## idea backlog
 - eu P5: 5 niche ways to become the founder who wins an eic grant (only once funding is 14+ days old)
