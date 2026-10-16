@@ -1,7 +1,8 @@
 # Clerion carousel insights
 
 ## standing findings
-- (none yet: under 6 posts are 48h+ old)
+- 6 a day from 2026-10-17: TikTok views fell about 84% per post after going from 2 to 10 a day (see 2026-10-17 analytics).
+- 8 scored posts as of 2026-10-16; no pillar, hook or hour has 2+ per region yet.
 
 ## pillars
 2026-10-16, eu-1, P2
@@ -46,6 +47,28 @@ eu-5: 5 posts 48h+ old (TikTok 3 incl. 1 unmatched, Instagram 2; still under 6);
 us-4: TikTok 3 (incl. 1 unmatched) + Instagram 2 posts 48h+ old (still under 6 scored); TikTok from 10-14 19:00 UTC on still 0-5 views, Instagram 0-2 reach; best_time_to_post still 1 post per slot -> kept plan (17:00, P2 signup page; CTA switched to engagement "comment card": getclerion.com/resources could not be opened, keyword signup released). track: Jazz with a warm atmosphere - And More Music. sources: conversion-rate-experts mobbin win report (9 oct 2024), innertrends saas free trial benchmarks (25 nov 2019), baymard password requirements (29 nov 2022), amazon pay blog on baymard 2017 report (21 nov 2018).
 us-5: TikTok 3 (incl. 1 unmatched) + Instagram 2 posts 48h+ old (still 5 scored, under 6); TikTok from 10-14 19:00 UTC on still 0-5 views, Instagram 0-2 reach; best_time_to_post still 1 post per slot -> kept plan (21:00, P5 free seo tools in the si era; no SI claims on slides since getclerion.com/resources could not be opened; CTA switched to engagement "comment the tool", keyword tools released). sources: google search central ai features page (updated 2025-12-10), searchinfluence 12 feb 2026 and explodingtopics 2 apr 2026 on bing ai performance report, specification.website core web vitals and indexnow specs. track: Walkdown in F - Chill Piano.
 
+## 2026-10-17 analytics
+Pulled 2026-10-16 ~17:00 UTC by eu-1. TikTok 29 posts, Instagram 27 posts in the last 45 days. Scored (published 48h+ ago, matched to log.csv): 8 (TikTok 4, Instagram 4), plus 1 unmatched TikTok (2026-10-13 06:32 UTC, 90 views, 2 shares, 3 saves).
+
+| title | region | slot | platform | reach | viral_rate | viral_score |
+|---|---|---|---|---|---|---|
+| get recommended by superintelligence (10-13) | us | 18:00 | tiktok | 429 views | 0.012 | 9.25 |
+| 6 metrics disgustingly bad founder (10-14) | us | 10:00 | tiktok | 167 views | 0.006 | 6.25 |
+| founder gdpr can't touch (10-14) | eu | 15:00 | tiktok | 169 views | 0 | 5.75 |
+| dangerously good at the eu ai act (10-13) | eu | 19:00 | tiktok | 147 views | 0 | 3.75 |
+| same four posts | both | | instagram | 2 reach each | 0 | 6.25 each (tie) |
+
+Winners/losers: no pillar, theme, pattern, hook, CTA, mood or hour has 2+ scored posts per region yet, so no topic or time changes. No comments on any post, so no CTA comparison. Design: blueboard has 0 scored posts (10-15 onward), no comparison yet. best_time_to_post: still 1 post per hour slot, no signal. Region: under 6 scored posts per region, no flag.
+
+Volume check (applies: 2026-10-14, 10-15 and 10-16 each have 10 carousels in log.csv; 2-a-day baseline is 2026-10-13):
+- TikTok avg views per post: 2-a-day 288 (429, 147); 10-a-day about 47 (10-14 avg 129, 10-15 avg 2.5, 10-16 avg about 1 so far). Down about 84%. Every TikTok post from 2026-10-14 19:00 UTC on has 0-5 views, including ones now 48h old, so it is not freshness.
+- Instagram avg reach per post: 2-a-day 2; 10-a-day about 1.3. Down about 35%.
+- TikTok dropped by more than half -> plan switches to 6 a day from 2026-10-17 (us-2, us-3, us-4, eu-2, eu-3, eu-4). Stay at 6 from now on. eu-1, eu-5, us-1 and us-5 do step 8b only.
+- 6-a-day UTC times on 10-17 (CEST/EDT): eu-2 08:00, eu-3 13:00, us-2 14:00, eu-4 16:00, us-3 17:00, us-4 21:00. All 60+ minutes apart.
+
+Plan decisions: 3 slots per region = P5 + P6 + one website pillar. EU takes P3 (skipped on 10-16), US takes P4 (skipped on 10-16). At 3 a region a day, P1 to P4 can't each run every two days; rotate the website pillar to the one used least recently. Hooks: 5 keep-it, 1 call-out (us-4). Keywords reserved per slot; each run confirms its guide_url or switches to engagement. Tracks left for each run.
+eu-1: volume switched to 6 a day -> no carousel for eu-1; plan made, 8b run (10 keyword posts checked, 0 comments, 0 replies).
+
 ## tracks used
 - 2026-10-16 eu-1: Little Things - Adrián Berenguer (6981828410792216577)
 - 2026-10-16 eu-2: In My Own Mind - Atomica Music (7247803271426803714)
@@ -59,5 +82,4 @@ us-5: TikTok 3 (incl. 1 unmatched) + Instagram 2 posts 48h+ old (still 5 scored,
 - 2026-10-16 us-5: Walkdown in F - Chill Piano (7455359297746077712)
 
 ## idea backlog
-- eu P5: 5 niche things that will make you dangerously good at nis2
 - eu P5: 5 niche ways to become the founder who wins an eic grant (only once funding is 14+ days old)
