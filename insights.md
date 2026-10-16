@@ -15,6 +15,7 @@
 2026-10-16, eu-5, P6
 2026-10-16, us-4, P2
 2026-10-16, us-5, P5
+2026-10-17, eu-2, P5
 
 ## 2026-10-16 analytics
 Pulled 2026-10-15 ~17:00 UTC. TikTok 19 posts, Instagram 17 posts in the last 45 days. Only 1 post (unmatched TikTok, 2026-10-13 06:32 UTC) is 48h+ old, so 0 matched scored posts: not enough data. Queue order and default hours.
@@ -68,7 +69,7 @@ Volume check (applies: 2026-10-14, 10-15 and 10-16 each have 10 carousels in log
 
 Plan decisions: 3 slots per region = P5 + P6 + one website pillar. EU takes P3 (skipped on 10-16), US takes P4 (skipped on 10-16). At 3 a region a day, P1 to P4 can't each run every two days; rotate the website pillar to the one used least recently. Hooks: 5 keep-it, 1 call-out (us-4). Keywords reserved per slot; each run confirms its guide_url or switches to engagement. Tracks left for each run.
 eu-1: volume switched to 6 a day -> no carousel for eu-1; plan made, 8b run (10 keyword posts checked, 0 comments, 0 replies).
-eu-2: 12 posts now 48h+ old and matched (TikTok 6, Instagram 6), first time over 6; all EU scored posts are P5 and every pillar, hook and hour still has under 2 scored posts per region outside that, so no pillar, topic, hook, CTA or time change; TikTok from 10-14 19:00 UTC on still 0-5 views, Instagram 0-14 impressions, 0 comments anywhere; best_time_to_post still 1 post per slot -> kept plan (10:00, P5 nis2; CTA switched to engagement "comment 24": no getclerion.com/resources nis2 guide found, keyword nis2 released). sources: european commission nis2 faqs (updated 29 jun 2023), enisa nis2 obligations mapping (june 2025), eur-lex directive (eu) 2022/2555 recital 102.
+eu-2: 12 posts now 48h+ old and matched (TikTok 6, Instagram 6), first time over 6; all EU scored posts are P5 and every pillar, hook and hour still has under 2 scored posts per region outside that, so no pillar, topic, hook, CTA or time change; TikTok from 10-14 19:00 UTC on still 0-5 views, Instagram 0-14 impressions, 0 comments anywhere; best_time_to_post still 1 post per slot -> kept plan (10:00, P5 nis2; CTA switched to engagement "comment 24": no getclerion.com/resources nis2 guide found, keyword nis2 released). sources: european commission nis2 faqs (updated 29 jun 2023), enisa nis2 obligations mapping (june 2025), eur-lex directive (eu) 2022/2555 recital 102. track: Deep and soft background - MaxRecStudio. 8b: 10 keyword posts checked, 0 comments, 0 replies.
 
 ## tracks used
 - 2026-10-16 eu-1: Little Things - Adrián Berenguer (6981828410792216577)
@@ -81,6 +82,7 @@ eu-2: 12 posts now 48h+ old and matched (TikTok 6, Instagram 6), first time over
 - 2026-10-16 eu-5: Villa-Lobos Etude No1b (F) - Music Time (7125468510587652100)
 - 2026-10-16 us-4: Jazz with a warm atmosphere(262843) - And More Music (6839742677185988610)
 - 2026-10-16 us-5: Walkdown in F - Chill Piano (7455359297746077712)
+- 2026-10-17 eu-2: Deep and soft background(1233480) - MaxRecStudio (7179711447759489026)
 
 ## idea backlog
 - eu P5: 5 niche ways to become the founder who wins an eic grant (only once funding is 14+ days old)
