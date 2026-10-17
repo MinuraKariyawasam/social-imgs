@@ -1,0 +1,15 @@
+5 niche things that will make you terrifyingly good at finding where users quit
+
+1. open one ga4 funnel exploration and break it down by device category
+2. read the abandonments rate column, not the completions
+3. open your top page and count the rage clicks
+4. write down every cost a buyer sees before the last step
+5. check your checkout for script errors after every deploy
+
+which one are you skipping? tell us below
+
+#startupfounder #buildinpublic #saas #conversionrate @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

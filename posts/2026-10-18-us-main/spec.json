@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-18",
+ "region": "us",
+ "outdir": "posts/2026-10-18-us-main",
+ "cover": {
+  "title": "5 niche things that will make you terrifyingly good at finding where <span class=\"u\">users</span> quit",
+  "image": "cover-1.svg",
+  "hook": "(you're probably doing none of them)"
+ },
+ "inner": [
+  {
+   "title": "split by device",
+   "body": "ga4 funnel explorations let you break a funnel down by dimensions like device category. a blended funnel can hide a step that only fails on phones.",
+   "image": "painting-daumier-third-class-carriage.jpg"
+  },
+  {
+   "title": "read the abandonments",
+   "body": "under a ga4 funnel, the abandonments and abandonments rate columns show where users leave between steps. most founders stare at completions, which only flatter them.",
+   "image": "painting-latour-cheat-ace-of-diamonds.jpg"
+  },
+  {
+   "title": "count the rage clicks",
+   "body": "microsoft clarity flags a rage click when someone clicks multiple times in a clustered area in rapid succession. users show you the broken button long before they email you.",
+   "image": "painting-caravaggio-boy-bitten-lizard.jpg"
+  },
+  {
+   "title": "show the total early",
+   "body": "baymard's research ranks extra costs as the top reason us shoppers abandon a cart, at 40%. the price you reveal last is the one they quit on.",
+   "image": "painting-hals-laughing-cavalier.jpg"
+  },
+  {
+   "title": "hunt silent errors",
+   "body": "17% of us shoppers told baymard they abandoned a cart over website errors or crashes. nobody files a bug report on the way out.",
+   "image": "painting-eakins-the-thinker.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "the leak isn't a mystery.<br>you just aren't looking.",
+  "SUBLINE": "users show you where they quit every day.",
+  "TONIGHT": "break one funnel down by device",
+  "THIS_WEEK": "count rage clicks on your top page",
+  "NEXT_WEEK": "list every cost shown at checkout",
+  "NEXT_TITLE": "5 niche habits of founders who know their funnel by heart"
+ }
+}
