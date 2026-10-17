@@ -13,7 +13,10 @@ Pulled 2026-10-17 ~17:10 UTC by eu-main. TikTok 36 posts, Instagram 35 posts in 
 
 eu-main: plan made by this run, nothing to change -> kept plan (19:00 Berlin, P1 european chatgpt users, engagement CTA; no getclerion.com/resources page opened). sources: techrepublic 21 apr 2026, alicelabs scan upd 29 sep 2026.
 
+us-main: no change in the numbers since the plan (TikTok 36 + Instagram 35 posts pulled; every post from 10-14 19:00 UTC on still 1-7 views, Instagram reach 1-2, 0 comments; best_time_to_post 1-2 posts per slot, no signal) -> kept plan (18:00 New York, P2 where users quit; engagement CTA, no guide). track: A warm and bright song of piano and violin - KOU MUSIC. sources: gov.uk data community ga4 funnel explorations page, microsoft clarity semantic metrics docs, baymard cart abandonment rate list (updated 22 sep 2025). 8b: 0 comments, 0 replies.
+
 ## pillars
+2026-10-18, us-main, P2
 2026-10-18, eu-main, P1
 2026-10-16, eu-1, P2
 2026-10-16, eu-2, P4
