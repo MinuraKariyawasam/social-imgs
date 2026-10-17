@@ -1,26 +1,25 @@
 # Clerion carousel: one slot per run
 
-You make ONE carousel for Clerion and schedule it through Zernio on TikTok @clerionhq (with a hand-picked track) and Instagram @clerionhq. Ten separate scheduled tasks each run this playbook for one slot, one after another, about 45 minutes apart. Your slot is named in the task prompt. Finish without asking questions. Nobody is watching.
+You make ONE carousel for Clerion and schedule it through Zernio on TikTok @clerionhq (with a hand-picked track) and Instagram @clerionhq. Two separate scheduled tasks (eu-main, us-main) each run this playbook for one slot. Your slot is named in the task prompt. Finish without asking questions. Nobody is watching.
 
 Time budget: 40 minutes. Note the start time. At 35 minutes, stop starting new work: if the carousel is rendered and pushed, schedule it; otherwise report the slot as skipped. Never skip the report rules in step 9.
 
 ## 0. Slots and post date
 Post date D = tomorrow in New York (work it out with `TZ=America/New_York date`).
-- US slots (America/New_York): us-1 07:00, us-2 10:00, us-3 13:00, us-4 17:00, us-5 21:00.
-- EU slots (Europe/Berlin): eu-1 07:00, eu-2 10:00, eu-3 15:00, eu-4 18:00, eu-5 21:00.
-- Run order (by UTC slot time): eu-1, eu-2, us-1, eu-3, us-2, eu-4, us-3, eu-5, us-4, us-5.
-Step 2b may move a slot by up to 2 hours. Convert all ten to UTC: no two may be under 60 minutes apart (both regions post to the same two accounts). If two collide (around daylight-saving changes), move the EU one 1 hour later and check again.
+- TWO carousels a day, no more. This is the volume that worked on 2026-10-13 (TikTok averaged 288 views a post). 10 a day collapsed reach to about 2 views a post, and 6 a day was never tested. Do not add slots. Do not raise volume until log.csv shows 5 days at 2 a day with TikTok averaging 150+ views per post, and then only by one slot, by editing this file by hand.
+- us-main: 18:00 America/New_York. eu-main: 19:00 Europe/Berlin. They are about 5 hours apart in UTC.
+- Run order: eu-main first (it makes the day plan), then us-main.
+Step 2b may move a slot by up to 2 hours; keep at least 3 hours between the two in UTC.
 Your carousel goes out on TikTok and Instagram at the same slot time. If your slot time is less than 90 minutes from now when you reach step 8, skip it and report it.
-Volume: if log.csv shows the account running at 6 a day (step 2b), only us-2, us-3, us-4, eu-2, eu-3, eu-4 run. Any other slot: do step 8b only, then stop without a notification.
 
 ## 1. Get the repo
 Call add_repo for MinuraKariyawasam/social-imgs with push access. Run git clone --depth 1 https://github.com/MinuraKariyawasam/social-imgs. If the clone already exists in the working directory, git checkout main and git pull. It holds:
-- templates/cover.html, inner.html, closer.html, base.css: the blue-board design (1080x1350). Never change them. templates/classic/ is the old white design; never use it for new posts.
+- templates/classic/ (cover.html, inner.html, closer.html) and covers/cover-1.svg to cover-4.svg and brand/: the CLASSIC white design (1080x1350). This is the design that worked (TikTok 150 to 430 views a post on 2026-10-13/14). Use ONLY this design. Never change the templates. templates/cover.html, inner.html, closer.html, base.css are the blue-board design: do not use them.
 - scripts/render.py: renders all slides from a spec JSON into "outdir". scripts/crop.py crops paintings (render.py calls it).
-- examples/blueboard-spec.json and examples/blueboard/: a complete working spec and its rendered slides. Copy its structure exactly.
+- posts/2026-10-14-us/spec.json (and its slide PNGs and caption.txt): a complete classic spec and its rendered slides. Copy its structure exactly. scripts/render.py renders a spec as classic when cover.image starts with "cover-".
 - library/: public-domain paintings. library/library.csv has file, mood, use_for and crop focus. library/paintings.csv has title, artist, source.
 - log.csv: every carousel already made (post_date, region, local_time, timezone, title, cover, post_id (TikTok), ig_post_id (Instagram), paintings). For new rows the cover column holds the cover painting file.
-- plans/<D>.csv: the day plan shared by the ten runs (step 3). Columns: slot, region, local_time, pillar, title, hook, keyword, guide_url, cover, paintings (";"), track, status (planned, claimed, scheduled, skipped, failed), note.
+- plans/<D>.csv: the day plan shared by the two runs (step 3). Columns: slot, region, local_time, pillar, title, hook, keyword, guide_url, cover, paintings (";"), track, status (planned, claimed, scheduled, skipped, failed), note.
 - insights.md: running analytics notes (create if missing). comment-keywords.csv and replied.csv: see step 8b.
 - posts/: existing folders hold live images. Never modify, overwrite or delete an existing folder. Your folder is posts/<D>-<slot>/ ("outdir"); if it exists, use -v2, -v3 and so on. Ignore posts/2026-10-14-nordic/.
 
@@ -40,7 +39,7 @@ Call Zernio posts_list with status scheduled (limit 100) and posts_get on each t
 
 Score: reach = views (TikTok) or reach/impressions (Instagram). viral_rate = (shares + saves) / reach. viral_score = rank of reach + rank of viral_rate + 0.5 x rank of comments/reach, within one platform. Never compare raw TikTok numbers with raw Instagram ones.
 
-Tag each scored post: pillar P1 to P6 (from the "pillars" list in insights.md or plans/; for posts before 2026-10-16 assign from the title), theme, title pattern and intensity word, hook type (keep-it vs call-out), CTA type (guide vs engagement), design (blueboard from 2026-10-15, classic before), painting moods, region, local hour, weekday.
+Tag each scored post: pillar P1 to P6 (from the "pillars" list in insights.md or plans/; for posts before 2026-10-16 assign from the title), theme, title pattern and intensity word, hook type (keep-it vs call-out), CTA type (guide vs engagement), design (classic until 2026-10-14 evening and again from 2026-10-18, blueboard 2026-10-15 to 2026-10-17), painting moods, region, local hour, weekday.
 
 Decide (small samples lie, so these are strict):
 - Under 6 scored posts in total: not enough data. Use queue order and default hours.
@@ -48,9 +47,9 @@ Decide (small samples lie, so these are strict):
 - Topic: a theme or pattern is winning with 2+ scored posts and median viral_score in the top third, losing with 2+ in the bottom third. Winning first, then not-losing, then losing. Keep at least one test of a different theme per region per day.
 - Hook: when one type beats the other with 2+ posts each, use it on most posts, but keep at least one of each type per day.
 - CTA: once both types have 4+ scored posts, compare median comments/reach and note the winner.
-- Design: once blueboard has 10+ scored posts, compare its median viral_score per platform with classic and report it. Keep blueboard.
+- Design: classic is the default. Never switch to blueboard.
 - Time: once a region has 10+ scored posts across 4+ hours, you may move your slot up to 2 hours toward a clearly better hour (2+ posts there, top third). With less data, only to best_time_to_post's best hour for that weekday if within 2 hours of default. Never within 2 hours of another slot of your region; always keep 60-minute UTC spacing.
-- Volume: once there are 3+ days at 10 carousels a day (2-a-day days are 2026-10-13 and earlier), compare average reach per post on 10-a-day days against 2-a-day days per platform. If it dropped by more than half on either, the day plan switches to 6 a day (us-2, us-3, us-4, eu-2, eu-3, eu-4). Once log.csv shows 6 a day, stay at 6.
+- Volume: stays at 2 a day (step 0).
 - Paintings: a mood that clearly wins (2+ posts, top third) is preferred for the cover and the harshest-truth slide.
 - Region: if one region's median reach is under a third of the other's over 6+ posts each, flag it.
 - Never break steps 3 to 5 to chase a number.
@@ -61,8 +60,8 @@ Write it down in insights.md:
 Keep insights.md under about 300 lines by condensing older sections into a "standing findings" list at the top.
 
 ## 3. The day plan, and your title
-### If plans/<D>.csv does not exist (normally the eu-1 run): make the whole day plan
-Plan all slots (10, or 6 at 6 a day) so the day stays varied, then commit and push plans/<D>.csv before you start writing your own carousel. Each row: slot, region, local_time (after any 2b move), pillar, title, hook, keyword (reserved, unique across the day, or "engagement"), guide_url (only if you opened it today and it loads), cover painting, five inner paintings (step 5), status "planned".
+### If plans/<D>.csv does not exist (normally the eu-main run): make the whole day plan
+Plan both slots so the day stays varied, then commit and push plans/<D>.csv before you start writing your own carousel. Each row: slot, region, local_time (after any 2b move), pillar, title, hook, keyword (leave empty), guide_url (leave empty), cover (cover-N.svg), five inner paintings (step 5), status "planned".
 Re-check: pull, and if another run created plans/<D>.csv meanwhile, use theirs and discard yours.
 
 Pillars (every carousel belongs to one):
@@ -72,7 +71,8 @@ Pillars (every carousel belongs to one):
 - P4 what to do about it: reading analytics fast, finding the one fix to make first, spotting what changed, investor update numbers.
 - P5 SI and AI founder life: superintelligence, AI search, founder habits (US); european law, funding and selling across europe (EU).
 - P6 growth and distribution for AI founders: growing on X, build in public, launches (Product Hunt, Show HN), Reddit, cold DMs, newsletters and press, first users.
-Daily mix per region: one P5, one P6, three of P1 to P4. The website pillar left out rotates: skip the one with the most carousels for that region over the last 3 days (pillars from insights.md/plans; tie: skip the higher number). Strongest pick (2b) in the best hour. A winning pillar may take a second slot from the weakest, but P5 and P6 keep a slot every day and each of P1 to P4 runs at least once every two days.
+Daily mix: eu-main and us-main each take one carousel. US: alternate P5 and P1 to P4 with P6 (never two P6 in a row). EU: alternate P5 (funding, selling across europe, GDPR, AI Act only) and P1 to P4. Pick the pillar used least in the last 4 days of log.csv for that region (tie: lower number).
+What worked on 2026-10-13/14 (TikTok 150 to 430 views): founder identity and SI angles ("get recommended by superintelligence", "signs you're becoming a terrifyingly good founder", "6 metrics that will make you a disgustingly bad founder"), and "get funded by europe without giving up equity". Weight titles toward those. What got 0 to 4 views at 10 a day (volume was the main cause, but don't spend your 2 slots on them): niche EU compliance laws (nis2, dma, e-invoicing, cyber resilience act, data act, accessibility, product liability). Skip those until step 2b shows them working at 2 a day.
 For each slot take the first unused title from that pillar's queue for that region (skip anything in log.csv or that repeats a log.csv topic from the last 14 days, even reworded).
 
 US queues:
@@ -111,44 +111,33 @@ New titles, formula, no exceptions:
 The title promises who the reader becomes; it never names a problem, a complaint or a product. Hook: 2 to 5 words in brackets that tell them to keep it or call them out, e.g. (save them), (copy them), (good luck), (you're probably doing none of them). Never a CTA or link in the hook.
 Sources for new titles: P1 to P4 from getclerion.com feature pages and getclerion.com/resources (the slides teach the habit or fact, never the product). US P5 from getclerion.com/resources (newest first), leaning on SI and superintelligence. P6 from getclerion.com/resources plus platforms' own rules (X, Product Hunt, Hacker News, Reddit), founder write-ups with real numbers (attributed), reputable startup press; never invent follower, signup or revenue numbers; an EU P6 needs a europe angle. EU titles from getclerion.com/resources plus european news and official eu pages read today. Favour topics with a matching getclerion.com/resources article or feature page (they get a guide CTA).
 
-## 4. Write the slides (blue-board design)
+## 4. Write the slides (classic design)
 Do the research and writing yourself (no subagents), at most 10 page reads.
-Exactly 3 colours (the templates handle them). Yellow on ONE word or phrase per slide only. Write all spec text in lowercase (the templates capitalise headlines). No em dashes. No emoji.
+Write all spec text in lowercase. No em dashes. No emoji. Never mention Clerion on any slide.
 - 7 slides: cover, 5 inner slides, closer (6 inner when the title says 6).
-- Cover: split the title into "sub" (the small lead-in, e.g. "5 niche ways to become") and "title" (the big headline). Wrap the headline's keyword in <span class="y">…</span>. "steps": one 1 to 2 word label per inner slide. "hook": the bracketed hook. "image": the cover painting.
-- Inner slide: "title" of 2 to 4 words with the word that matters in <span class="hl">…</span>. "body": exactly two sentences, under 30 words; sentence one says what it is, sentence two is the uncomfortable truth. "label": a 1 to 3 word yellow tag that reacts to the slide (e.g. "€1m fine"). "image": the painting.
-- Closer: "HEADLINE" two lines with <br> reframing the post, reframe word(s) in <span class="y">…</span>. "TONIGHT", "THIS_WEEK", "NEXT_WEEK": under about 35 characters each. "CTA" below. "NEXT_TITLE": a next title from the same region's queue or backlog, not used by any slot in today's plan.
-- CTA: one line under 55 characters asking for a one-word comment, the word in <b>…</b> (renders as a yellow tag).
-  - Guide CTA when a getclerion.com/resources article or a getclerion.com "learn about" page covers the topic in full (open it today, confirm it loads): "comment <b>KEYWORD</b> and we'll reply with the full guide". Use the keyword reserved in the plan (one short lowercase word, unique that day).
-  - Engagement CTA otherwise: e.g. "comment <b>3</b> if slide 3 hit hardest", "comment <b>me</b> if you skip all five", "comment the <b>number</b> you'll fix first". Never promise a guide that doesn't exist.
-  - The CTA is on the closer only.
-- Never mention Clerion on any slide.
-- US posts: US sources and data, dollars. EU posts: european sources first (eur-lex, european commission and ai act pages, eurostat, eic and eu funding pages, european data protection authorities, european studies and press), euros; a point with only a US source stays only if equally true in Europe.
-- Every fact comes from a page read today (web search or getclerion.com/resources). Claims about SI, AGI or the SI executive order come only from Clerion's own articles. Never invent a statistic. Never give legal advice as fact: state what the law or regulator page says, with its date. If the topic can't be sourced properly, swap to the next unused title in the same pillar (update your plan row) rather than padding.
+- Spec shape, exactly like posts/2026-10-14-us/spec.json: {"date", "region", "outdir", "cover": {"title": "<title with one <span class=\"u\">keyword</span> underlined>", "image": "cover-N.svg", "hook": "(copy them)"}, "inner": [{"title", "body", "image": "painting-....jpg"}, ...], "closer": {"HEADLINE", "SUBLINE", "TONIGHT", "THIS_WEEK", "NEXT_WEEK", "NEXT_TITLE"}}.
+- Cover image: cover-1.svg to cover-4.svg, rotating: use the one not used by the previous carousel in log.csv.
+- Inner slide: "title" of 2 to 5 words. "body": 2 sentences with the uncomfortable truth in the second, each carrying one concrete fact or number from a page read today.
+- Closer: "HEADLINE" two lines with <br>; "SUBLINE" one line; "TONIGHT", "THIS_WEEK", "NEXT_WEEK" under about 40 characters each; "NEXT_TITLE" an unused title from the queue or backlog.
+- There is no CTA keyword on classic slides. Never promise a guide. No comment-keyword rows.
+- US posts: US sources and data, dollars. EU posts: european sources first (eur-lex, european commission pages, eurostat, eic and eu funding pages, european data protection authorities), euros.
+- Every fact comes from a page read today. Claims about SI, AGI or the SI executive order come only from Clerion's own articles. Never invent a statistic. Never give legal advice as fact: state what the law or regulator page says, with its date. If the topic can't be sourced properly, swap to the next unused title in the same pillar (update your plan row) rather than padding.
 
 ## 5. Images
-Never search for, download, generate or draw an image. Only library/ paintings; skip rows whose mood is "retired". covers/ and brand/ belong to the old design; don't use them.
-- Cover: a painting that plays the "person on the thumbnail": a single clear face or figure looking out, ideally judging or shock (Bronzino, Kramskoi, Ducreux, Hals portraits work best). Different from the carousel's inner paintings.
+Never search for, download, generate or draw an image. Inner slides use library/ paintings only; skip rows whose mood is "retired". The cover uses covers/cover-N.svg (classic). brand/ is used by the classic templates.
 - Inner: one painting per slide by mood and use_for: shock or judging for the harshest truth, waiting for waiting or doing nothing, thinking for doing the work, tracking or writing, triumph for winning or getting rewarded. Deadpan reaction to the text. Closest mood if the right one ran out.
-- Never the same painting twice in a carousel. Within one region on one day, never twice (check the plan and log.csv); a cover may repeat one from the other region that day, never in two carousels less than 6 hours apart. Otherwise prefer paintings used least recently in log.csv.
+- Never the same painting twice in a carousel. Within one region on one day, never twice (check the plan and log.csv); Otherwise prefer paintings used least recently in log.csv.
 The day plan pre-assigns paintings this way; keep them unless a slide's mood no longer fits.
 
 ## 6. Render
-In the clone: npm i geist; pip install playwright pillow --break-system-packages; playwright install chromium (skip any that's already there).
-Spec in exactly the shape of examples/blueboard-spec.json: {"date": "<D>", "region": "us"|"eu", "outdir": "posts/<D>-<slot>", "cover": {"sub", "title", "steps", "hook", "image"}, "inner": [{"title", "body", "label", "image"}, ...], "closer": {"HEADLINE", "TONIGHT", "THIS_WEEK", "NEXT_WEEK", "CTA", "NEXT_TITLE"}}. Run python3 scripts/render.py <spec>.
-Check the printed numbers, then open every PNG and look:
-- Every slide: font true, img_loaded true (closer null is fine).
-- Cover: title_clear true, boxes_ok true, font_px 84+ (else move words into "sub" or shorten step labels).
-- Inner: body_ok true, font_px 76+ (else shorten the title).
-- Closer: title_clear true, boxes_ok true, cta_lines 1.
-- Faces or main figures in frame, yellow on exactly one word or phrase, nothing clipped or overlapping.
-Fix by shortening words or swapping a painting, re-render. Save spec.json in the folder.
+In the clone: pip install playwright pillow --break-system-packages; playwright install chromium (skip any that's already there; npm i geist only if render.py complains about the font).
+Run python3 scripts/render.py <spec>. Open every PNG and look: headline fully visible, no clipped body text, painting faces in frame, nothing overlapping, closer legible. Fix by shortening words or swapping a painting, re-render. Save spec.json in the folder.
 
 ## 7. Publish the images
 caption.txt in the folder, in this order:
 1. the full title (sub + title, plain text)
 2. blank line, one "track it tonight" step per inner slide (one concrete action each)
-3. blank line, the closer's CTA in plain text (no tags, keyword in capitals, e.g. "comment GDPR and we'll reply with the full guide")
+3. blank line, one line asking for a comment in plain words (e.g. "which one are you skipping? tell us below")
 4. blank line, 3 to 5 hashtags (EU: at least one european, e.g. #eustartups, #europeanstartups, #founderseurope; prefer hashtags step 2b shows on top posts), then @getclerionhq once. Never @getclerion on its own.
 5. blank line, then exactly:
 
@@ -156,7 +145,8 @@ Website intelligence for AI founders.
 
 Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.
 
-Under 2,000 characters total; shorten the tonight steps if needed, never the CTA or the marketing block.
+Under 2,000 characters total; shorten the tonight steps if needed, never the marketing block.
+Instagram gets a different first line from TikTok: TikTok keeps the title; Instagram opens with one call-out sentence under 90 characters (a question or a blunt claim from slide 2), then a blank line, then the rest of the caption.
 Commit your folder (slides, caption, spec) plus your insights.md lines, pull --rebase, push to main. Never commit node_modules or package files. Wait until every https://raw.githubusercontent.com/MinuraKariyawasam/social-imgs/main/<folder>/slide-0N.png returns 200 with an md5 matching the local file (cache can take 5 minutes) before scheduling.
 
 ## 8. Schedule via Zernio (TikTok, then Instagram)
@@ -170,19 +160,15 @@ Run the same arguments once with "dry_run": true first and fix anything it repor
 
 Instagram (separate post): validate_post with content = full caption.txt, media_items, platforms [{"platform": "instagram", "accountId": "6ace5709d03cba011742d506"}]; fix anything. Then call_tool "posts_create_post" with content = full caption.txt, media_items, that platform, same scheduled_for and timezone. No music on Instagram; expected.
 
-After each, posts_get the new post and confirm its UTC time matches. For a guide CTA append one row per platform to comment-keywords.csv (post_date, slot, platform, Zernio post id, keyword, guide_url).
-On an error, record the exact error and carry on with the other platform. On a rate limit, wait as asked and retry once. A daily posting limit on a platform: stop on that platform, keep the other.
+After each, posts_get the new post and confirm its UTC time matches. On an error, record the exact error and carry on with the other platform. On a rate limit, wait as asked and retry once. A daily posting limit on a platform: stop on that platform, keep the other.
 
-## 8b. Answer keyword comments (every run)
-For each comment-keywords.csv row with post_date in the last 7 days whose post is live: comments_get_inbox_post_comments (post_id = Zernio id, account_id = that platform's account), page through. For each comment containing the keyword (case-insensitive, whole word), not from @clerionhq and not in replied.csv, reply with comments_reply_to_inbox_post using comment_id:
-- Instagram: "here's the full guide: <guide_url>" (vary the opening: "here you go:", "as promised:").
-- TikTok (150-character cap): "here's the full guide: <guide_url>", shortened if needed.
-Append each to replied.csv right after replying, and pull --rebase before committing (another run may have replied too; never reply to a comment id already in replied.csv after the pull). At most 30 replies per run. On a rate limit, wait, retry once, then stop replying.
+## 8b. Comments
+Classic posts carry no guide keywords. If a post has real comments (analytics shows comments > 0), reply to each in one friendly line with comments_reply_to_inbox_post, and append to replied.csv. Otherwise skip.
 
 ## 9. Log and report
 Append your row to log.csv: post_date, region, local_time (HH:MM), timezone, full title, cover painting, TikTok post_id (empty if failed), Instagram ig_post_id (empty if failed), inner paintings joined with ";". (If you only filled a missing platform, update that row instead.) Set your plan row status to scheduled, skipped or failed, with the track. Add "<D>, <slot>, <pillar>" to the "pillars" list in insights.md. Commit (log.csv, plans, insights.md, csv files), pull --rebase, push. Then delete node_modules, package.json and package-lock.json from the clone.
 
 Notifications (PushNotification, summary inside <routine_summary> tags):
 - If anything went wrong in your run (a platform failed, the slot was skipped, sourcing forced a swap you couldn't make, the repo or Zernio was unreachable): send one notification. First sentence: "<slot> <D>: <what failed>". Then the exact error and what you did.
-- If you are the last slot that runs today (us-5, or us-4 at 6 a day): send the day summary even if all went well. First sentence: how many of the planned posts for D got scheduled (carousels x 2). Then one "what's working" and one "what's not" line from 2b (or "not enough data yet"), any time or topic change, the design comparison and volume check once they apply. Then one line per slot from plans/<D>.csv and log.csv: slot, pillar, title, time in its own timezone and Asia/Saigon, platforms (flag failures), TikTok track, CTA keyword or "engagement". Then how many keyword comments got replies today (count replied.csv rows dated today). End with anything cut, skipped or not done.
+- If you are us-main: send the day summary even if all went well. First sentence: how many of the planned posts for D got scheduled (carousels x 2, one per platform). Then one "what's working" and one "what's not" line from 2b (or "not enough data yet"), any time or topic change, the average TikTok views per post for the last 3 days against the 288 baseline. Then one line per slot from plans/<D>.csv and log.csv: slot, pillar, title, time in its own timezone and Asia/Saigon, platforms (flag failures), TikTok track. End with anything cut, skipped or not done.
 - Otherwise (your slot went fine and you're not last): no notification.

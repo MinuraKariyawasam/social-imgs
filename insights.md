@@ -1,6 +1,7 @@
 # Clerion carousel insights
 
 ## standing findings
+- 2026-10-17 reset: back to 2 a day, classic design, both only on cover/hook patterns that worked. Early classic posts at 2 a day averaged 288 TikTok views; at 10 a day about 2. Baseline to beat: 150+ avg TikTok views per post for 5 days before adding a slot.
 - 6 a day from 2026-10-17: TikTok views fell about 84% per post after going from 2 to 10 a day (see 2026-10-17 analytics).
 - 8 scored posts as of 2026-10-16; no pillar, hook or hour has 2+ per region yet.
 
