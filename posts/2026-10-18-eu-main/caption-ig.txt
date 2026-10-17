@@ -1,0 +1,15 @@
+does chatgpt know your site exists in europe?
+
+1. check robots.txt for oai-searchbot, not just gptbot
+2. verify your site in bing webmaster tools and submit a sitemap
+3. add an english version of your best page
+4. put the question your buyer asks in the page title
+5. filter utm_source=chatgpt.com in ga4 and count the visits
+
+which one are you skipping? tell us below
+
+#europeanstartups #founderseurope #aiseo #startupfounder @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

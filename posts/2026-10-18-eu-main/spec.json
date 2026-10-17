@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-18",
+ "region": "eu",
+ "outdir": "posts/2026-10-18-eu-main",
+ "cover": {
+  "title": "5 niche ways to become the <span class=\"u\">founder</span> european chatgpt users find first",
+  "image": "cover-4.svg",
+  "hook": "(screenshot this)"
+ },
+ "inner": [
+  {
+   "title": "let the search bot in",
+   "body": "openai's oai-searchbot decides if you show up in chatgpt search. blocking gptbot does not remove you, but opting out of oai-searchbot does.",
+   "image": "painting-repin-unexpected-visitors.jpg"
+  },
+  {
+   "title": "open bing webmaster tools",
+   "body": "openai names bing as one of the providers behind chatgpt search. if you only ever check google, you are guessing about your best channel.",
+   "image": "painting-wood-american-gothic.jpg"
+  },
+  {
+   "title": "match english queries",
+   "body": "in one alice labs scan, 187 of 299 searches chatgpt ran for swedish questions were in english. a page that exists only in your language may never match.",
+   "image": "painting-courbet-desperate-man.jpg"
+  },
+  {
+   "title": "put the question in the title",
+   "body": "in that scan, pages with the question's wording in the title and a short early answer got cited more. a clever headline loses to a plain one.",
+   "image": "painting-ducreux-mocker.jpg"
+  },
+  {
+   "title": "tag the visits",
+   "body": "openai says chatgpt referral links carry utm_source=chatgpt.com. filter it in ga4, or you will never know europe found you.",
+   "image": "painting-vermeer-astronomer.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "europe asks chatgpt first.<br>be the answer.",
+  "SUBLINE": "the bots are already reading your site.",
+  "TONIGHT": "check robots.txt for oai-searchbot",
+  "THIS_WEEK": "verify your site in bing webmaster tools",
+  "NEXT_WEEK": "filter utm_source=chatgpt.com in ga4",
+  "NEXT_TITLE": "5 niche ways to fix a checkout that loses half of europe"
+ }
+}
