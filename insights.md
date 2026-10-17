@@ -11,7 +11,10 @@ Pulled 2026-10-17 ~17:10 UTC by eu-main. TikTok 36 posts, Instagram 35 posts in 
 - Volume is the signal: reversal to 2 a day (this plan). Pillars with 2+ scored posts per region: none outside early P5. No hook, CTA, hour or mood comparison possible. best_time_to_post: 1-2 posts per slot, no signal; default hours kept (eu 19:00 Berlin, us 18:00 New York, 5h apart in UTC).
 - Plan: EU P1 (europe angle, least used with P2-P4, lower number), US P2. One keep-it hook (eu), one call-out (us). Covers eu cover-4, us cover-1.
 
+eu-main: plan made by this run, nothing to change -> kept plan (19:00 Berlin, P1 european chatgpt users, engagement CTA; no getclerion.com/resources page opened). sources: techrepublic 21 apr 2026, alicelabs scan upd 29 sep 2026.
+
 ## pillars
+2026-10-18, eu-main, P1
 2026-10-16, eu-1, P2
 2026-10-16, eu-2, P4
 2026-10-16, us-1, P3
@@ -108,6 +111,8 @@ us-5: 6 a day stands (plan for 2026-10-17 has 6 rows, all scheduled) -> no carou
 - 2026-10-17 eu-4: Afternoon in Sicily (Lofi) - Muspace Lofi (7187826526048487425)
 - 2026-10-17 us-3: Happy Light Jazz - Cafe3(1133560) - Kobat (7031666552407590913)
 - 2026-10-17 us-4: Good Vibes - Matt Larsson (6849405904635299841)
+
+- 2026-10-18 eu-main: Polar Winds (Lofi) - Muspace Lofi (7221171716369647617)
 
 ## idea backlog
 - eu P5: 5 niche ways to become the founder who wins an eic grant (only once funding is 14+ days old)
