@@ -1,0 +1,15 @@
+your pricing table may be a blank page to chatgpt and claude.
+
+1. view source on your pricing page: if the numbers are missing, the bots never saw them
+2. list your 404s and redirect hops from your server logs
+3. fix or redirect every dead url you still link to
+4. open robots.txt and make sure oai-searchbot is allowed
+5. check your logs for chatgpt-user visits, not just robots.txt rules
+
+which one are you skipping? tell us below
+
+#aiseo #startupfounder #foundersofinstagram #buildinpublic @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

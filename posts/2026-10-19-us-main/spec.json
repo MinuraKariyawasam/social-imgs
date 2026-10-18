@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-19",
+ "region": "us",
+ "outdir": "posts/2026-10-19-us-main",
+ "cover": {
+  "title": "5 niche things <span class=\"u\">superintelligence</span> can't see on your website",
+  "image": "cover-3.svg",
+  "hook": "(fix them tonight)"
+ },
+ "inner": [
+  {
+   "title": "javascript-only content",
+   "body": "vercel's crawl study (dec 2024) found no major ai crawler renders javascript. gptbot and claudebot fetched js files and ran none, so a pricing table built in the browser is a blank page to them.",
+   "image": "painting-terborch-curiosity.jpg"
+  },
+  {
+   "title": "pages that 404",
+   "body": "in that study 34.82% of chatgpt's crawler fetches and 34.16% of claude's hit 404 pages, against 8.22% for googlebot. every old url you forgot is a visit they spent on nothing.",
+   "image": "painting-steen-feast-of-st-nicholas.jpg"
+  },
+  {
+   "title": "redirect chains",
+   "body": "chatgpt's crawler spent 14.36% of its fetches following redirects, googlebot 1.49%. every extra hop between your link and your page is one more place they stop.",
+   "image": "painting-elgreco-cardinal.jpg"
+  },
+  {
+   "title": "a robots.txt block",
+   "body": "openai's docs say a site that disallows oai-searchbot won't appear in chatgpt search answers. one copied rule can hide you, and changes take about 24 hours to show.",
+   "image": "painting-munch-the-scream.jpg"
+  },
+  {
+   "title": "visits robots.txt skips",
+   "body": "chatgpt-user fetches a page when someone asks a question, and openai says robots.txt rules may not apply to it. your server logs know who read you, your rules file doesn't.",
+   "image": "painting-latour-fortune-teller.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "they read what you ship.<br>not what you meant.",
+  "SUBLINE": "your best page may be blank to the bots that matter.",
+  "TONIGHT": "view source on your pricing page",
+  "THIS_WEEK": "fix 404s and redirect hops",
+  "NEXT_WEEK": "check oai-searchbot in robots.txt",
+  "NEXT_TITLE": "5 niche ways to make your site readable by claude and chatgpt"
+ }
+}
