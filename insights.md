@@ -13,6 +13,8 @@ Pulled 2026-10-18 ~17:10 UTC by eu-main. TikTok 36 posts, Instagram 35 posts in 
 
 eu-main: made the plan (no numbers changed). scheduled 19:00 Berlin, P2 reading users in 5 languages; title shortened to fit the cover. track: Dinner Table - Muspace Lofi. sources: csa research can't read won't buy b2c (7 jul 2020), google search central localized versions (upd 2026-09-21), practical ecommerce 25 aug 2026. 8b: 0 comments, 0 replies.
 
+us-main: TikTok 37 + Instagram 36 pulled at ~17:55 UTC; no change since the plan (everything from 10-14 19:00 UTC on still 0-4 views, Instagram reach 0-2, 0 comments; best_time_to_post 1-2 posts per slot) -> kept plan (18:00 New York, P5 superintelligence can't see on your website, call-out hook; crawler facts from vercel's dec 2024 study and openai crawler docs, no SI claims). TikTok 3-day avg about 2 views/post vs 288 baseline.
+
 ## 2026-10-18 analytics
 Pulled 2026-10-17 ~17:10 UTC by eu-main. TikTok 36 posts, Instagram 35 posts in 45 days. Scored (48h+ old): TikTok 20, Instagram 20 (Instagram reach is 1-2 on everything).
 - Winners (TikTok, 2 a day, 10-13/14): get recommended by superintelligence 429, funded by europe 433, founder identity 403, gdpr can't touch 170, 6 metrics bad founder 168, eu ai act 147. Losers: every post from 10-14 19:00 UTC on, 0-7 views, at 10 and 6 a day, no exception by pillar, hour or topic.
@@ -24,6 +26,7 @@ eu-main: plan made by this run, nothing to change -> kept plan (19:00 Berlin, P1
 us-main: no change in the numbers since the plan (TikTok 36 + Instagram 35 posts pulled; every post from 10-14 19:00 UTC on still 1-7 views, Instagram reach 1-2, 0 comments; best_time_to_post 1-2 posts per slot, no signal) -> kept plan (18:00 New York, P2 where users quit; engagement CTA, no guide). track: A warm and bright song of piano and violin - KOU MUSIC. sources: gov.uk data community ga4 funnel explorations page, microsoft clarity semantic metrics docs, baymard cart abandonment rate list (updated 22 sep 2025). 8b: 0 comments, 0 replies.
 
 ## pillars
+2026-10-19, us-main, P5
 2026-10-19, eu-main, P2
 2026-10-18, us-main, P2
 2026-10-18, eu-main, P1
@@ -127,6 +130,8 @@ us-5: 6 a day stands (plan for 2026-10-17 has 6 rows, all scheduled) -> no carou
 - 2026-10-18 eu-main: Polar Winds (Lofi) - Muspace Lofi (7221171716369647617)
 
 - 2026-10-19 eu-main: Dinner Table - Muspace Lofi (7144133684730284034)
+
+- 2026-10-19 us-main: Hushed Aroma - edivieira (7488409474814920720)
 
 ## idea backlog
 - eu P5: 5 niche ways to become the founder who wins an eic grant (only once funding is 14+ days old)
