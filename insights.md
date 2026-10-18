@@ -5,6 +5,12 @@
 - 6 a day from 2026-10-17: TikTok views fell about 84% per post after going from 2 to 10 a day (see 2026-10-17 analytics).
 - 8 scored posts as of 2026-10-16; no pillar, hook or hour has 2+ per region yet.
 
+## 2026-10-19 analytics
+Pulled 2026-10-18 ~17:10 UTC by eu-main. TikTok 36 posts, Instagram 35 posts in 45 days (sync last ran 14:50 UTC, so 10-17 evening and 10-18 posts are not in yet). Scored (48h+ old): TikTok 20, Instagram 20, same set as the last pull.
+- Winners (TikTok, 2 a day, 10-13/14): superintelligence 429, funded by europe 433, founder identity 407, gdpr 170, 6 metrics 169, eu ai act 147. Everything from 10-14 19:00 UTC on is still 1-7 views (Instagram reach 0-2, 0 comments). No pillar, hook, CTA, mood or hour has 2+ scored posts per region at 2 a day, so no topic or time change. best_time_to_post: 1-2 posts per slot, no signal; default hours kept (eu 19:00 Berlin, us 18:00 New York).
+- 2-a-day check: 10-17 and 10-18 posts too fresh to judge; first 2-a-day day (10-18) scores after 10-20.
+- Plan: EU P2 (least used in last 4 days, tie with P3/P4, lower number), keep-it hook; US P5 (P2 yesterday), call-out hook. Covers eu cover-2, us cover-3.
+
 ## 2026-10-18 analytics
 Pulled 2026-10-17 ~17:10 UTC by eu-main. TikTok 36 posts, Instagram 35 posts in 45 days. Scored (48h+ old): TikTok 20, Instagram 20 (Instagram reach is 1-2 on everything).
 - Winners (TikTok, 2 a day, 10-13/14): get recommended by superintelligence 429, funded by europe 433, founder identity 403, gdpr can't touch 170, 6 metrics bad founder 168, eu ai act 147. Losers: every post from 10-14 19:00 UTC on, 0-7 views, at 10 and 6 a day, no exception by pillar, hour or topic.
