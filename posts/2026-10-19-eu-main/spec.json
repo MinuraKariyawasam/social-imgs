@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-19",
+ "region": "eu",
+ "outdir": "posts/2026-10-19-eu-main",
+ "cover": {
+  "title": "5 niche ways to read <span class=\"u\">users</span> in 5 languages like a local",
+  "image": "cover-2.svg",
+  "hook": "(copy them)"
+ },
+ "inner": [
+  {
+   "title": "split by browser language",
+   "body": "csa research asked 8,709 shoppers in 29 countries in 2020: 76% prefer buying with product info in their own language. your overall conversion rate averages those people away.",
+   "image": "painting-labille-guiard-two-pupils.jpg"
+  },
+  {
+   "title": "count who never buys",
+   "body": "40% of those shoppers said they won't buy from a site in another language. an english-only checkout is a closed door you never see.",
+   "image": "painting-kramskoi-unknown-woman.jpg"
+  },
+  {
+   "title": "don't trust a discount",
+   "body": "66% would take a cheaper product even without info in their language, but only 48% of people with no english would. a sale won't fix a page they can't read.",
+   "image": "painting-villers-du-val-dognes.jpg"
+  },
+  {
+   "title": "link every version back",
+   "body": "google says hreflang tags are ignored unless the pages point at each other (docs updated 21 sep 2026). miss one return link and your german page may not count as german.",
+   "image": "painting-greuze-broken-eggs.jpg"
+  },
+  {
+   "title": "start with two markets",
+   "body": "a 25 aug 2026 practical ecommerce piece advises one or two markets first, with native review of product pages, checkout and returns emails. five languages at once is how you end up reading none.",
+   "image": "painting-hals-merry-drinker.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "europe speaks many languages.<br>read every one.",
+  "SUBLINE": "your best customers may already be leaving in silence.",
+  "TONIGHT": "split ga4 by browser language",
+  "THIS_WEEK": "add hreflang return links",
+  "NEXT_WEEK": "pick two markets, native review",
+  "NEXT_TITLE": "5 niche ways to get press in europe without a pr agency"
+ }
+}

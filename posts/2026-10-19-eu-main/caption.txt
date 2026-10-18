@@ -1,0 +1,15 @@
+5 niche ways to read users in 5 languages like a local
+
+1. split ga4 by browser language, not just by country
+2. count how many visitors on your english-only pages leave without buying
+3. test a discount only on pages your visitors can read
+4. check that every hreflang version links back to all the others
+5. pick two markets and get a native speaker to review checkout and returns emails
+
+which one are you skipping? tell us below
+
+#europeanstartups #founderseurope #ecommerce #startupfounder @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.
