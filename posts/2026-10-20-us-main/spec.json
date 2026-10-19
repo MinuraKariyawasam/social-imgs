@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-20",
+ "region": "us",
+ "outdir": "posts/2026-10-20-us-main",
+ "cover": {
+  "title": "5 niche signs your best customers came from <span class=\"u\">perplexity</span>, not google",
+  "image": "cover-1.svg",
+  "hook": "(you're probably doing none of them)"
+ },
+ "inner": [
+  {
+   "title": "two perplexity rows",
+   "body": "perplexity passes a referrer, listed as perplexity.ai and www.perplexity.ai, so look for both in your referral report. if you only scan the top three sources, a small row like that stays invisible.",
+   "image": "painting-bronzino-young-man.jpg"
+  },
+  {
+   "title": "direct, but deep",
+   "body": "one study of about 450,000 ai-adjacent visits found 70.6% arrived with no referrer and landed as direct. direct visits that open deep pages are where your hidden ai customers sit.",
+   "image": "painting-caravaggio-denial-of-peter.jpg"
+  },
+  {
+   "title": "tiny but converting",
+   "body": "seer interactive (june 2025) had perplexity visitors converting at 10.5% against 1.76% for google organic. a source you call tiny can still be your best one.",
+   "image": "painting-fedotov-fresh-cavalier.jpg"
+  },
+  {
+   "title": "they stay and read",
+   "body": "one 2026 vendor report puts perplexity bounce at 21.4% against 71.4% for google, with sessions over 6 minutes. long sessions you can't explain come from a source you haven't named yet.",
+   "image": "painting-rembrandt-aristotle.jpg"
+  },
+  {
+   "title": "no ai channel",
+   "body": "a custom ga4 channel group matching source on perplexity.ai and other assistants only works if you drag it to the top and leave medium open. until you build it, the customers who asked an ai about you have no name in your reports.",
+   "image": "painting-ducreux-yawning.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "your best customer<br>never says hello.",
+  "SUBLINE": "find the source you never named.",
+  "TONIGHT": "search referrals for perplexity.ai",
+  "THIS_WEEK": "build an ai channel group in ga4",
+  "NEXT_WEEK": "compare conversion by source",
+  "NEXT_TITLE": "5 niche ways to make your site readable by claude and chatgpt"
+ }
+}
