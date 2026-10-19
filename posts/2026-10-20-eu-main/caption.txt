@@ -1,0 +1,15 @@
+5 niche ways to catch the errors only translated pages cause
+
+1. search your error logs for "failed to execute removechild" tonight
+2. wrap loose conditional text in a span so the node stays put
+3. test your checkout with chrome translation switched on
+4. before adding notranslate, check what it does to accessibility
+5. check search console before you hide your pages from translated results
+
+which one are you skipping? tell us below
+
+#startupfounder #europeanstartups #founderseurope #webdev @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-20",
+ "region": "eu",
+ "outdir": "posts/2026-10-20-eu-main",
+ "cover": {
+  "title": "5 niche ways to catch the <span class=\"u\">errors</span> only translated pages cause",
+  "image": "cover-4.svg",
+  "hook": "(good luck)"
+ },
+ "inner": [
+  {
+   "title": "search for removechild",
+   "body": "when chrome translates a page it can swap bare text for font tags, and react then throws 'failed to execute removechild' (react issue 11538, opened 13 nov 2017). your visitor sees a broken page and most won't write to tell you.",
+   "image": "painting-caravaggio-boy-bitten-lizard.jpg"
+  },
+  {
+   "title": "wrap loose text",
+   "body": "the top fix in that thread is putting adjacent conditional text inside a span so the node stays where react expects it. one unwrapped line can take the whole page down.",
+   "image": "painting-eakins-writing-master.jpg"
+  },
+  {
+   "title": "stop waiting for a patch",
+   "body": "the thread has 37 comments, and on 30 aug 2018 maintainers said they couldn't fix it without tradeoffs. nobody upstream is coming to save your checkout.",
+   "image": "painting-chardin-soap-bubbles.jpg"
+  },
+  {
+   "title": "price the notranslate fix",
+   "body": "one commenter warns that switching translation off hurts accessibility, and a meta tag only hides the prompt, not the right-click option. a half fix with a real cost.",
+   "image": "painting-rembrandt-syndics.jpg"
+  },
+  {
+   "title": "keep google's translation",
+   "body": "google may show translated titles and snippets in 21 languages (docs updated 10 dec 2025), and a notranslate rule opts you out of all of it. hiding from translation to fix a bug quietly costs you readers.",
+   "image": "painting-ducreux-mocker.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "you write in one language.<br>they read in another.",
+  "SUBLINE": "the bug only shows up when someone reads you in their own words.",
+  "TONIGHT": "search your logs for removechild",
+  "THIS_WEEK": "wrap loose text in spans",
+  "NEXT_WEEK": "test every flow translated",
+  "NEXT_TITLE": "5 niche ways to get press in europe without a pr agency"
+ }
+}

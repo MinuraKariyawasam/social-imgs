@@ -5,6 +5,13 @@
 - 6 a day from 2026-10-17: TikTok views fell about 84% per post after going from 2 to 10 a day (see 2026-10-17 analytics).
 - 8 scored posts as of 2026-10-16; no pillar, hook or hour has 2+ per region yet.
 
+## 2026-10-20 analytics
+Pulled 2026-10-19 ~17:10 UTC by eu-main (sync 17:02Z). TikTok 38 posts. Scored (48h+ old): same set as before; 10-18 posts are not yet 48h old but are the first at 2 a day since the reset: eu "become the founder european chatgpt users find first" 346 views, 6 saves, 1 follow (viral_rate 0.017); us "terrifyingly good at finding where users quit" 239 views, 5 saves (0.021). 10-17 posts (6 a day) all 1-5 views. Instagram skipped for this routine.
+- Winners/losers: volume confirmed as the lever (reach back to 240-350 at 2 a day vs 1-5 at 6-10 a day). Founder-identity / "become the founder" titles are leading on saves and the only follow. No pillar, hook, CTA or hour has 2+ scored posts per region, so no topic or time change. best_time_to_post (tiktok): 1 post per slot; tuesday best hour is 22z (us slot), nothing within 2h of eu 17:00z worth moving -> default hours kept (eu 19:00 Berlin, us 18:00 New York).
+- Plan: EU P3 (least used last 4 days, tie with P4), call-out hook; US P1 (p5 yesterday). Covers eu cover-4, us cover-1.
+
+eu-main: plan made by this run. scheduled 19:00 Berlin, P3 errors only translated pages cause (title shortened); sources: react issue 11538 (opened 13 nov 2017, closed 30 aug 2018, 37 comments), cra issue 8101, google search central translated results page (updated 2025-12-10).
+
 ## 2026-10-19 analytics
 Pulled 2026-10-18 ~17:10 UTC by eu-main. TikTok 36 posts, Instagram 35 posts in 45 days (sync last ran 14:50 UTC, so 10-17 evening and 10-18 posts are not in yet). Scored (48h+ old): TikTok 20, Instagram 20, same set as the last pull.
 - Winners (TikTok, 2 a day, 10-13/14): superintelligence 429, funded by europe 433, founder identity 407, gdpr 170, 6 metrics 169, eu ai act 147. Everything from 10-14 19:00 UTC on is still 1-7 views (Instagram reach 0-2, 0 comments). No pillar, hook, CTA, mood or hour has 2+ scored posts per region at 2 a day, so no topic or time change. best_time_to_post: 1-2 posts per slot, no signal; default hours kept (eu 19:00 Berlin, us 18:00 New York).
@@ -26,6 +33,7 @@ eu-main: plan made by this run, nothing to change -> kept plan (19:00 Berlin, P1
 us-main: no change in the numbers since the plan (TikTok 36 + Instagram 35 posts pulled; every post from 10-14 19:00 UTC on still 1-7 views, Instagram reach 1-2, 0 comments; best_time_to_post 1-2 posts per slot, no signal) -> kept plan (18:00 New York, P2 where users quit; engagement CTA, no guide). track: A warm and bright song of piano and violin - KOU MUSIC. sources: gov.uk data community ga4 funnel explorations page, microsoft clarity semantic metrics docs, baymard cart abandonment rate list (updated 22 sep 2025). 8b: 0 comments, 0 replies.
 
 ## pillars
+2026-10-20, eu-main, P3
 2026-10-19, us-main, P5
 2026-10-19, eu-main, P2
 2026-10-18, us-main, P2
