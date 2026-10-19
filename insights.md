@@ -10,7 +10,7 @@ Pulled 2026-10-19 ~17:10 UTC by eu-main (sync 17:02Z). TikTok 38 posts. Scored (
 - Winners/losers: volume confirmed as the lever (reach back to 240-350 at 2 a day vs 1-5 at 6-10 a day). Founder-identity / "become the founder" titles are leading on saves and the only follow. No pillar, hook, CTA or hour has 2+ scored posts per region, so no topic or time change. best_time_to_post (tiktok): 1 post per slot; tuesday best hour is 22z (us slot), nothing within 2h of eu 17:00z worth moving -> default hours kept (eu 19:00 Berlin, us 18:00 New York).
 - Plan: EU P3 (least used last 4 days, tie with P4), call-out hook; US P1 (p5 yesterday). Covers eu cover-4, us cover-1.
 
-eu-main: plan made by this run. scheduled 19:00 Berlin, P3 errors only translated pages cause (title shortened); sources: react issue 11538 (opened 13 nov 2017, closed 30 aug 2018, 37 comments), cra issue 8101, google search central translated results page (updated 2025-12-10).
+eu-main: plan made by this run. scheduled 19:00 Berlin, P3 errors only translated pages cause (title shortened); sources: react issue 11538 (opened 13 nov 2017, closed 30 aug 2018, 37 comments), cra issue 8101, google search central translated results page (updated 2025-12-10). track: Floating - Muspace Lofi. tiktok only, 8b: no comments.
 
 ## 2026-10-19 analytics
 Pulled 2026-10-18 ~17:10 UTC by eu-main. TikTok 36 posts, Instagram 35 posts in 45 days (sync last ran 14:50 UTC, so 10-17 evening and 10-18 posts are not in yet). Scored (48h+ old): TikTok 20, Instagram 20, same set as the last pull.
@@ -140,6 +140,8 @@ us-5: 6 a day stands (plan for 2026-10-17 has 6 rows, all scheduled) -> no carou
 - 2026-10-19 eu-main: Dinner Table - Muspace Lofi (7144133684730284034)
 
 - 2026-10-19 us-main: Hushed Aroma - edivieira (7488409474814920720)
+
+- 2026-10-20 eu-main: Floating - Muspace Lofi (7142916558829701122)
 
 ## idea backlog
 - eu P5: 5 niche ways to become the founder who wins an eic grant (only once funding is 14+ days old)
