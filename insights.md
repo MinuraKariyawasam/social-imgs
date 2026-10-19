@@ -12,6 +12,8 @@ Pulled 2026-10-19 ~17:10 UTC by eu-main (sync 17:02Z). TikTok 38 posts. Scored (
 
 eu-main: plan made by this run. scheduled 19:00 Berlin, P3 errors only translated pages cause (title shortened); sources: react issue 11538 (opened 13 nov 2017, closed 30 aug 2018, 37 comments), cra issue 8101, google search central translated results page (updated 2025-12-10). track: Floating - Muspace Lofi. tiktok only, 8b: no comments.
 
+us-main: pulled TikTok 38 posts + best_time (sync 17:02Z); nothing changed since the plan (10-18 at 2 a day: eu 346 views/6 saves/1 follow, us 239 views/5 saves; 10-16/17 at 6 a day still 1-5 views; saves and follows lean to founder-identity titles, no pillar/hook/hour has 2+ scored posts per region) -> kept plan (18:00 New York, P1 perplexity vs google, call-out hook, classic cover-1). sources: terminus (upd 2026-09-16), mo agency ga4 (2026-04-20), seer interactive via tryanalyze (jun 2025), visionary marketing 2026 (vendor figures, labeled). track: Breezeway - Atomica Music. tiktok only, 8b: 0 comments.
+
 ## 2026-10-19 analytics
 Pulled 2026-10-18 ~17:10 UTC by eu-main. TikTok 36 posts, Instagram 35 posts in 45 days (sync last ran 14:50 UTC, so 10-17 evening and 10-18 posts are not in yet). Scored (48h+ old): TikTok 20, Instagram 20, same set as the last pull.
 - Winners (TikTok, 2 a day, 10-13/14): superintelligence 429, funded by europe 433, founder identity 407, gdpr 170, 6 metrics 169, eu ai act 147. Everything from 10-14 19:00 UTC on is still 1-7 views (Instagram reach 0-2, 0 comments). No pillar, hook, CTA, mood or hour has 2+ scored posts per region at 2 a day, so no topic or time change. best_time_to_post: 1-2 posts per slot, no signal; default hours kept (eu 19:00 Berlin, us 18:00 New York).
@@ -33,6 +35,7 @@ eu-main: plan made by this run, nothing to change -> kept plan (19:00 Berlin, P1
 us-main: no change in the numbers since the plan (TikTok 36 + Instagram 35 posts pulled; every post from 10-14 19:00 UTC on still 1-7 views, Instagram reach 1-2, 0 comments; best_time_to_post 1-2 posts per slot, no signal) -> kept plan (18:00 New York, P2 where users quit; engagement CTA, no guide). track: A warm and bright song of piano and violin - KOU MUSIC. sources: gov.uk data community ga4 funnel explorations page, microsoft clarity semantic metrics docs, baymard cart abandonment rate list (updated 22 sep 2025). 8b: 0 comments, 0 replies.
 
 ## pillars
+2026-10-20, us-main, P1
 2026-10-20, eu-main, P3
 2026-10-19, us-main, P5
 2026-10-19, eu-main, P2
@@ -142,6 +145,8 @@ us-5: 6 a day stands (plan for 2026-10-17 has 6 rows, all scheduled) -> no carou
 - 2026-10-19 us-main: Hushed Aroma - edivieira (7488409474814920720)
 
 - 2026-10-20 eu-main: Floating - Muspace Lofi (7142916558829701122)
+
+- 2026-10-20 us-main: Breezeway - Atomica Music (7133389387718461442)
 
 ## idea backlog
 - eu P5: 5 niche ways to become the founder who wins an eic grant (only once funding is 14+ days old)
