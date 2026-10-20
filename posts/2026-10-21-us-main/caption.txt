@@ -1,0 +1,15 @@
+5 niche habits of founders who know their funnel by heart
+
+1. check whether your ga4 funnel is open or closed before you trust the percentages
+2. turn on show elapsed time and find the slowest step
+3. watch 10 recordings of dead clicks in clarity
+4. read bounce rate as sessions that were not engaged (under 10 seconds, no key event, one page)
+5. widen the date range when ga4 hides rows
+
+comment the NUMBER you'll copy first
+
+#startupfounder #saas #analytics #buildinpublic @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

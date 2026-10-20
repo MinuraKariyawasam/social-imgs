@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-21",
+ "region": "us",
+ "outdir": "posts/2026-10-21-us-main",
+ "cover": {
+  "title": "5 niche habits of founders who know their <span class=\"u\">funnel</span> by heart",
+  "image": "cover-3.svg",
+  "hook": "(copy them)"
+ },
+ "inner": [
+  {
+   "title": "close the funnel",
+   "body": "in a ga4 closed funnel, users must enter at the first step, and anyone who skips a step drops out of the later ones. an open funnel counts people who join midway, so check which one you built before you trust the percentages.",
+   "image": "painting-wood-american-gothic.jpg"
+  },
+  {
+   "title": "turn on elapsed time",
+   "body": "ga4's show elapsed time option displays the average time between funnel steps. a step that drags far longer than the rest is hesitation, and it never shows up as a drop.",
+   "image": "painting-eakins-the-thinker.jpg"
+  },
+  {
+   "title": "watch the dead clicks",
+   "body": "microsoft clarity marks a dead click when someone clicks and gets no feedback in a reasonable time: no visual change, no navigation. a button that does nothing is invisible in a funnel and loud in a recording.",
+   "image": "painting-repin-unexpected-visitors.jpg"
+  },
+  {
+   "title": "read bounce backwards",
+   "body": "ga4 calls a session engaged if it lasts over 10 seconds, has a key event or has 2+ page views, and bounce rate is simply the sessions that were not engaged. a visitor who read your whole page in 8 seconds and left counts as a failure.",
+   "image": "painting-latour-cheat-ace-of-diamonds.jpg"
+  },
+  {
+   "title": "widen the date range",
+   "body": "ga4 withholds rows when too few users sit behind them, and its own advice is to widen the date range. a one-day view of a small site can hide the exact step you are hunting.",
+   "image": "painting-leutze-washington-delaware.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "you can't fix a step<br>you can't see.",
+  "SUBLINE": "so the founders who win are the ones who check the funnel setting first.",
+  "TONIGHT": "check open vs closed funnel",
+  "THIS_WEEK": "turn on elapsed time",
+  "NEXT_WEEK": "watch 10 dead-click recordings",
+  "NEXT_TITLE": "5 niche ways to turn rage clicks into revenue"
+ }
+}
