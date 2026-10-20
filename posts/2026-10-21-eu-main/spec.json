@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-21",
+ "region": "eu",
+ "outdir": "posts/2026-10-21-eu-main",
+ "cover": {
+  "title": "5 niche ways to get <span class=\"u\">cited</span> by chatgpt before your european rivals",
+  "image": "cover-2.svg",
+  "hook": "(save them)"
+ },
+ "inner": [
+  {
+   "title": "audit 30 prompts",
+   "body": "ask chatgpt 30 to 50 questions your buyers ask, in two separate sessions, and write down every domain it cites (llm pulse playbook, a vendor guide). if your rivals appear and you don't, that is your real ranking.",
+   "image": "painting-vermeer-astronomer.jpg"
+  },
+  {
+   "title": "write prices as text",
+   "body": "ahrefs found 75.9% of chatgpt's site: lookups on the most-searched domains went to brand sites (study dated 12 oct 2026). a pricing page that's a pdf or an image gives the model nothing to quote.",
+   "image": "painting-david-lavoisier-writing.jpg"
+  },
+  {
+   "title": "earn coverage",
+   "body": "muck rack's may 2026 study of 25m+ links found 84% of citations came from earned media and 1.1% from press releases. a release is not a mention, a journalist writing about you is.",
+   "image": "painting-hals-merrymakers.jpg"
+  },
+  {
+   "title": "stop seeding reddit",
+   "body": "ahrefs' us data shows reddit going from about 1 in 5 chatgpt answers in march to about 1 in 43 by late september. the thread you spent a month on may now be worth nothing.",
+   "image": "painting-courbet-desperate-man.jpg"
+  },
+  {
+   "title": "publish something new monthly",
+   "body": "57% of journalism citations were under 12 months old, and they peak in the first month after publishing (muck rack). last year's coverage is fading while your rival's from last week is not.",
+   "image": "painting-daumier-third-class-carriage.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "most chatgpt answers<br>never run a search.",
+  "SUBLINE": "so the sources it already trusts decide who gets named.",
+  "TONIGHT": "ask chatgpt 30 buyer questions",
+  "THIS_WEEK": "move pricing into plain text",
+  "NEXT_WEEK": "pitch one trade publication",
+  "NEXT_TITLE": "5 niche ways to get press in europe without a pr agency"
+ }
+}

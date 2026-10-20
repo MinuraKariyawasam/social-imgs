@@ -5,6 +5,13 @@
 - 6 a day from 2026-10-17: TikTok views fell about 84% per post after going from 2 to 10 a day (see 2026-10-17 analytics).
 - 8 scored posts as of 2026-10-16; no pillar, hook or hour has 2+ per region yet.
 
+## 2026-10-21 analytics
+Pulled 2026-10-20 ~17:10 UTC by eu-main, TikTok only (40 posts, sync 15:53Z). Ranking last 7 days (views/saves/follows): eu "become the founder european chatgpt users find first" 920/15/4 (new best, still growing); eu "read users in 5 languages" 448/5/0; us "get recommended by superintelligence" 431/5/2 (10-13); us "terrifyingly good founder signs" 414/5/0 (10-14); us "superintelligence can't see on your website" 306/5/2; us "finding where users quit" 265/0/0. Every 6-a-day post from 10-14 19:00Z to 10-17 stays 1-7 views. 2 a day is holding: 10-18 to 10-19 avg ~485 views per post vs 288 baseline.
+- Winners: cluster 1 (ai assistants finding or citing you, europe angle) and founder-identity titles lead on saves and follows. best_time_to_post (tiktok): wednesday 18z 26 avg engagement (1 post), 17z 10.5 (2 posts), too thin; kept 19:00 Berlin (17:00Z) and 18:00 New York.
+- Plan: EU P1 cluster 1, "get cited by chatgpt before your european rivals", keep-it hook, cover-2. US P2 "habits of founders who know their funnel by heart", cover-3.
+
+eu-main: plan made by this run. sources: ahrefs study via relevantaudience (12 oct 2026), muck rack what is ai reading (may 2026), llm pulse playbook (vendor), thrivestack roundup (checked for conflicts). track: Echos in My Mind (Lofi) - Muspace Lofi. tiktok only.
+
 ## 2026-10-20 analytics
 Pulled 2026-10-19 ~17:10 UTC by eu-main (sync 17:02Z). TikTok 38 posts. Scored (48h+ old): same set as before; 10-18 posts are not yet 48h old but are the first at 2 a day since the reset: eu "become the founder european chatgpt users find first" 346 views, 6 saves, 1 follow (viral_rate 0.017); us "terrifyingly good at finding where users quit" 239 views, 5 saves (0.021). 10-17 posts (6 a day) all 1-5 views. Instagram skipped for this routine.
 - Winners/losers: volume confirmed as the lever (reach back to 240-350 at 2 a day vs 1-5 at 6-10 a day). Founder-identity / "become the founder" titles are leading on saves and the only follow. No pillar, hook, CTA or hour has 2+ scored posts per region, so no topic or time change. best_time_to_post (tiktok): 1 post per slot; tuesday best hour is 22z (us slot), nothing within 2h of eu 17:00z worth moving -> default hours kept (eu 19:00 Berlin, us 18:00 New York).
@@ -35,6 +42,7 @@ eu-main: plan made by this run, nothing to change -> kept plan (19:00 Berlin, P1
 us-main: no change in the numbers since the plan (TikTok 36 + Instagram 35 posts pulled; every post from 10-14 19:00 UTC on still 1-7 views, Instagram reach 1-2, 0 comments; best_time_to_post 1-2 posts per slot, no signal) -> kept plan (18:00 New York, P2 where users quit; engagement CTA, no guide). track: A warm and bright song of piano and violin - KOU MUSIC. sources: gov.uk data community ga4 funnel explorations page, microsoft clarity semantic metrics docs, baymard cart abandonment rate list (updated 22 sep 2025). 8b: 0 comments, 0 replies.
 
 ## pillars
+2026-10-21, eu-main, P1
 2026-10-20, us-main, P1
 2026-10-20, eu-main, P3
 2026-10-19, us-main, P5
@@ -147,6 +155,8 @@ us-5: 6 a day stands (plan for 2026-10-17 has 6 rows, all scheduled) -> no carou
 - 2026-10-20 eu-main: Floating - Muspace Lofi (7142916558829701122)
 
 - 2026-10-20 us-main: Breezeway - Atomica Music (7133389387718461442)
+
+- 2026-10-21 eu-main: Echos in My Mind (Lofi) - Muspace Lofi (7197097971182209025)
 
 ## idea backlog
 - eu P5: 5 niche ways to become the founder who wins an eic grant (only once funding is 14+ days old)
