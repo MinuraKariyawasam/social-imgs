@@ -161,3 +161,5 @@ us-5: 6 a day stands (plan for 2026-10-17 has 6 rows, all scheduled) -> no carou
 ## idea backlog
 - eu P5: 5 niche ways to become the founder who wins an eic grant (only once funding is 14+ days old)
 us-main 2026-10-21 (tiktok only): 40 tiktok posts 10-13..10-19 pulled. top saves: european chatgpt 15 (920 views, 4 follows), superintelligence cant see 5 (306), read users 5 languages 5 (448). best_time_to_post still 1 post per slot -> kept 18:00 NY, cluster 2/3 funnel habits, comment-number cta. sources: google analytics help funnel exploration, engagement rate and bounce rate, data thresholds; microsoft clarity semantic metrics. track: Sad old Pavan of England, Piano - Dai Hentai Fujishima (7042267274182395906)
+
+- 2026-10-21 us-main: Sad old Pavan of England, Piano - Dai Hentai Fujishima (7042267274182395906)
