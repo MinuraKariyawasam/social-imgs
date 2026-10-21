@@ -1,0 +1,15 @@
+5 niche signs you're becoming the founder ai recommends in europe
+
+1. count how many sites mention your brand, not just link to it
+2. open robots.txt and check claudebot, claude-user and claude-searchbot are not all blocked
+3. search your brand on brave and see if you show up
+4. look for a stray nosnippet or noindex tag on your key pages
+5. publish your best page in the language of your top european market
+
+which one are you skipping? comment the NUMBER you'll copy first
+
+#aiseo #europeanstartups #founderseurope #startupfounder @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

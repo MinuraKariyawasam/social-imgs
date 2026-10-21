@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-22",
+ "region": "eu",
+ "outdir": "posts/2026-10-22-eu-main",
+ "cover": {
+  "title": "5 niche signs you're becoming the founder ai <span class=\"u\">recommends</span> in europe",
+  "image": "cover-4.svg",
+  "hook": "(be honest)"
+ },
+ "inner": [
+  {
+   "title": "mentions beat backlinks",
+   "body": "ahrefs studied 75,000 brands: branded web mentions correlate at 0.664 with ai overview visibility, backlinks at 0.218. you keep counting links while rivals collect mentions.",
+   "image": "painting-steen-feast-of-st-nicholas.jpg"
+  },
+  {
+   "title": "claude can crawl you",
+   "body": "anthropic runs three bots: claudebot for training, claude-user for live questions, claude-searchbot for search. one blanket ai block can hide you from claude search, not only from training.",
+   "image": "painting-elgreco-cardinal.jpg"
+  },
+  {
+   "title": "brave knows your name",
+   "body": "techcrunch reported in march 2025 that claude's web search appears to run on brave, and mistral's le chat uses brave too. never searched your brand there? you can't know if two assistants see you.",
+   "image": "painting-terborch-curiosity.jpg"
+  },
+  {
+   "title": "no schema tricks",
+   "body": "google says ai overviews and ai mode have no additional requirements and need no special schema. the page just has to be indexed and snippet-eligible, so one stray nosnippet tag can cost you.",
+   "image": "painting-latour-fortune-teller.jpg"
+  },
+  {
+   "title": "your languages show up",
+   "body": "google brought ai mode to 40+ more countries and 38 new languages in october 2025, including germany, italy, spain and poland. an english-only page competes in just one of those markets.",
+   "image": "painting-labille-guiard-two-pupils.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "ai assistants recommend<br>who they can find.",
+  "SUBLINE": "mentions, crawlers and languages decide who gets named.",
+  "TONIGHT": "check robots.txt for claude bots",
+  "THIS_WEEK": "search your brand on brave",
+  "NEXT_WEEK": "translate your best page",
+  "NEXT_TITLE": "5 niche ways to get press in europe without a pr agency"
+ }
+}

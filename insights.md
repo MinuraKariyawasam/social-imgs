@@ -163,3 +163,12 @@ us-5: 6 a day stands (plan for 2026-10-17 has 6 rows, all scheduled) -> no carou
 us-main 2026-10-21 (tiktok only): 40 tiktok posts 10-13..10-19 pulled. top saves: european chatgpt 15 (920 views, 4 follows), superintelligence cant see 5 (306), read users 5 languages 5 (448). best_time_to_post still 1 post per slot -> kept 18:00 NY, cluster 2/3 funnel habits, comment-number cta. sources: google analytics help funnel exploration, engagement rate and bounce rate, data thresholds; microsoft clarity semantic metrics. track: Sad old Pavan of England, Piano - Dai Hentai Fujishima (7042267274182395906)
 
 - 2026-10-21 us-main: Sad old Pavan of England, Piano - Dai Hentai Fujishima (7042267274182395906)
+
+## 2026-10-22 analytics
+Pulled 2026-10-21 ~17:10 UTC by eu-main, TikTok only (42 posts, sync 17:01Z). Ranking last 7 days (views/saves/follows): eu "become the founder european chatgpt users find first" 932/15/4; eu "read users in 5 languages" 453/5/0; "funded by europe" 434/1/0; "recommended by superintelligence" 432/5/2; "signs you're becoming a terrifyingly good founder" 415/5/0; us "superintelligence can't see on your website" 387/5/3; us "where users quit" 267/6/0. Everything from 10-15 to 10-17 (6 a day) still 1-5 views. best_time_to_post (tiktok): still 1-2 posts per slot, no signal; kept 19:00 Berlin and 18:00 New York.
+- Winners: cluster 1 (ai assistants finding you, europe angle) and founder-identity "signs you're becoming" titles lead on saves and follows. Losers: regulation/naming/cookie topics.
+- Plan: EU P5 cluster 3+1 "signs you're becoming the founder ai recommends in europe" (claude bots, brave, google ai mode, mentions; new core topic vs chatgpt/perplexity), cover-4. US P2 rage clicks, cover-1.
+
+eu-main: plan made by this run. sources: support.claude.com anthropic crawlers article (7 apr 2026), google search central ai features (upd 2025-12-10), ahrefs ai overview brand correlation (25 may 2025, mod 27 apr 2026), techcrunch on claude and brave (21 mar 2025), trendingtopics.eu on google ai mode europe (8 oct 2025). track: Heather, Roses and Moonlight - Shoshana Michel. tiktok only.
+
+- 2026-10-22 eu-main: Heather, Roses and Moonlight - Shoshana Michel (6879641244734064641)
