@@ -42,6 +42,7 @@ eu-main: plan made by this run, nothing to change -> kept plan (19:00 Berlin, P1
 us-main: no change in the numbers since the plan (TikTok 36 + Instagram 35 posts pulled; every post from 10-14 19:00 UTC on still 1-7 views, Instagram reach 1-2, 0 comments; best_time_to_post 1-2 posts per slot, no signal) -> kept plan (18:00 New York, P2 where users quit; engagement CTA, no guide). track: A warm and bright song of piano and violin - KOU MUSIC. sources: gov.uk data community ga4 funnel explorations page, microsoft clarity semantic metrics docs, baymard cart abandonment rate list (updated 22 sep 2025). 8b: 0 comments, 0 replies.
 
 ## pillars
+2026-10-22, eu-main, P5
 2026-10-21, eu-main, P1
 2026-10-20, us-main, P1
 2026-10-20, eu-main, P3
