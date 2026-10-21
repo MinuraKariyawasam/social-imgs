@@ -158,6 +158,7 @@ us-5: 6 a day stands (plan for 2026-10-17 has 6 rows, all scheduled) -> no carou
 - 2026-10-20 us-main: Breezeway - Atomica Music (7133389387718461442)
 
 - 2026-10-21 eu-main: Echos in My Mind (Lofi) - Muspace Lofi (7197097971182209025)
+- 2026-10-22 us-main: Jazz Blue - Wallvas (7482874811062847504)
 
 ## idea backlog
 - eu P5: 5 niche ways to become the founder who wins an eic grant (only once funding is 14+ days old)
@@ -173,3 +174,4 @@ Pulled 2026-10-21 ~17:10 UTC by eu-main, TikTok only (42 posts, sync 17:01Z). Ra
 eu-main: plan made by this run. sources: support.claude.com anthropic crawlers article (7 apr 2026), google search central ai features (upd 2025-12-10), ahrefs ai overview brand correlation (25 may 2025, mod 27 apr 2026), techcrunch on claude and brave (21 mar 2025), trendingtopics.eu on google ai mode europe (8 oct 2025). track: Heather, Roses and Moonlight - Shoshana Michel. tiktok only.
 
 - 2026-10-22 eu-main: Heather, Roses and Moonlight - Shoshana Michel (6879641244734064641)
+us-main 2026-10-22 (tiktok only): reread 7-day ranking via zernio (top saves: european chatgpt 15, where users quit 6, read users 5 languages 5, terrifyingly good founder 5, si cant see 5; avg views last 3 days of posts about 390). best_time_to_post still 1 post per slot -> kept 18:00 NY. kept rage clicks (cluster 2), dropped dead-click angle already used 10-21. sources: amplitude rage clicks explainer, inspectlet rage clicks guide. track: Jazz Blue - Wallvas (7482874811062847504)
