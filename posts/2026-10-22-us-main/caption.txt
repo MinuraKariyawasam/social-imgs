@@ -1,0 +1,15 @@
+5 niche ways to turn rage clicks into revenue
+
+1. filter for 3+ clicks on one element within 2 seconds
+2. list every image and card that looks clickable but links nowhere
+3. add a spinner or disabled state to your pay button, so it answers in 100ms
+4. match each rage-click hotspot to the javascript error behind it
+5. rank hotspots by share of sessions and fix the top three first
+
+which one are you skipping? comment the NUMBER you'll copy first
+
+#startupfounder #saas #analytics #buildinpublic @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

@@ -1,0 +1,25 @@
+{
+ "date": "2026-10-22",
+ "region": "us",
+ "outdir": "posts/2026-10-22-us-main",
+ "cover": {
+  "title": "5 niche ways to turn <span class=\"u\">rage clicks</span> into revenue",
+  "image": "cover-1.svg",
+  "hook": "(fix them tonight)"
+ },
+ "inner": [
+  {"title": "set the 3-click rule", "body": "amplitude says tools usually flag a rage click as 3+ clicks on one target within about 2 seconds. if you never filter for it, your angriest visitors look like every other session.", "image": "painting-villers-du-val-dognes.jpg"},
+  {"title": "hunt the ghost buttons", "body": "inspectlet lists elements that look clickable but aren't as a top cause: unlinked images, cards with one tiny inner link. your buyer is trying to pay you and the design says nothing.", "image": "painting-greuze-broken-eggs.jpg"},
+  {"title": "answer in 100 milliseconds", "body": "inspectlet recommends feedback within about 100ms: a spinner, a disabled button, a progress bar. it also lists debouncing duplicate submissions, because a shopper who gets silence clicks pay twice.", "image": "painting-kramskoi-unknown-woman.jpg"},
+  {"title": "match clicks to errors", "body": "inspectlet traces rage clicks to broken javascript: unhandled promise rejections, third-party script conflicts, silent cors failures. the click isn't the bug, and your users find the error before you do.", "image": "painting-munch-the-scream.jpg"},
+  {"title": "fix the top three", "body": "inspectlet calls rage clicks on 5%+ of sessions for one element critical, and under 1% worth watching. it claims fixing the top 3 hotspots lifts conversion 5 to 15%, from its own experience, not a study.", "image": "painting-hals-merry-drinker.jpg"}
+ ],
+ "closer": {
+  "HEADLINE": "the click you ignore<br>is the sale you lost.",
+  "SUBLINE": "comment the NUMBER you'll copy first",
+  "TONIGHT": "filter 3 clicks in 2 seconds",
+  "THIS_WEEK": "add a spinner to your pay button",
+  "NEXT_WEEK": "fix your top 3 rage hotspots",
+  "NEXT_TITLE": "5 niche ways to make your site readable by claude and chatgpt"
+ }
+}
