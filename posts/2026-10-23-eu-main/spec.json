@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-23",
+ "region": "eu",
+ "outdir": "posts/2026-10-23-eu-main",
+ "cover": {
+  "title": "5 niche ways to get chatgpt to <span class=\"u\">quote</span> your price in euros",
+  "image": "cover-2.svg",
+  "hook": "(screenshot this)"
+ },
+ "inner": [
+  {
+   "title": "show the euro price",
+   "body": "google's merchant rules say to show the price in the currency of the target country, prominently, on landing and checkout pages. a dollar-only pricing page makes every european buyer do the conversion for you.",
+   "image": "painting-bronzino-young-man.jpg"
+  },
+  {
+   "title": "vat in the number",
+   "body": "google merchant centre asks for prices including vat in countries like germany, france, italy and spain, and the landing page price must match the data. a net price on the page makes your own two prices disagree.",
+   "image": "painting-caravaggio-boy-bitten-lizard.jpg"
+  },
+  {
+   "title": "mark up the price",
+   "body": "google's merchant listing docs mark up the live price with a price field and a currency code beside it. a price that only exists inside an image has no number for anyone to read.",
+   "image": "painting-eakins-writing-master.jpg"
+  },
+  {
+   "title": "let the search bot in",
+   "body": "openai says sites opted out of oai-searchbot will not be shown in chatgpt search answers, and a robots.txt change takes about 24 hours to apply. blocking gptbot is a separate switch, so check which one you flipped.",
+   "image": "painting-caravaggio-denial-of-peter.jpg"
+  },
+  {
+   "title": "check your firewall",
+   "body": "openai publishes ip ranges for its search bot and recommends allowing them. a firewall rule can block the crawler even when robots.txt says yes, and you never see the answer that left you out.",
+   "image": "painting-rembrandt-syndics.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "chatgpt quotes<br>the price it can read.",
+  "SUBLINE": "currency, vat, markup and access decide who gets named.",
+  "TONIGHT": "put your price in euros with vat",
+  "THIS_WEEK": "allow oai-searchbot in robots.txt",
+  "NEXT_WEEK": "add price and currency markup",
+  "NEXT_TITLE": "5 niche ways to get press in europe without a pr agency"
+ }
+}

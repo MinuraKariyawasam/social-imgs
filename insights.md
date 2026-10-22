@@ -175,3 +175,9 @@ eu-main: plan made by this run. sources: support.claude.com anthropic crawlers a
 
 - 2026-10-22 eu-main: Heather, Roses and Moonlight - Shoshana Michel (6879641244734064641)
 us-main 2026-10-22 (tiktok only): reread 7-day ranking via zernio (top saves: european chatgpt 15, where users quit 6, read users 5 languages 5, terrifyingly good founder 5, si cant see 5; avg views last 3 days of posts about 390). best_time_to_post still 1 post per slot -> kept 18:00 NY. kept rage clicks (cluster 2), dropped dead-click angle already used 10-21. sources: amplitude rage clicks explainer, inspectlet rage clicks guide. track: Jazz Blue - Wallvas (7482874811062847504)
+
+## 2026-10-23 analytics
+Pulled 2026-10-22 ~17:10 UTC by eu-main, TikTok only (44 posts). Ranking last 7 days (views/saves/follows): eu "european chatgpt users find first" 937/15/4; eu "read users in 5 languages" 454/5/0; us "superintelligence can't see on your website" 389/5/3; us "where users quit" 268/6/0; then eu translated-pages errors 170/0/0; us perplexity 142/1/0; us funnel 119/0/0; eu cited-by-chatgpt 118/0/0. 10-15 to 10-17 (6 a day) still 1-5 views. Newer 2-a-day posts are trending lower (118-170), so keep to cluster 1/3 with a new core topic. best_time_to_post (tiktok): friday 17z has 1 post at avg 1; no signal -> kept 19:00 Berlin and 18:00 New York.
+- Plan: EU P1 cluster 1 "get chatgpt to quote your price in euros" (new topic: pricing page legibility), cover-2, screenshot hook. US P4 cluster 3 "signs you're staring at dashboards instead of fixing things", cover-3.
+
+eu-main: plan made by this run. sources: openai bots docs developers.openai.com/api/docs/bots (undated), google merchant centre price attribute (undated), google search central merchant listing structured data (undated). tiktok only.

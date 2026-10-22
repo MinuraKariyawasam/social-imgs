@@ -1,0 +1,15 @@
+5 niche ways to get chatgpt to quote your price in euros
+
+1. show your price in euros on the pricing and checkout pages
+2. put vat in the number your european buyers see
+3. add price and currency markup so the number is readable text
+4. allow oai-searchbot in robots.txt, then wait 24 hours
+5. allow openai's published ip ranges in your firewall
+
+which one are you skipping? comment the NUMBER you'll copy first
+
+#aiseo #europeanstartups #founderseurope #startupfounder @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.
