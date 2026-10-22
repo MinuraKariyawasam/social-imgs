@@ -41,7 +41,10 @@ eu-main: plan made by this run, nothing to change -> kept plan (19:00 Berlin, P1
 
 us-main: no change in the numbers since the plan (TikTok 36 + Instagram 35 posts pulled; every post from 10-14 19:00 UTC on still 1-7 views, Instagram reach 1-2, 0 comments; best_time_to_post 1-2 posts per slot, no signal) -> kept plan (18:00 New York, P2 where users quit; engagement CTA, no guide). track: A warm and bright song of piano and violin - KOU MUSIC. sources: gov.uk data community ga4 funnel explorations page, microsoft clarity semantic metrics docs, baymard cart abandonment rate list (updated 22 sep 2025). 8b: 0 comments, 0 replies.
 
+us-main 2026-10-23: pulled TikTok 45 posts + best_time (friday slots have no signal, 18:00 New York kept). last 7d by views/saves/follows: eu "european chatgpt users find first" 937/0/4; eu 5 languages 454/0/0; us "superintelligence can't see" 389/0/3; us "finding where users quit" 268/6/0 (top saves); 10-21 posts 119-120; 10-22 eu 0 (too fresh). top saves: where users quit 6, terrifyingly good founder signs 5, recommended by superintelligence 5. -> swapped plan title to cluster 2 "5 niche signs your analytics is hiding why visitors leave" (P2), cover-3, keep-it hook. sources: plausible/saric adblock study (2021, updated 2026-05-12), google analytics help consent-mode modeling + cross-domain, google spa guide, cloudflare radar via letsdatascience (2026-06-04). tiktok only.
+
 ## pillars
+2026-10-23, us-main, P2
 2026-10-23, eu-main, P1
 2026-10-22, eu-main, P5
 2026-10-21, eu-main, P1

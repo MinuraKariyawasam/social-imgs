@@ -1,0 +1,15 @@
+5 niche signs your analytics is hiding why visitors leave
+
+1. compare visitors to server logs, then see how many a blocker hid
+2. check what share of your visitors decline the cookie banner
+3. open debug view and click through one single-page route
+4. turn on cross-domain measurement for your checkout domain
+5. filter known bots and see how your funnel changes
+
+which gap are you missing? comment the NUMBER you'll fix first
+
+#startupfounder #saas #analytics #buildinpublic @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

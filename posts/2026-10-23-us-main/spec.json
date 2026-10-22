@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-23",
+ "region": "us",
+ "outdir": "posts/2026-10-23-us-main",
+ "cover": {
+  "title": "5 niche signs your analytics is hiding <span class=\"u\">why</span> visitors leave",
+  "image": "cover-3.svg",
+  "hook": "(you're probably missing three)"
+ },
+ "inner": [
+  {
+   "title": "blocked scripts",
+   "body": "in a 2021 test on one tech-heavy site, google analytics missed 58.67% of visitors, and 88.28% of firefox users. the people quickest to leave are the ones your dashboard never counted.",
+   "image": "painting-ducreux-mocker.jpg"
+  },
+  {
+   "title": "declined cookies",
+   "body": "google says users who decline consent get no persistent id, so it can't tell 10 page views from 10 users or 1. its modeling only starts at 1,000 denied events a day for 7 days.",
+   "image": "painting-chardin-soap-bubbles.jpg"
+  },
+  {
+   "title": "one-page app blindness",
+   "body": "google says a single-page app without virtual page views is treated as one page, with all engagement time credited to the first load. you can't see time on any screen after that.",
+   "image": "painting-ducreux-yawning.jpg"
+  },
+  {
+   "title": "split sessions",
+   "body": "without cross-domain measurement, google counts two users and two sessions when one person hops domains. every jump to a checkout domain looks like a stranger arriving.",
+   "image": "painting-rembrandt-aristotle.jpg"
+  },
+  {
+   "title": "machine visitors",
+   "body": "cloudflare radar put bots at about 57.5% of html requests in june 2026, humans at 42.5%. that is request share, not visitors, but unfiltered machines still shape your funnel.",
+   "image": "painting-hals-laughing-cavalier.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "you can't fix the exit<br>you never saw.",
+  "SUBLINE": "which gap are you missing? tell us below.",
+  "TONIGHT": "compare visitors to server logs",
+  "THIS_WEEK": "turn on cross-domain for checkout",
+  "NEXT_WEEK": "send a page view per screen",
+  "NEXT_TITLE": "5 niche habits of founders who never ship a broken deploy"
+ }
+}
