@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-24",
+ "region": "eu",
+ "outdir": "posts/2026-10-24-eu-main",
+ "cover": {
+  "title": "5 niche ways to <span class=\"u\">beat</span> the us brand chatgpt picks in europe",
+  "image": "cover-4.svg",
+  "hook": "(save them)"
+ },
+ "inner": [
+  {
+   "title": "search it in english",
+   "body": "peec analysed 10 million prompts and found 43% of chatgpt's research steps for non-english prompts ran in english. you can rank first in your language and still lose the search that decided the answer.",
+   "image": "painting-david-lavoisier-writing.jpg"
+  },
+  {
+   "title": "audit old english files",
+   "body": "search engine land warns that outdated english files, like old rate pdfs, can get quoted in ai answers. the buyer reads the page you stopped updating years ago.",
+   "image": "painting-daumier-third-class-carriage.jpg"
+  },
+  {
+   "title": "earn english mentions",
+   "body": "peec says english carries more authority signals and advises building presence on the english sources chatgpt trusts in your category. allegro, poland's leading marketplace, was missing from polish auction answers while ebay appeared.",
+   "image": "painting-fedotov-fresh-cavalier.jpg"
+  },
+  {
+   "title": "link every version",
+   "body": "google says each language version must list itself and all the others. if two pages don't point at each other, the tags are ignored.",
+   "image": "painting-courbet-desperate-man.jpg"
+  },
+  {
+   "title": "split your bot logs",
+   "body": "search engine land found chatgpt-user, the live retrieval bot, fetches english pages about 3 times as often as googlebot does on the same sites. one lumped openai line in your logs hides it.",
+   "image": "painting-vermeer-astronomer.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "chatgpt researches<br>in english first.",
+  "SUBLINE": "43% of research steps for non-english prompts ran in english.",
+  "TONIGHT": "search your category in english",
+  "THIS_WEEK": "update your top english page",
+  "NEXT_WEEK": "log oai-searchbot and chatgpt-user",
+  "NEXT_TITLE": "5 niche ways to get press in europe without a pr agency"
+ }
+}
