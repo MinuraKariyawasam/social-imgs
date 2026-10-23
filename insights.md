@@ -187,3 +187,9 @@ Pulled 2026-10-22 ~17:10 UTC by eu-main, TikTok only (44 posts). Ranking last 7 
 eu-main: plan made by this run. sources: openai bots docs developers.openai.com/api/docs/bots (undated), google merchant centre price attribute (undated), google search central merchant listing structured data (undated). tiktok only.
 
 - 2026-10-23 eu-main: Polar Winds (Lofi) - Muspace Lofi (7221171716369647617); 8b: no comments (nothing published yet on this post).
+
+## 2026-10-24 analytics
+Pulled 2026-10-23 ~17:10 UTC by eu-main, TikTok only (46 posts, sync 15:14Z). Ranking last 7 days (views/saves/follows): eu "european chatgpt users find first" 939/15/4; eu "read users in 5 languages" 455/5/0; us "superintelligence can't see" 389/5/3; us rage clicks 274/1/0; us "where users quit" 271/6/0; then 171 (eu translated errors), 142, 120, 119, 96 (eu "signs ai recommends in europe", 0 saves). 10-15 to 10-17 (6 a day) still 1-5 views. Recent 2-a-day posts trending 96-274: chatgpt-finding titles with a concrete new fact still lead; only saves come from cluster 1 and where-users-quit. best_time_to_post (tiktok): sat 17z and sat 22z lead but 1 post each, no real signal; kept 19:00 Berlin and 18:00 New York (both land on those hours anyway).
+- Plan: EU P1 cluster 1 "beat the us brand chatgpt recommends in your country" (chatgpt researches in english, hreflang, bot logs), cover-4, save hook. US P1 cluster 1/3 "become the founder chatgpt sends customers to", cover-1.
+
+eu-main: plan made by this run. sources: docs.peec.ai research chatgpt-searches-in-english (feb 2026), searchengineland multilingual websites english pages ai visibility, developers.google.com localized-versions (updated 2026-09-21). tiktok only.
