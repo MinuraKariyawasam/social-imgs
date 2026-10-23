@@ -195,3 +195,5 @@ Pulled 2026-10-23 ~17:10 UTC by eu-main, TikTok only (46 posts, sync 15:14Z). Ra
 
 eu-main: plan made by this run. sources: docs.peec.ai research chatgpt-searches-in-english (feb 2026), searchengineland multilingual websites english pages ai visibility, developers.google.com localized-versions (updated 2026-09-21). tiktok only.
 - 2026-10-24 eu-main: no track (zernio commercial music list returned empty for DE, US and no country); tiktok 6adb957be03640cd1ad9e232 scheduled 17:00Z; 8b: nothing published yet.
+us-main 2026-10-24 (tiktok only): reread 7-day ranking (saves: european chatgpt 15, where users quit 6, read users 5 languages 5, si cant see 5, rage clicks 2). best_time_to_post sat 22z (=18:00 NY) top slot, 1 post, kept. plan row title changed from queue to new cluster 1+2 topic (chatgpt visitor conversion) to stay off tagging/citation/price/english topics. sources: ahrefs chat-gpt-traffic (mod 2026-08-12), searchengineland 973-site study, relevantaudience. no track (music list empty); tiktok 6adb9fb6918d9ffa22653f69 at 22:00Z.
+- 2026-10-24 us-main: no track (zernio commercial music list empty); 8b: nothing published yet.
