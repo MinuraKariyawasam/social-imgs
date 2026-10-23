@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-24",
+ "region": "us",
+ "outdir": "posts/2026-10-24-us-main",
+ "cover": {
+  "title": "5 niche ways to turn chatgpt <span class=\"u\">visitors</span> into paying customers",
+  "image": "cover-1.svg",
+  "hook": "(save them)"
+ },
+ "inner": [
+  {
+   "title": "group the ai sources",
+   "body": "ga4 has no default chatgpt channel, so create a group for chatgpt.com, perplexity.ai, claude.ai and gemini.google.com. until you do, these visits hide inside generic referral.",
+   "image": "painting-repin-unexpected-visitors.jpg"
+  },
+  {
+   "title": "read the landing pages",
+   "body": "open the top landing pages from ai referrals. ahrefs found only about 10% of its most-cited pages overlap with its top chatgpt traffic pages, so the page that gets cited may not be the one that gets visited.",
+   "image": "painting-eakins-the-thinker.jpg"
+  },
+  {
+   "title": "make checking easy",
+   "body": "put reviews, case studies and a comparison table near the buy button. buyers often verify a chatgpt pick on google first, and last-click credits the sale to google.",
+   "image": "painting-latour-cheat-ace-of-diamonds.jpg"
+  },
+  {
+   "title": "lead with price and proof",
+   "body": "a/b test a landing page that opens with your price and your best proof. chatgpt tends to cite blog posts over product pages, so visitors arrive without either.",
+   "image": "painting-hals-merrymakers.jpg"
+  },
+  {
+   "title": "track your own rate",
+   "body": "a 973-site study found chatgpt converting 13% below organic search. a later 94-site sample found 1.81% against 1.39%, so borrow neither number and measure your own.",
+   "image": "painting-leutze-washington-delaware.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "chatgpt sends the visit.<br>you close the sale.",
+  "SUBLINE": "comment the number you'll copy first.",
+  "TONIGHT": "create the ai channel group in ga4",
+  "THIS_WEEK": "list your top ai landing pages",
+  "NEXT_WEEK": "test a price-first landing page",
+  "NEXT_TITLE": "5 niche habits of founders who make one fix a day"
+ }
+}
