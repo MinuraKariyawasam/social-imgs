@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-25",
+ "region": "eu",
+ "outdir": "posts/2026-10-25-eu-main",
+ "cover": {
+  "title": "5 niche ways to become the <span class=\"u\">source</span> chatgpt quotes in europe",
+  "image": "cover-2.svg",
+  "hook": "(copy them)"
+ },
+ "inner": [
+  {
+   "title": "publish the official page",
+   "body": "ahrefs found the word official in 13.1% of chatgpt's english search queries, up from 10.1%. if your own site has no page that says what you are, it quotes whoever does.",
+   "image": "painting-wood-american-gothic.jpg"
+  },
+  {
+   "title": "state the plain facts",
+   "body": "on factual prompts, 84.4% of chatgpt answers cited an official source. put pricing, countries served and where your data lives in plain text, not in a pdf.",
+   "image": "painting-villers-du-val-dognes.jpg"
+  },
+  {
+   "title": "open your support pages",
+   "body": "ahrefs says brand support pages gained citations as chatgpt moved to original sources. the answer it needs is probably sitting behind your login.",
+   "image": "painting-labille-guiard-two-pupils.jpg"
+  },
+  {
+   "title": "write the price down",
+   "body": "price rose from 6.04% to 8.88% of chatgpt's english fan-out queries. a pricing page that says contact us gives it nothing to quote.",
+   "image": "painting-kramskoi-unknown-woman.jpg"
+  },
+  {
+   "title": "stop renting your reputation",
+   "body": "reddit fell from about 19.1% of chatgpt answers to about 2.3%, wikipedia from 14.1% to 2.9% (us, march to september 2026). the page that spoke for you last spring is barely quoted now.",
+   "image": "painting-munch-the-scream.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "chatgpt quotes<br>the original.",
+  "SUBLINE": "only 26% of germany's top 50 sites made chatgpt's german top 50.",
+  "TONIGHT": "ask chatgpt about your company",
+  "THIS_WEEK": "publish one official facts page",
+  "NEXT_WEEK": "open your top 3 support answers",
+  "NEXT_TITLE": "5 niche ways to get press in europe without a pr agency"
+ }
+}
