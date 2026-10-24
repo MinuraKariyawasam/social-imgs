@@ -207,3 +207,7 @@ Pulled 2026-10-24 ~17:10 UTC by eu-main, TikTok only (48 posts). Ranking last 7 
 
 eu-main 2026-10-25: plan made by this run; time moved to 18:00 Berlin (17:00Z). sources: ahrefs chatgpt fan-out/citation study via relevantaudience (12-13 oct 2026, us data), otterly german websites and chatgpt (2025, vendor), thrivestack roundup (checked, not used). tiktok only.
 - 2026-10-25 eu-main: no track (zernio commercial music list empty for DE and US); tiktok 6adce6cbed37a78a1316abc4 scheduled 17:00Z (18:00 Berlin); 8b: nothing published yet on this post.
+
+us-main 2026-10-25 (tiktok only): reread 7-day ranking via zernio (saves: european chatgpt 15, price in euros 6, where users quit 6, si cant see 5, read users 5 languages 4). avg views of posts 10-22/10-23 about 314 vs 288 baseline. best_time_to_post still 1 post per slot -> kept 18:00 NY (22Z). swapped dashboards title for cluster 2 "find the users who almost paid you" (eu-main and 10-24 us already cluster 1; analytics-hiding-why-visitors-leave got 115 views). sources: support.google.com/analytics/answer/9327974 (funnel exploration), support.google.com/analytics/answer/9267735 (recommended events), baymard.com/blog/reduce-cart-abandonment (19 may 2026).
+- 2026-10-25 us-main: no track (zernio commercial music list empty); tiktok 6adcf24a1f2751d2be60a449 scheduled 22:00Z; 8b: nothing published yet.
+- pillars: 2026-10-25, us-main, P2
