@@ -1,0 +1,15 @@
+5 niche ways to find the users who almost paid you
+
+1. build a closed funnel in ga4: view_item, begin_checkout, add_payment_info, purchase
+2. add the next-action card and list who did nothing after begin_checkout
+3. break the funnel down by device category and look at mobile first
+4. turn on elapsed time and flag the step with the longest wait
+5. show delivery, tax and fees before the last step, and stop forcing accounts
+
+which one are you skipping? comment the NUMBER you'll copy first
+
+#startupfounder #saas #analytics #ga4 @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

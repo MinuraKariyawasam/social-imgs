@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-25",
+ "region": "us",
+ "outdir": "posts/2026-10-25-us-main",
+ "cover": {
+  "title": "5 niche ways to find the users who <span class=\"u\">almost</span> paid you",
+  "image": "cover-3.svg",
+  "hook": "(save them)"
+ },
+ "inner": [
+  {
+   "title": "build a closed funnel",
+   "body": "in ga4 explore, make a closed funnel: view_item, begin_checkout, add_payment_info, purchase. ga4 allows up to 10 steps, so watching only purchase means you only ever see the winners.",
+   "image": "painting-terborch-curiosity.jpg"
+  },
+  {
+   "title": "read the silence",
+   "body": "turn on the next-action card for the step after begin_checkout. google says a \"(no next action)\" entry means many users completed a step and did nothing, and that silence is your almost-paid list.",
+   "image": "painting-latour-fortune-teller.jpg"
+  },
+  {
+   "title": "split by device",
+   "body": "break the funnel down by device category and add up to 4 segments. one broken step on mobile hides inside a healthy total, and you never see the phone where buyers quit.",
+   "image": "painting-steen-feast-of-st-nicholas.jpg"
+  },
+  {
+   "title": "time the hesitation",
+   "body": "switch on show elapsed time to get the average gap between steps. a long wait before payment is doubt, and a conversion rate alone will never show it.",
+   "image": "painting-elgreco-cardinal.jpg"
+  },
+  {
+   "title": "audit the last-step price",
+   "body": "baymard says 39% of shoppers abandon a checkout over extra fees like delivery and taxes, and 19% when forced to create an account. if your price changes at the last step, you made them leave.",
+   "image": "painting-greuze-broken-eggs.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "they wanted to pay.<br>you never looked.",
+  "SUBLINE": "comment the number you'll copy first.",
+  "TONIGHT": "build the closed funnel in ga4",
+  "THIS_WEEK": "split it by device category",
+  "NEXT_WEEK": "show the full price before checkout",
+  "NEXT_TITLE": "5 niche ways to read your analytics in 5 minutes, not 50"
+ }
+}
