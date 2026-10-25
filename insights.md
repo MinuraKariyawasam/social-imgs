@@ -211,3 +211,10 @@ eu-main 2026-10-25: plan made by this run; time moved to 18:00 Berlin (17:00Z). 
 us-main 2026-10-25 (tiktok only): reread 7-day ranking via zernio (saves: european chatgpt 15, price in euros 6, where users quit 6, si cant see 5, read users 5 languages 4). avg views of posts 10-22/10-23 about 314 vs 288 baseline. best_time_to_post still 1 post per slot -> kept 18:00 NY (22Z). swapped dashboards title for cluster 2 "find the users who almost paid you" (eu-main and 10-24 us already cluster 1; analytics-hiding-why-visitors-leave got 115 views). sources: support.google.com/analytics/answer/9327974 (funnel exploration), support.google.com/analytics/answer/9267735 (recommended events), baymard.com/blog/reduce-cart-abandonment (19 may 2026).
 - 2026-10-25 us-main: no track (zernio commercial music list empty); tiktok 6adcf24a1f2751d2be60a449 scheduled 22:00Z; 8b: nothing published yet.
 - pillars: 2026-10-25, us-main, P2
+
+## 2026-10-26 analytics
+Pulled 2026-10-25 ~17:10 UTC by eu-main, TikTok only (50 posts, sync 16:04Z). Ranking last 7 days (views/saves/follows; saves and follows mostly 0 in this pull): eu "european chatgpt users find first" 942; eu "beat the us brand chatgpt picks" 565 (10-24); eu "quote your price in euros" 564; us rage clicks 474; eu "read users in 5 languages" 456/4 saves; us "superintelligence can't see" 389; us "where users quit" 271; then 171, 142, 140, 123, 121, 120, 111. Cluster 1 (chatgpt, europe) holds 3 of top 3 on views; us cluster 2 rage clicks is the best us post since the reset. Funnel/analytics-hiding titles are weak (121-123).
+- best_time_to_post (tiktok): monday 22z 10.5 (2 posts, = 18:00 NY), monday 17z 4.5; no signal for 18z. Kept 19:00 Berlin (18:00Z) and 18:00 NY (22:00Z).
+- Plan: EU P1 cluster 1+3 "habits of founders who check what chatgpt says about them" (brand accuracy, new core topic), cover-4, copy-them hook. US P2 cluster 2 "find what users wanted and couldn't find" (site search, 404s), cover-1, save hook.
+
+eu-main 2026-10-26: plan made by this run. sources: searchable uk retailers study via resultsense (16 jul 2026), seer interactive ai brand accuracy study (may-jun 2026), tiktok only.
