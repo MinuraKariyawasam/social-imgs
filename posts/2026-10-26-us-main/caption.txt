@@ -1,0 +1,15 @@
+5 niche ways to find what users wanted and couldn't find
+
+1. open the ga4 search_term report (view_search_results) and read the top 20 searches
+2. sort searches by exits and write down every one that dead-ends
+3. filter pages by your 404 title and add page path to list the missing urls
+4. use page referrer or path exploration to find the page with the broken link
+5. add related categories and alternative searches to your no-results page
+
+which one are you skipping? comment the NUMBER you'll copy first
+
+#startupfounder #saas #analytics #ga4 @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

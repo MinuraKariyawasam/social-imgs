@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-26",
+ "region": "us",
+ "outdir": "posts/2026-10-26-us-main",
+ "cover": {
+  "title": "5 niche ways to find what users <span class=\"u\">wanted</span> and couldn't find",
+  "image": "cover-1.svg",
+  "hook": "(save them)"
+ },
+ "inner": [
+  {
+   "title": "read the search box",
+   "body": "ga4 logs every site search as view_search_results with a search_term, and it is on by default with enhanced measurement. nobody opens the report, so your users keep telling you what is missing and you never read it.",
+   "image": "painting-ducreux-yawning.jpg"
+  },
+  {
+   "title": "sort searches by exits",
+   "body": "in a free form exploration, add page path and query string with event count and exits, then sort by exits. orbit media says the high-exit searches are dead ends. each one is a visitor who asked and got nothing.",
+   "image": "painting-hals-laughing-cavalier.jpg"
+  },
+  {
+   "title": "hunt your 404s",
+   "body": "filter pages and screens by your 404 page title, then add page path as a second dimension. every row is a url someone wanted and hit a wall.",
+   "image": "painting-bronzino-young-man.jpg"
+  },
+  {
+   "title": "find the broken link",
+   "body": "use page referrer in an exploration, or path exploration ending on your 404 title, to see which page sent them there. ga4 only shows links people actually clicked, so the broken link is on a page your users do read.",
+   "image": "painting-rembrandt-syndics.jpg"
+  },
+  {
+   "title": "fix the empty results page",
+   "body": "baymard found nearly 50% of ecommerce sites give no real way out of a no-results search. add related categories and alternative searches, so the dead end becomes a next step.",
+   "image": "painting-hals-merry-drinker.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "they told you what<br>they wanted.",
+  "SUBLINE": "comment the number you'll copy first.",
+  "TONIGHT": "open the search_term report",
+  "THIS_WEEK": "redirect your top 404 urls",
+  "NEXT_WEEK": "rebuild the no-results page",
+  "NEXT_TITLE": "5 niche ways to read your analytics in 5 minutes, not 50"
+ }
+}
