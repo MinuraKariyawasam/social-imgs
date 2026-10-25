@@ -44,6 +44,7 @@ us-main: no change in the numbers since the plan (TikTok 36 + Instagram 35 posts
 us-main 2026-10-23: pulled TikTok 45 posts + best_time (friday slots have no signal, 18:00 New York kept). last 7d by views/saves/follows: eu "european chatgpt users find first" 937/0/4; eu 5 languages 454/0/0; us "superintelligence can't see" 389/0/3; us "finding where users quit" 268/6/0 (top saves); 10-21 posts 119-120; 10-22 eu 0 (too fresh). top saves: where users quit 6, terrifyingly good founder signs 5, recommended by superintelligence 5. -> swapped plan title to cluster 2 "5 niche signs your analytics is hiding why visitors leave" (P2), cover-3, keep-it hook. sources: plausible/saric adblock study (2021, updated 2026-05-12), google analytics help consent-mode modeling + cross-domain, google spa guide, cloudflare radar via letsdatascience (2026-06-04). tiktok only. scheduled 18:00 New York (22:00Z) post 6ada4fca10e1d9691f694ee9. track: Sunset in Girona - Noah Preminger & Max Light (last used 10-16). 8b: no comments.
 
 ## pillars
+2026-10-26, eu-main, P1
 2026-10-25, eu-main, P1
 2026-10-24, us-main, P1
 2026-10-24, eu-main, P1
@@ -219,3 +220,4 @@ Pulled 2026-10-25 ~17:10 UTC by eu-main, TikTok only (50 posts, sync 16:04Z). Ra
 
 eu-main 2026-10-26: plan made by this run. sources: searchable uk retailers study via resultsense (16 jul 2026), seer interactive ai brand accuracy study (may-jun 2026), tiktok only.
 - 2026-10-26 eu-main: facts from searchable via resultsense (16 jul 2026: 72,000 questions, 64% of businesses with a false fact, 1 in 16 answers false, 1 in 10 location answers wrong postcode) and seer interactive (may-jun 2026: 1,562 prompts, claude declined 46.3%, ai mode 24.1%, office address cited 223 times, 109 services not offered, own site ~35% of 219,349 citations).
+- 2026-10-26 eu-main: no track (zernio commercial music list empty for DE); tiktok 6ade38516ce960374df3b32d scheduled 18:00Z (19:00 Berlin); 8b: nothing published yet.
