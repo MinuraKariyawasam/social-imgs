@@ -218,3 +218,4 @@ Pulled 2026-10-25 ~17:10 UTC by eu-main, TikTok only (50 posts, sync 16:04Z). Ra
 - Plan: EU P1 cluster 1+3 "habits of founders who check what chatgpt says about them" (brand accuracy, new core topic), cover-4, copy-them hook. US P2 cluster 2 "find what users wanted and couldn't find" (site search, 404s), cover-1, save hook.
 
 eu-main 2026-10-26: plan made by this run. sources: searchable uk retailers study via resultsense (16 jul 2026), seer interactive ai brand accuracy study (may-jun 2026), tiktok only.
+- 2026-10-26 eu-main: facts from searchable via resultsense (16 jul 2026: 72,000 questions, 64% of businesses with a false fact, 1 in 16 answers false, 1 in 10 location answers wrong postcode) and seer interactive (may-jun 2026: 1,562 prompts, claude declined 46.3%, ai mode 24.1%, office address cited 223 times, 109 services not offered, own site ~35% of 219,349 citations).

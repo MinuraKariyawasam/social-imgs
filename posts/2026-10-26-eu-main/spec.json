@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-26",
+ "region": "eu",
+ "outdir": "posts/2026-10-26-eu-main",
+ "cover": {
+  "title": "5 niche habits of founders who check what chatgpt <span class=\"u\">says</span> about them",
+  "image": "cover-4.svg",
+  "hook": "(copy them)"
+ },
+ "inner": [
+  {
+   "title": "ask five assistants weekly",
+   "body": "seer interactive ran 1,562 brand prompts across six ai platforms and claude declined 46.3% of them, ai mode only 24.1%. one assistant's answer says nothing about the other five.",
+   "image": "painting-eakins-writing-master.jpg"
+  },
+  {
+   "title": "check the boring facts",
+   "body": "searchable asked chatgpt, gemini and perplexity over 72,000 questions about uk shops, and 64% of the businesses had at least one false fact. wrong postcodes showed up in 1 in 10 location answers.",
+   "image": "painting-caravaggio-boy-bitten-lizard.jpg"
+  },
+  {
+   "title": "trace every wrong answer",
+   "body": "in seer's study one old office address was cited 223 times, and a churn story traced back to a single 2018 review. stale sources can change in days to weeks, so find the page it read.",
+   "image": "painting-caravaggio-denial-of-peter.jpg"
+  },
+  {
+   "title": "say what you don't do",
+   "body": "seer found assistants crediting the agency with a service it doesn't offer 109 times. misreading your own site is the fastest error to fix, and it's your fault if the site never says no.",
+   "image": "painting-ducreux-mocker.jpg"
+  },
+  {
+   "title": "keep one brand canon",
+   "body": "the company's own website made up about 35% of the 219,349 citations in seer's study. if your headcount, address and pricing live on one page, you can finally check the answers against something.",
+   "image": "painting-rembrandt-aristotle.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "chatgpt repeats<br>what it finds.",
+  "SUBLINE": "1 in 16 chatbot answers about uk shops was false.",
+  "TONIGHT": "ask 5 chatbots your company name",
+  "THIS_WEEK": "write one page of brand facts",
+  "NEXT_WEEK": "fix the oldest wrong source",
+  "NEXT_TITLE": "5 niche ways to get press in europe without a pr agency"
+ }
+}
