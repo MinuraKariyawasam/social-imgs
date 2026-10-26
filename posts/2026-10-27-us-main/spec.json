@@ -1,0 +1,25 @@
+{
+ "date": "2026-10-27",
+ "region": "us",
+ "outdir": "posts/2026-10-27-us-main",
+ "cover": {
+  "title": "5 niche ways to get <span class=\"u\">recommended</span> by chatgpt when nobody links to you",
+  "image": "cover-3.svg",
+  "hook": "(save them)"
+ },
+ "inner": [
+  {"title": "own your brand searches", "body": "brand search volume correlates 0.334 with how often ai cites you, in a digital bloom analysis of 680 million citations. backlinks came out weak or neutral, so the links you chased matter less than people typing your name.", "image": "painting-eakins-the-thinker.jpg"},
+  {"title": "get into the roundups", "body": "listicles and comparison articles are 32.5% of all ai citations in that same data. if no best-of list mentions you, chatgpt has nothing third-party to repeat.", "image": "painting-kramskoi-unknown-woman.jpg"},
+  {"title": "refresh the old posts", "body": "65% of ai bot hits go to content published in the past year. the post you wrote two years ago is mostly being skipped.", "image": "painting-chardin-soap-bubbles.jpg"},
+  {"title": "check bing first", "body": "87% of chatgpt search citations matched bing's top 10 results, in a seer interactive check of over 500 citations. you optimized for google and ignored the index chatgpt leans on.", "image": "painting-greuze-broken-eggs.jpg"},
+  {"title": "get named in the query", "body": "in one public tracker of 57 chatgpt conversations (directional), brands named in chatgpt's own search query made the answer 68.9% of the time. brands it only fetched made it 2.1%.", "image": "painting-hals-merrymakers.jpg"}
+ ],
+ "closer": {
+  "HEADLINE": "chatgpt repeats<br>what others say.",
+  "SUBLINE": "comment the number you'll copy first.",
+  "TONIGHT": "search your brand in bing",
+  "THIS_WEEK": "pitch 3 best-of lists",
+  "NEXT_WEEK": "refresh your top 5 posts",
+  "NEXT_TITLE": "5 niche ways to read your analytics in 5 minutes, not 50"
+ }
+}
