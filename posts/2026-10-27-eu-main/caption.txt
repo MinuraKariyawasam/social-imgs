@@ -1,0 +1,15 @@
+5 niche ways to find which european country quits your checkout first
+
+1. build a ga4 funnel exploration and break it down by country
+2. read the next action card and note where each country goes quiet
+3. add ideal for the netherlands and bancontact for belgium
+4. show the vat-inclusive price before the last step
+5. test guest checkout so nobody hits an account wall
+
+which one are you skipping? comment the NUMBER you'll copy first
+
+#europeanstartups #founderseurope #ecommerce #ga4 @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

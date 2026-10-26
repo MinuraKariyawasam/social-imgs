@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-27",
+ "region": "eu",
+ "outdir": "posts/2026-10-27-eu-main",
+ "cover": {
+  "title": "5 niche ways to find which european country <span class=\"u\">quits</span> your checkout first",
+  "image": "cover-2.svg",
+  "hook": "(good luck)"
+ },
+ "inner": [
+  {
+   "title": "split the funnel by country",
+   "body": "ga4 funnel exploration lets you break every step down by a dimension and compare up to four segments. an average hides it, so build one segment per country and see who stops where.",
+   "image": "painting-vermeer-astronomer.jpg"
+  },
+  {
+   "title": "read the next action",
+   "body": "the top 5 next actions card shows what people do after each step, and a (no next action) entry can signal a drop-off. if germany leaves at payment and the netherlands doesn't, you know which page to open.",
+   "image": "painting-daumier-third-class-carriage.jpg"
+  },
+  {
+   "title": "offer the local bank",
+   "body": "stripe lists ideal as a netherlands method and bancontact as a belgium method, and a customer has 1 hour to approve a bancontact payment. if your checkout shows only cards, dutch and belgian buyers pay a way they don't use.",
+   "image": "painting-courbet-desperate-man.jpg"
+  },
+  {
+   "title": "show the vat price early",
+   "body": "baymard-based figures put extra costs as the top reason for leaving at 48%. under the eu price indication directive prices must include vat, and adding it silently at checkout is non-compliant.",
+   "image": "painting-latour-cheat-ace-of-diamonds.jpg"
+  },
+  {
+   "title": "kill the forced account",
+   "body": "26% of shoppers left because they had to create an account, and the average cart abandonment rate across 50 studies is 70.22%. every country sees the same wall, so test guest checkout first.",
+   "image": "painting-david-lavoisier-writing.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "your average<br>hides a country.",
+  "SUBLINE": "which one are you skipping? tell us below.",
+  "TONIGHT": "split your funnel by country",
+  "THIS_WEEK": "add one local payment method",
+  "NEXT_WEEK": "show vat before the last step",
+  "NEXT_TITLE": "5 niche ways to get press in europe without a pr agency"
+ }
+}

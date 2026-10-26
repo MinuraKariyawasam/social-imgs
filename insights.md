@@ -5,6 +5,13 @@
 - 6 a day from 2026-10-17: TikTok views fell about 84% per post after going from 2 to 10 a day (see 2026-10-17 analytics).
 - 8 scored posts as of 2026-10-16; no pillar, hook or hour has 2+ per region yet.
 
+## 2026-10-27 analytics
+Pulled 2026-10-26 ~17:15 UTC by eu-main, TikTok only (52 posts, sync 15:35Z). Ranking last 7 days (views/saves/follows): eu "beat the us brand chatgpt picks in europe" 633/3/3; eu "chatgpt quote your price in euros" 566/6/2 (top saves); us "rage clicks into revenue" 474/3/0; eu "read users in 5 languages" 456/4/0; us "chatgpt visitors to paying customers" 398/1/0; us "superintelligence can't see" 389/5/3; eu "source chatgpt quotes" 263/3/0. Weak (110-170): errors translated pages, perplexity signs, funnel by heart, cited before rivals, becoming the founder ai recommends, analytics hiding, almost paid.
+- Winners: cluster 1 europe-chatgpt titles (top 2 by views) and where-users-quit (rage clicks 474, 6 saves earlier). Losers: generic funnel habits, signs-titles with europe angle (111). best_time_to_post (tiktok): thin (1-2 posts per slot); kept 19:00 Berlin (18:00Z) and 18:00 NY.
+- Plan: EU P2 cluster 2 + europe "which european country quits your checkout first" (p1 four days running and every cluster 1 europe topic used in last 14 days), cover-2, call-out hook (good luck). US P1 cluster 1 "which channel actually pays you", cover-3.
+
+eu-main: plan made by this run. sources: stripe docs ideal (wero migration noted) and bancontact, ga4 funnel exploration help page, eas project price display obligations (PID/CRD), baymard figures via ringly (48% extra costs, 26% account, 70.22% avg; labeled baymard-based). tiktok only, music list not fetched this run (see step 8).
+
 ## 2026-10-21 analytics
 Pulled 2026-10-20 ~17:10 UTC by eu-main, TikTok only (40 posts, sync 15:53Z). Ranking last 7 days (views/saves/follows): eu "become the founder european chatgpt users find first" 920/15/4 (new best, still growing); eu "read users in 5 languages" 448/5/0; us "get recommended by superintelligence" 431/5/2 (10-13); us "terrifyingly good founder signs" 414/5/0 (10-14); us "superintelligence can't see on your website" 306/5/2; us "finding where users quit" 265/0/0. Every 6-a-day post from 10-14 19:00Z to 10-17 stays 1-7 views. 2 a day is holding: 10-18 to 10-19 avg ~485 views per post vs 288 baseline.
 - Winners: cluster 1 (ai assistants finding or citing you, europe angle) and founder-identity titles lead on saves and follows. best_time_to_post (tiktok): wednesday 18z 26 avg engagement (1 post), 17z 10.5 (2 posts), too thin; kept 19:00 Berlin (17:00Z) and 18:00 New York.
@@ -44,6 +51,7 @@ us-main: no change in the numbers since the plan (TikTok 36 + Instagram 35 posts
 us-main 2026-10-23: pulled TikTok 45 posts + best_time (friday slots have no signal, 18:00 New York kept). last 7d by views/saves/follows: eu "european chatgpt users find first" 937/0/4; eu 5 languages 454/0/0; us "superintelligence can't see" 389/0/3; us "finding where users quit" 268/6/0 (top saves); 10-21 posts 119-120; 10-22 eu 0 (too fresh). top saves: where users quit 6, terrifyingly good founder signs 5, recommended by superintelligence 5. -> swapped plan title to cluster 2 "5 niche signs your analytics is hiding why visitors leave" (P2), cover-3, keep-it hook. sources: plausible/saric adblock study (2021, updated 2026-05-12), google analytics help consent-mode modeling + cross-domain, google spa guide, cloudflare radar via letsdatascience (2026-06-04). tiktok only. scheduled 18:00 New York (22:00Z) post 6ada4fca10e1d9691f694ee9. track: Sunset in Girona - Noah Preminger & Max Light (last used 10-16). 8b: no comments.
 
 ## pillars
+2026-10-27, eu-main, P2
 2026-10-26, eu-main, P1
 2026-10-25, eu-main, P1
 2026-10-24, us-main, P1
