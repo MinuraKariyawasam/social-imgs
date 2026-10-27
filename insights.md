@@ -51,6 +51,7 @@ us-main: no change in the numbers since the plan (TikTok 36 + Instagram 35 posts
 us-main 2026-10-23: pulled TikTok 45 posts + best_time (friday slots have no signal, 18:00 New York kept). last 7d by views/saves/follows: eu "european chatgpt users find first" 937/0/4; eu 5 languages 454/0/0; us "superintelligence can't see" 389/0/3; us "finding where users quit" 268/6/0 (top saves); 10-21 posts 119-120; 10-22 eu 0 (too fresh). top saves: where users quit 6, terrifyingly good founder signs 5, recommended by superintelligence 5. -> swapped plan title to cluster 2 "5 niche signs your analytics is hiding why visitors leave" (P2), cover-3, keep-it hook. sources: plausible/saric adblock study (2021, updated 2026-05-12), google analytics help consent-mode modeling + cross-domain, google spa guide, cloudflare radar via letsdatascience (2026-06-04). tiktok only. scheduled 18:00 New York (22:00Z) post 6ada4fca10e1d9691f694ee9. track: Sunset in Girona - Noah Preminger & Max Light (last used 10-16). 8b: no comments.
 
 ## pillars
+2026-10-28, us-main, P4
 2026-10-28, eu-main, P1
 2026-10-27, eu-main, P2
 2026-10-26, eu-main, P1
@@ -245,3 +246,5 @@ Pulled 2026-10-27 ~17:10 UTC by eu-main, TikTok only (54 posts). Ranking last 7 
 
 eu-main 2026-10-28: plan made by this run. sources: terminus tracking-ai-referral-traffic (upd 16 sep 2026), support.google.com/analytics/answer/9976101 (consent mode), support.google.com/analytics/answer/11161109 (modeling thresholds: 1,000 denied events a day for 7 days), developers.openai.com/api/docs/bots (oai-searchbot, chatgpt-user). tiktok only.
 - 2026-10-28 eu-main: track Lost in the Clouds - NyKuo (zernio music list returned 100 tracks for DE); scheduled 19:00 Berlin, tiktok 6ae0dbe0c0b4bbf1853c990b at 18:00Z; 8b: nothing published yet.
+
+us-main 2026-10-28 (tiktok only): pulled 54 posts. 7d by views/saves: eu beat-us-brand 635/0, eu euro price 567/0, us "check what chatgpt says" 524/0, rage clicks 474/0, chatgpt visitors to customers 402/1; saves in this pull lag (top: analytics hiding 2, visitors to customers 1). best_time_to_post wed 18z 26 (1 post) vs 22z 5 -> kept 18:00 NY. Clusters 1 used 10-24/10-27/eu today -> kept plan row (cluster 3 founder identity + cluster 2 spotting drops). sources: measureu custom alerts GA4 (upd 13 oct 2026), measureu GA4 update frequency (upd 13 oct 2026), trackingplan GA4 anomaly detection (15 feb 2026, vendor, used for named examples only). track: Sunset in Girona - Noah Preminger & Max Light (last used 10-23). tiktok 6ae0e62d22bf6a862ad9703b at 22:00Z. 8b: nothing published yet.
