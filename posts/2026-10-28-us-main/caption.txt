@@ -1,0 +1,15 @@
+5 niche habits of founders who spot a drop before their users do
+
+1. open ga4 real-time right after every deploy and test the page you changed
+2. turn on suggested insights and email notifications tonight
+3. set an alert for sign-ups or purchases "less than" your daily floor
+4. write down every deploy time so you can match it to a drop
+5. judge trends on the day before yesterday, not yesterday
+
+which one are you skipping? tell us below
+
+#startupfounder #saas #analytics #ga4 @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.

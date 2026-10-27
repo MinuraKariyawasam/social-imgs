@@ -1,0 +1,25 @@
+{
+ "date": "2026-10-28",
+ "region": "us",
+ "outdir": "posts/2026-10-28-us-main",
+ "cover": {
+  "title": "5 niche habits of founders who spot a <span class=\"u\">drop</span> before their users do",
+  "image": "cover-1.svg",
+  "hook": "(good luck)"
+ },
+ "inner": [
+  {"title": "watch the last 30 minutes", "body": "ga4's real-time report only shows users from the last 30 minutes. after every deploy, open it and fire the page you just changed, because that window is the only place a break shows up before tomorrow.", "image": "painting-vermeer-astronomer.jpg"},
+  {"title": "switch on suggested insights", "body": "ga4 offers ready-made anomaly alerts for daily event count, views and conversions, with email notifications. most founders never turn the slider on, so the first person to see the drop is a customer.", "image": "painting-latour-fortune-teller.jpg"},
+  {"title": "alert on a floor", "body": "ga4 alerts can fire when a metric is less than a number you set, on an hourly, daily or weekly check. an anomaly alert only reads data it receives, so a deleted tag sends zero data and zero alerts.", "image": "painting-munch-the-scream.jpg"},
+  {"title": "log every deploy time", "body": "trackingplan's examples tie drops like a 40% add_to_cart decline to the release that stripped the tag from checkout pages. if you can't say when you last shipped, you can't tell a bug from a bad day.", "image": "painting-courbet-desperate-man.jpg"},
+  {"title": "never judge yesterday", "body": "reports for the last two days may be incomplete, so a scary yesterday is often a draft. judge trends on the day before yesterday, and use real-time for anything that can't wait.", "image": "painting-hals-laughing-cavalier.jpg"}
+ ],
+ "closer": {
+  "HEADLINE": "your users find<br>the bug first.",
+  "SUBLINE": "which one are you skipping? tell us below.",
+  "TONIGHT": "turn on suggested insights",
+  "THIS_WEEK": "set a floor on sign-ups",
+  "NEXT_WEEK": "log every deploy time",
+  "NEXT_TITLE": "5 niche ways to read your analytics in 5 minutes, not 50"
+ }
+}
