@@ -244,3 +244,4 @@ Pulled 2026-10-27 ~17:10 UTC by eu-main, TikTok only (54 posts). Ranking last 7 
 - Plan: EU P1 cluster 1+2 "find the european chatgpt visitors your analytics hides" (direct bucket, ga4 channel group, consent mode gap, server log agents, utm filter), save hook, cover-4. US P4 cluster 3 "habits of founders who spot a drop before their users do", call-out hook, cover-1.
 
 eu-main 2026-10-28: plan made by this run. sources: terminus tracking-ai-referral-traffic (upd 16 sep 2026), support.google.com/analytics/answer/9976101 (consent mode), support.google.com/analytics/answer/11161109 (modeling thresholds: 1,000 denied events a day for 7 days), developers.openai.com/api/docs/bots (oai-searchbot, chatgpt-user). tiktok only.
+- 2026-10-28 eu-main: track Lost in the Clouds - NyKuo (zernio music list returned 100 tracks for DE); scheduled 19:00 Berlin, tiktok 6ae0dbe0c0b4bbf1853c990b at 18:00Z; 8b: nothing published yet.
