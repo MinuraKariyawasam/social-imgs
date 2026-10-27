@@ -1,0 +1,45 @@
+{
+ "date": "2026-10-28",
+ "region": "eu",
+ "outdir": "posts/2026-10-28-eu-main",
+ "cover": {
+  "title": "5 niche ways to find the european chatgpt visitors your analytics <span class=\"u\">hides</span>",
+  "image": "cover-4.svg",
+  "hook": "(save them)"
+ },
+ "inner": [
+  {
+   "title": "check the direct bucket",
+   "body": "terminus says most assistant traffic arrives with no referrer, so it lands in direct, and chatgpt mobile apps almost never send one. your newest channel may be filed under a name you ignore.",
+   "image": "painting-repin-unexpected-visitors.jpg"
+  },
+  {
+   "title": "build the assistant channel",
+   "body": "ga4's ai assistant channel covers chatgpt, gemini, deepseek, copilot and grok, but not claude or perplexity. those two stay in referral until you add a custom channel group above it.",
+   "image": "painting-terborch-curiosity.jpg"
+  },
+  {
+   "title": "count the consent gap",
+   "body": "when a visitor denies analytics_storage, ga4 sets no cookies and sends cookieless pings for modeling. modeling needs 1,000 events a day with consent denied for 7 days, so a small site may get none.",
+   "image": "painting-fedotov-fresh-cavalier.jpg"
+  },
+  {
+   "title": "read the server log",
+   "body": "openai names two agents: oai-searchbot surfaces sites in chatgpt search, and chatgpt-user opens a page when someone asks a question. count both in your server log, because a tag built for browsers will never list them.",
+   "image": "painting-eakins-writing-master.jpg"
+  },
+  {
+   "title": "filter the utm tag",
+   "body": "terminus says chatgpt on desktop web appends utm_source=chatgpt.com to citation links, so you can filter it. app clicks carry nothing, so treat that number as a floor, not the total.",
+   "image": "painting-leutze-washington-delaware.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "chatgpt is already<br>sending visitors.",
+  "SUBLINE": "which one are you skipping? tell us below.",
+  "TONIGHT": "open your direct channel in ga4",
+  "THIS_WEEK": "add a custom ai channel group",
+  "NEXT_WEEK": "check your server log for bots",
+  "NEXT_TITLE": "5 niche ways to get press in europe without a pr agency"
+ }
+}

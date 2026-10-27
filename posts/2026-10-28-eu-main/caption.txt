@@ -1,0 +1,15 @@
+5 niche ways to find the european chatgpt visitors your analytics hides
+
+1. open your direct channel in ga4 and compare it to the days you got cited
+2. add a custom channel group so claude and perplexity stop hiding in referral
+3. count how many visitors deny analytics storage on your consent banner
+4. search your server log for oai-searchbot and chatgpt-user
+5. filter utm_source=chatgpt.com and treat the count as a floor
+
+which one are you skipping? comment the NUMBER you'll copy first
+
+#europeanstartups #founderseurope #aiseo #ga4 @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.
