@@ -255,3 +255,5 @@ Pulled 2026-10-30 ~17:10 UTC by eu-main, TikTok only (35 posts since 10-16). Ran
 - Plan: EU P2 cluster 2 "find the form field european users quit on" (new core topic: field-level), cover-2, save hook. US P1 cluster 1 "show up in the pages chatgpt actually cites about you", cover-3, comment-the-number hook.
 
 eu-main 2026-10-31: plan made by this run. sources: baymard checkout-flow-average-form-fields (26 jun 2024), baymard checkout-form-fields, support.google.com/analytics/answer/9216061 (undated), mapatlas eu postal code formats (20 jul 2026), flexfulfillment address formats (8 feb 2026, mod 2 sep 2026). tiktok only.
+- 2026-10-31 eu-main: track Take It Slow - Muspace Lofi (7161093970616682498); scheduled 19:00 Berlin, tiktok 6ae4d014efbaaabb79957e41 at 18:00Z; 8b: nothing published yet.
+- pillars: 2026-10-31, eu-main, P2
