@@ -1,0 +1,46 @@
+{
+ "date": "2026-10-31",
+ "region": "eu",
+ "outdir": "posts/2026-10-31-eu-main",
+ "cover": {
+  "title": "5 niche ways to find the <span class=\"u\">form field</span> european users quit on",
+  "image": "cover-2.svg",
+  "hook": "(save them)"
+ },
+ "inner": [
+  {
+   "title": "count your fields",
+   "body": "baymard counted an average of 11.3 checkout fields in 2024 and says most sites need only 8. every field past eight is one you can't defend.",
+   "image": "painting-villers-du-val-dognes.jpg"
+  },
+  {
+   "title": "merge the name fields",
+   "body": "baymard found 89% of benchmarked sites ask for more than one name field. 42% of testers typed their full name into first name anyway.",
+   "image": "painting-elgreco-cardinal.jpg"
+  },
+  {
+   "title": "hide address line 2",
+   "body": "75% of sites show address line 2 by default. 30% of baymard's testers stopped right there. baymard says to hide it behind a link.",
+   "image": "painting-caravaggio-boy-bitten-lizard.jpg"
+  },
+  {
+   "title": "accept every postcode",
+   "body": "the netherlands uses 1011 AB, poland 00-001, portugal 1000-001, ireland D02 X285. a five-digit rule rejects all four, and the error never says which field.",
+   "image": "painting-wood-american-gothic.jpg"
+  },
+  {
+   "title": "compare start to submit",
+   "body": "ga4 logs form_start and form_submit with the form's id, name and destination. it never records which field people left, so send field names as your own event."
+   ,
+   "image": "painting-david-lavoisier-writing.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "your form is asking.<br>they're leaving.",
+  "SUBLINE": "which one are you skipping? tell us below.",
+  "TONIGHT": "count your checkout fields",
+  "THIS_WEEK": "test every postcode you sell to",
+  "NEXT_WEEK": "log the last field before exit",
+  "NEXT_TITLE": "5 niche ways to grow on x when your audience is in 12 time zones"
+ }
+}

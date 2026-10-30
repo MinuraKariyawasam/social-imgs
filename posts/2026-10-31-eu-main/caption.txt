@@ -1,0 +1,15 @@
+5 niche ways to find the form field european users quit on
+
+1. count your checkout fields, baymard says 8 is enough and the average is 11.3
+2. merge first and last name into one full name field
+3. hide address line 2 behind a link
+4. test a real postcode from every country you sell to
+5. compare form_start to form_submit in ga4 and log the last field before exit
+
+which one are you skipping? comment the NUMBER you'll copy first
+
+#europeanstartups #founderseurope #ga4 #ecommerce @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.
