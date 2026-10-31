@@ -1,0 +1,45 @@
+{
+ "date": "2026-11-01",
+ "region": "us",
+ "outdir": "posts/2026-11-01-us-main",
+ "cover": {
+  "title": "5 niche ways to find out why visitors leave your <span class=\"u\">pricing page</span>",
+  "image": "cover-1.svg",
+  "hook": "(comment the number)"
+ },
+ "inner": [
+  {
+   "title": "build an exits report",
+   "body": "ga4's standard reports don't show exits, so open explore and add page path with the exits metric. if /pricing tops the list, you've been fixing the wrong page.",
+   "image": "painting-vermeer-astronomer.jpg"
+  },
+  {
+   "title": "read the scroll map",
+   "body": "a clarity scroll map shows what share of visitors reached each depth, and one guide puts typical pricing page depth at 55 to 70%. if your plans sit below where most people stop, they never saw the price.",
+   "image": "painting-kramskoi-unknown-woman.jpg"
+  },
+  {
+   "title": "spot the feature wall",
+   "body": "cux describes visitors who scroll fast, then rage click feature names that aren't clickable, because they can't tell the tiers apart. a 5 column, 40 row table isn't a choice, it's homework.",
+   "image": "painting-munch-the-scream.jpg"
+  },
+  {
+   "title": "ask one exit question",
+   "body": "zoho suggests asking pricing page visitors if they found what they needed somewhere else, in under fifteen seconds. skip it and you're guessing between price and confusion.",
+   "image": "painting-eakins-writing-master.jpg"
+  },
+  {
+   "title": "mark one plan recommended",
+   "body": "cux says visitors leave because the layout is confusing, not because the price is high, and its vwfs case study reports 45% more leads with no change to price. your price may be fine and the page is what loses them.",
+   "image": "painting-steen-feast-of-st-nicholas.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "the page lost them,<br>not the price.",
+  "SUBLINE": "comment the number you'll copy first.",
+  "TONIGHT": "build the exits report",
+  "THIS_WEEK": "watch 10 pricing recordings",
+  "NEXT_WEEK": "add the one-question survey",
+  "NEXT_TITLE": "5 niche ways to read your analytics in 5 minutes, not 50"
+ }
+}

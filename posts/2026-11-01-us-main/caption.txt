@@ -1,0 +1,15 @@
+5 niche ways to find out why visitors leave your pricing page
+
+1. build an exits report in ga4 explore with page path and exits
+2. open a clarity scroll map on your pricing page and note where most people stop
+3. watch recordings for fast scrolling and rage clicks on feature names
+4. ask one exit question: did you find what you needed somewhere else?
+5. mark one plan as recommended and compare conversions
+
+comment the NUMBER you'll copy first
+
+#startupfounder #saas #analytics #ga4 @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.
