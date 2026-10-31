@@ -1,0 +1,45 @@
+{
+ "date": "2026-11-01",
+ "region": "eu",
+ "outdir": "posts/2026-11-01-eu-main",
+ "cover": {
+  "title": "5 niche ways to become the european <span class=\"u\">alternative</span> chatgpt names",
+  "image": "cover-4.svg",
+  "hook": "(save them)"
+ },
+ "inner": [
+  {
+   "title": "unblock oai-searchbot",
+   "body": "openai says oai-searchbot is what surfaces sites in chatgpt search, while gptbot is only for training. a site that blocks the search bot won't appear in answers, and a fix takes about 24 hours.",
+   "image": "painting-ducreux-yawning.jpg"
+  },
+  {
+   "title": "write a replaces line",
+   "body": "papermark's list of 100 european tools gives each one a replaces line naming the us product, plus a starting price. skip that line on your own page and nobody can match you to the question.",
+   "image": "painting-eakins-the-thinker.jpg"
+  },
+  {
+   "title": "name your data centre city",
+   "body": "european-alternatives.eu tags listings eu hosted, and papermark names hetzner's nuremberg, falkenstein and helsinki. most entries name no city, so the vague ones blur together.",
+   "image": "painting-rembrandt-syndics.jpg"
+  },
+  {
+   "title": "keep one euro price",
+   "body": "papermark lists plausible at €9 a month. the same page prices proton mail business at $7.99 in one place and $12.99 in another. two prices on your site and an assistant can quote either.",
+   "image": "painting-greuze-broken-eggs.jpg"
+  },
+  {
+   "title": "audit your listing",
+   "body": "european-alternatives.eu lets anyone suggest a product with an account and describes no review. papermark says all 100 tools are eu, eea or swiss, then includes three uk ones. check how you're listed.",
+   "image": "painting-latour-cheat-ace-of-diamonds.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "they ask for an alternative.<br>are you the answer?",
+  "SUBLINE": "which one are you skipping? comment the NUMBER you'll copy first.",
+  "TONIGHT": "allow oai-searchbot in robots.txt",
+  "THIS_WEEK": "add a replaces line and one euro price",
+  "NEXT_WEEK": "fix your listing on 3 directories",
+  "NEXT_TITLE": "5 niche ways to get press in europe without a pr agency"
+ }
+}
