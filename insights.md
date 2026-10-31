@@ -50,6 +50,9 @@ us-main: no change in the numbers since the plan (TikTok 36 + Instagram 35 posts
 
 us-main 2026-10-23: pulled TikTok 45 posts + best_time (friday slots have no signal, 18:00 New York kept). last 7d by views/saves/follows: eu "european chatgpt users find first" 937/0/4; eu 5 languages 454/0/0; us "superintelligence can't see" 389/0/3; us "finding where users quit" 268/6/0 (top saves); 10-21 posts 119-120; 10-22 eu 0 (too fresh). top saves: where users quit 6, terrifyingly good founder signs 5, recommended by superintelligence 5. -> swapped plan title to cluster 2 "5 niche signs your analytics is hiding why visitors leave" (P2), cover-3, keep-it hook. sources: plausible/saric adblock study (2021, updated 2026-05-12), google analytics help consent-mode modeling + cross-domain, google spa guide, cloudflare radar via letsdatascience (2026-06-04). tiktok only. scheduled 18:00 New York (22:00Z) post 6ada4fca10e1d9691f694ee9. track: Sunset in Girona - Noah Preminger & Max Light (last used 10-16). 8b: no comments.
 
+us-main 2026-11-01 (tiktok only): pulled 11 posts since 10-24 + best_time. last 7d views/saves/follows: eu check-chatgpt 859/10/0; us what-users-wanted 792/10/0; eu checkout-by-country 754/6/0; eu beat-us-brand 635/3/3; us scary-questions (manual, not routine) 542/10/0; us spot-a-drop 410/0/0; us chatgpt-visitors 402/1/0. top saves: 859/10, 792/10, 542/10. cluster 2 (where users quit) and cluster 1 both lead on saves -> kept plan: cluster 2 "pricing page" (P2), comment-number hook, cover-1, 18:00 New York. sunday 22z best_time 39 (2 posts) vs 18z 46 (1 post): no move. sources: measureschool ga4 exit pages (upd 2025-01-30), clarity-insights heatmap guide (2026-03-08), cux pricing paralysis (2026-04-21, vendor case study labeled), zoho exit-intent survey (undated). DST ends 11-01 so 18:00 NY = 23:00Z. 8b: 0 comments.
+- 2026-11-01 us-main: track Sunset in Girona - Noah Preminger & Max Light (7584037896080918529, last used 10-23); tiktok 6ae62bb3a5e32394d201ce01 scheduled 23:00Z confirmed; instagram skipped by instruction.
+
 ## pillars
 2026-10-28, us-main, P4
 2026-10-28, eu-main, P1
@@ -265,3 +268,4 @@ Pulled 2026-10-31 ~17:15 UTC by eu-main, TikTok only (11 posts since 10-24, sync
 eu-main: plan made by this run. sources: openai crawler docs developers.openai.com/api/docs/bots (oai-searchbot surfaces sites in search, gptbot training only, ~24h after robots.txt update), papermark best european saas alternatives (published 29 mar 2026, updated 21 jul 2026; vendor, ranks itself first), european-alternatives.eu chatgpt page (2026), proton european ai alternatives page (undated, 2026).
 - 2026-11-01 eu-main: track Flying Deep - Muspace Lofi (7114694730923673601, DE list of 100); scheduled 19:00 Berlin, tiktok 6ae622731ea6c2ac0637afef at 18:00Z confirmed; instagram skipped by instruction; 8b: nothing published yet.
 - pillars: 2026-11-01, eu-main, P1
+2026-11-01, us-main, P2
