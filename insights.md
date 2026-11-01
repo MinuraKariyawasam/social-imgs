@@ -275,3 +275,5 @@ Pulled 2026-11-01 ~17:10 UTC by eu-main, TikTok only (instagram paused; 24 posts
 - Winners: cluster 2 (where users quit, concrete step) and cluster 1 brand/check-chatgpt lead on saves. Losers: us identity/habit titles with 0 saves. best_time_to_post (tiktok): monday 18z 46 (1 post), 22z 39 (2); thin, kept 19:00 Berlin (18:00Z) and 18:00 NY (23:00Z after DST).
 - Plan: EU P1 cluster 1 "find the questions european buyers ask chatgpt first" (new core topic: prompt research), save hook, cover-2. US P3 "make your site readable by claude and chatgpt", save hook, cover-3.
 eu-main: plan made by this run. sources: discoveredlabs mining-sales-calls (30 jul 2026), help.peec.ai which prompts to track (upd 29 oct 2026), eclincher find questions customers ask ai (20 oct 2026), tryanalyze buyer prompts (undated, 2026; small-sample figures labeled directional). tiktok only.
+- 2026-11-02 eu-main: track Moonlight Becomes You - Muspace Lofi (7142901092295116801, DE list of 100); scheduled 19:00 Berlin, tiktok 6ae77298ed80d5847109991e at 18:00Z confirmed; instagram skipped by instruction; 8b: nothing published yet.
+- pillars: 2026-11-02, eu-main, P1
