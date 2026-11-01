@@ -1,0 +1,45 @@
+{
+ "date": "2026-11-02",
+ "region": "eu",
+ "outdir": "posts/2026-11-02-eu-main",
+ "cover": {
+  "title": "5 niche ways to find the <span class=\"u\">questions</span> european buyers ask chatgpt first",
+  "image": "cover-2.svg",
+  "hook": "(save them)"
+ },
+ "inner": [
+  {
+   "title": "mine your lost deals",
+   "body": "discovered labs says patterns show up after 50 to 100 customer talks, so start with closed-lost notes and 90 days of pre-sale tickets. if you've never read those, you are guessing what buyers ask.",
+   "image": "painting-labille-guiard-two-pupils.jpg"
+  },
+  {
+   "title": "export search console",
+   "body": "one guide says export 12 months of terms, drop your brand name, and keep the top 100 by impressions. leave your own name in and you are only counting people who already knew you.",
+   "image": "painting-rembrandt-aristotle.jpg"
+  },
+  {
+   "title": "add three details",
+   "body": "in one small test, questions with three or more details named a brand in 81.0% of answers, against 41.5% with none. it rests on just 10 and 6 prompts, so a vague question is a hint, not proof.",
+   "image": "painting-bronzino-young-man.jpg"
+  },
+  {
+   "title": "ask in every market",
+   "body": "peec advises running the same prompt in each place you sell. test only in english and you know one market, not the six you pay for.",
+   "image": "painting-hals-merrymakers.jpg"
+  },
+  {
+   "title": "test 30 in an afternoon",
+   "body": "eclincher puts about 30 prompts across three tools at roughly an afternoon, logging the brands named and the sources cited. that is a few hours standing between you and the answer you keep guessing.",
+   "image": "painting-ducreux-mocker.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "they asked chatgpt before they found you.<br>do you know what they asked?",
+  "SUBLINE": "which one are you skipping? comment the NUMBER you'll copy first.",
+  "TONIGHT": "export 100 search console terms",
+  "THIS_WEEK": "get sales' 10 most asked questions",
+  "NEXT_WEEK": "test 30 prompts in 3 engines",
+  "NEXT_TITLE": "5 niche ways to get press in europe without a pr agency"
+ }
+}

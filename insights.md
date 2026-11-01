@@ -269,3 +269,9 @@ eu-main: plan made by this run. sources: openai crawler docs developers.openai.c
 - 2026-11-01 eu-main: track Flying Deep - Muspace Lofi (7114694730923673601, DE list of 100); scheduled 19:00 Berlin, tiktok 6ae622731ea6c2ac0637afef at 18:00Z confirmed; instagram skipped by instruction; 8b: nothing published yet.
 - pillars: 2026-11-01, eu-main, P1
 2026-11-01, us-main, P2
+
+## 2026-11-02 analytics
+Pulled 2026-11-01 ~17:10 UTC by eu-main, TikTok only (instagram paused; 24 posts since 10-18, sync 16:47Z). Ranking last 7 days (views/saves/follows): eu "check what chatgpt says about them" 860/10/0; us "what users wanted and couldn't find" 792/10/0; eu "european country quits your checkout" 754/6/0; eu "form field european users quit on" 694/7/0; eu "beat the us brand" 635/3/3; "6 scary questions" 552/10/0; us "spot a drop" 410/0; us "chatgpt visitors into customers" 402/1. Weak: us "get recommended when nobody links" 279/0, eu "source chatgpt quotes" 270/3, "analytics hides" 232/2/1, "almost paid" 184/2.
+- Winners: cluster 2 (where users quit, concrete step) and cluster 1 brand/check-chatgpt lead on saves. Losers: us identity/habit titles with 0 saves. best_time_to_post (tiktok): monday 18z 46 (1 post), 22z 39 (2); thin, kept 19:00 Berlin (18:00Z) and 18:00 NY (23:00Z after DST).
+- Plan: EU P1 cluster 1 "find the questions european buyers ask chatgpt first" (new core topic: prompt research), save hook, cover-2. US P3 "make your site readable by claude and chatgpt", save hook, cover-3.
+eu-main: plan made by this run. sources: discoveredlabs mining-sales-calls (30 jul 2026), help.peec.ai which prompts to track (upd 29 oct 2026), eclincher find questions customers ask ai (20 oct 2026), tryanalyze buyer prompts (undated, 2026; small-sample figures labeled directional). tiktok only.
