@@ -1,0 +1,45 @@
+{
+ "date": "2026-11-02",
+ "region": "us",
+ "outdir": "posts/2026-11-02-us-main",
+ "cover": {
+  "title": "5 niche ways to make your site <span class=\"u\">readable</span> by claude and chatgpt",
+  "image": "cover-3.svg",
+  "hook": "(save them)"
+ },
+ "inner": [
+  {
+   "title": "one h1, clean h2s",
+   "body": "airops research cited by vercel found pages with clean heading hierarchy and matching schema earned 2.8x higher ai citation rates. if your page has three h1s and no h2s, a model is reading a pile.",
+   "image": "painting-caravaggio-denial-of-peter.jpg"
+  },
+  {
+   "title": "answer in line one",
+   "body": "vercel advises answer-first sections and paragraphs of 2 to 4 sentences. bury the answer under a story and the model quotes the page that didn't.",
+   "image": "painting-chardin-soap-bubbles.jpg"
+  },
+  {
+   "title": "put prices in a table",
+   "body": "one agency guide says to use html tables for comparison data like plans and features. a pricing grid built from styled divs reads as a mess of words.",
+   "image": "painting-latour-fortune-teller.jpg"
+  },
+  {
+   "title": "show the faq",
+   "body": "the same guide wants visible questions and answers with faqpage schema in the raw html. hide them in a dropdown that loads late and the schema describes text nobody can read.",
+   "image": "painting-hals-laughing-cavalier.jpg"
+  },
+  {
+   "title": "don't trust schema alone",
+   "body": "vercel found pages with three or more relevant schema types were about 13% more likely to be cited. it also says schema supports visible content but can't fix vague language.",
+   "image": "painting-courbet-desperate-man.jpg"
+  }
+ ],
+ "closer": {
+  "HEADLINE": "they asked chatgpt.<br>can it read your page?",
+  "SUBLINE": "which one are you skipping? comment the NUMBER you'll copy first.",
+  "TONIGHT": "count the h1s on your homepage",
+  "THIS_WEEK": "rewrite 3 section openers",
+  "NEXT_WEEK": "turn pricing into a real table",
+  "NEXT_TITLE": "5 niche habits of founders who make one fix a day"
+ }
+}

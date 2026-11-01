@@ -1,0 +1,15 @@
+5 niche ways to make your site readable by claude and chatgpt
+
+1. open your homepage source and count the h1 tags, aim for exactly one
+2. rewrite the first line of every section so it answers the question on its own
+3. rebuild your pricing grid as a real html table
+4. show your faq as visible text with faqpage schema in the raw html
+5. add schema only after the visible copy says something specific
+
+which one are you skipping? comment the NUMBER you'll copy first
+
+#startupfounder #saas #aiseo #chatgpt @getclerionhq
+
+Website intelligence for AI founders.
+
+Web analytics, AI traffic, conversions, errors and speed from one script tag. Clerion finds the patterns in the data every day and tells you the one fix to make first.
